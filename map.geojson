@@ -1,0 +1,5381 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0529729873135,
+                    49.525661242961363
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "244",
+                "Description": "Brickers Road and Manitou by mailboxes",
+                "Storz": "Yes"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04310870665451,
+                    49.5283184666858
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "288",
+                "Description": "Manitou at Brenners Road",
+                "Storz": "Yes"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04362972951931,
+                    49.527669042669991
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "287",
+                "Description": "Manitou Rd near old home hardware site",
+                "Storz": "Yes"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0433547695839,
+                    49.527053308940509
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "289",
+                "Description": "Fernie Transfer Station",
+                "Storz": "Yes"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04454875995388,
+                    49.52726942014899
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "286",
+                "Description": "Manitou Road at new home hardware site - North Entrance",
+                "Storz": "Yes"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04585298438903,
+                    49.526803191592293
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "285",
+                "Description": "Manitou Road at new home hardware site - South Entrance",
+                "Storz": "Yes"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04677612102277,
+                    49.526531020402
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "284",
+                "Description": "Manitou Road and Shadow Road",
+                "Storz": "Yes"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0467320900991,
+                    49.528216510710614
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "266",
+                "Description": "Brenner Rd. (B.C. Hydro Site)",
+                "Storz": "Yes"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05475493132518,
+                    49.525096404038536
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "163",
+                "Description": "Chamber of Commerce",
+                "Storz": "No"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04801817126047,
+                    49.526251364825121
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "228",
+                "Description": "Manitou Rd & Shadow Rd",
+                "Storz": "No"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05010690161976,
+                    49.526605762338562
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "131",
+                "Description": "Kutenai Road & Ktunaxa Road",
+                "Storz": "No"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04862631543645,
+                    49.526928439638446
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "132",
+                "Description": "Ktunaxa Road & Shadow Road",
+                "Storz": "Yes"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06681587133157,
+                    49.526673895407541
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "261",
+                "Description": "Canyon Peaks Court - West Entrance",
+                "Storz": "Yes"
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06899129989557,
+                    49.522548551701036
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "250",
+                "Description": "Alpine - Lodge Trail Lane",
+                "Storz": "Yes"
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07153073030425,
+                    49.521363430181651
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "254",
+                "Description": "Alpine - The Lodges",
+                "Storz": "UNKN"
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07069545878676,
+                    49.522466422161017
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "253",
+                "Description": "Alpine - The Lodges",
+                "Storz": "UNKN"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.070110778606,
+                    49.522208504535079
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "252",
+                "Description": "Alpine - The Lodges",
+                "Storz": "UNKN"
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06970989642728,
+                    49.5214316084611
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "251",
+                "Description": "Alpine  - The Lodges",
+                "Storz": "UNKN"
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06702129717242,
+                    49.527264784048434
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "189",
+                "Description": "490 Canyon Tr",
+                "Storz": "Yes"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06589165132959,
+                    49.526561279407325
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "190",
+                "Description": "440 Canyon Tr",
+                "Storz": "Yes"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06511373005648,
+                    49.520522260088093
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "117",
+                "Description": "4 Aspen Cres",
+                "Storz": "No"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06622353750457,
+                    49.519428948155443
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "116",
+                "Description": "House #32 Aspen Cres",
+                "Storz": "Yes"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06536917229573,
+                    49.52370432490742
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "259",
+                "Description": "Alpine Trail Place",
+                "Storz": "Yes"
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06890509576425,
+                    49.524333057137163
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "222",
+                "Description": "29 Alpine Trail Cres",
+                "Storz": "No"
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06850896208017,
+                    49.523233053248433
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "221",
+                "Description": "12 Alpine Trail Cres",
+                "Storz": "No"
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0676277893466,
+                    49.522140544851965
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "199",
+                "Description": "Alpine Trail Lane (Multi Site)",
+                "Storz": "Yes"
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06749819748539,
+                    49.523798674093477
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "198",
+                "Description": "Alpine Trail Crescent (East)",
+                "Storz": "Yes"
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06785743017426,
+                    49.524660869187393
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "197",
+                "Description": "Alpine Trail @ Top of Hill (24 Alpine Trail)",
+                "Storz": "Yes"
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0662006762789,
+                    49.524060460511265
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "196",
+                "Description": "Alpine Trail @Booster Station R.O.W.",
+                "Storz": "Yes"
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06573877244129,
+                    49.522942156364856
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "195",
+                "Description": "Alpine Trail @Alpine Place",
+                "Storz": "Yes"
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06411320805259,
+                    49.5246243002799
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "179",
+                "Description": "345 Canyon Trails",
+                "Storz": "No"
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06269721433149,
+                    49.523872933881371
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "178",
+                "Description": "Canyon Trail @ Sewage Lift Station",
+                "Storz": "No"
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06704407305814,
+                    49.518443140904317
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "115",
+                "Description": "House #48 Aspen Cres",
+                "Storz": "Yes"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06384603830732,
+                    49.521716002877071
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "120",
+                "Description": "House #11 Aspen Cres",
+                "Storz": "No"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06561137785927,
+                    49.521653397584593
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "118",
+                "Description": "Parkland and Cedar Ave (14 Parkland Drive)",
+                "Storz": "No"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06462077056116,
+                    49.522604914505045
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "119",
+                "Description": "Cedar Avenue @ Aspen Cresc (7 Cedar Ave)",
+                "Storz": "No"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05037874529947,
+                    49.514407909955452
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "227",
+                "Description": "Skifty Morris Way",
+                "Storz": "No"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04828435824882,
+                    49.5162767351719
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "172",
+                "Description": "Fairway Drive @ Club House",
+                "Storz": "Yes"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04946074253758,
+                    49.515632231074321
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "171",
+                "Description": "Fairway Drive @Duplex North",
+                "Storz": "Yes"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05045072550655,
+                    49.514936630389606
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "170",
+                "Description": "Fairway Drive @Skifty Morris Way",
+                "Storz": "Yes"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05187086135943,
+                    49.514728425223382
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "169",
+                "Description": "Fairway Drive @ Fernie Golf Gate",
+                "Storz": "No"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05060816244658,
+                    49.520379014290221
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "164",
+                "Description": "Golf Maint Shop @ Great Norther",
+                "Storz": "No"
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04948289589079,
+                    49.521362428322419
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "165",
+                "Description": "At end of Great Northern R/W",
+                "Storz": "No"
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04948741531497,
+                    49.511282483944335
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "219",
+                "Description": "Railway Avenue - Schickendanz",
+                "Storz": "No"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05018372644116,
+                    49.510716766734824
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "218",
+                "Description": "Railway Avenue - Concrete Plant",
+                "Storz": "No"
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05103774220535,
+                    49.508118216714962
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "220",
+                "Description": "Ridgemont Avenue - Affordable Housing Site Entrance",
+                "Storz": "No"
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05108092961096,
+                    49.509984554200258
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "137",
+                "Description": "By Dog Pound on Railway Avenue",
+                "Storz": "No"
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05827677370162,
+                    49.497748906062377
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "275",
+                "Description": "Silver Ridge Way Cul-de-Sac",
+                "Storz": "Yes"
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05825250751083,
+                    49.498526610079608
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "274",
+                "Description": "#8 Silver Ridge Way ",
+                "Storz": "Yes"
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05852115318812,
+                    49.500441863187412
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "272",
+                "Description": "# 33 Silver Ridge Drive Cul-de-Sac",
+                "Storz": "Yes"
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05864035603308,
+                    49.499808017646657
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "273",
+                "Description": "#37 Silver Ridge Drive",
+                "Storz": "Yes"
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05748883172151,
+                    49.499318202822494
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "268",
+                "Description": "St. Margaret's Road and Silver Ridge Dr.",
+                "Storz": "Yes"
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05366586238372,
+                    49.501514872852084
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "162",
+                "Description": "Grass Island on Ridgemont Cres",
+                "Storz": "No"
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.061703474608,
+                    49.499782535980465
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "176",
+                "Description": "Parking Lot @ Aquatic Center",
+                "Storz": "No"
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06090768404725,
+                    49.500243864857964
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "177",
+                "Description": "Back Lane @ Aquatic Center",
+                "Storz": "No"
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06087032760617,
+                    49.501626809131118
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "155",
+                "Description": "Pine Avenue & Ridgemont Dr",
+                "Storz": "No"
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05132854303251,
+                    49.504595680902149
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "84",
+                "Description": "House # 81 Ridgemont Lane",
+                "Storz": "Not Applicable"
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04744505778731,
+                    49.507048319814558
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "78",
+                "Description": "House # 91 Ridgemont Drive",
+                "Storz": "Not Applicable"
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04981835915723,
+                    49.506642059630636
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "79",
+                "Description": "Ridgemont Dr & Ridgemont Lane N",
+                "Storz": "Not Applicable"
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05239432584514,
+                    49.505163337944126
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "80",
+                "Description": "Apt Block #59 Ridgemont Drive",
+                "Storz": "Not Applicable"
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05379588633457,
+                    49.503187792756663
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "81",
+                "Description": "Ridgemont Dr & Ridgemont Lane S",
+                "Storz": "Not Applicable"
+            },
+            "id": 63
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05566374432169,
+                    49.500475306801135
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "87",
+                "Description": "House # 123 Ridgemont Cres",
+                "Storz": "Not Applicable"
+            },
+            "id": 64
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05783231424849,
+                    49.500332429922956
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "88",
+                "Description": "Ridgemont Cres & St. Margaret's Rd",
+                "Storz": "Yes"
+            },
+            "id": 65
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05702039353852,
+                    49.5011243079055
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "83",
+                "Description": "Ridgemont Dr & Ridgemont Place",
+                "Storz": "Yes"
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05570987999805,
+                    49.501851799857285
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "82",
+                "Description": "Ridgemont Dr & Ridgmont Cres N",
+                "Storz": "No"
+            },
+            "id": 67
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05592599040092,
+                    49.503560700811924
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "86",
+                "Description": "House # 19 Ridgemont Ave",
+                "Storz": "No"
+            },
+            "id": 68
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05377954238629,
+                    49.5052691874089
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "85",
+                "Description": "House # 43 Ridgemont Ave",
+                "Storz": "Yes"
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0610467243886,
+                    49.5050329310093
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "226",
+                "Description": "7th St & 3rd Ave (Firehall)",
+                "Storz": "No"
+            },
+            "id": 70
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06359364315352,
+                    49.507312231115542
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "35",
+                "Description": "6th Avenue & 8th Street",
+                "Storz": "Yes"
+            },
+            "id": 71
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0613329024853,
+                    49.506368896551145
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "36",
+                "Description": "4th Avenue & 8th Street",
+                "Storz": "No"
+            },
+            "id": 72
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06007823810438,
+                    49.505989178431335
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "37",
+                "Description": "3rd Avenue & 8th Street",
+                "Storz": "Yes"
+            },
+            "id": 73
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05861593982367,
+                    49.505358052551365
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "38",
+                "Description": "1st Avenue & 8th Street",
+                "Storz": "Yes"
+            },
+            "id": 74
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05975945745109,
+                    49.504706233420414
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "150",
+                "Description": "2nd Avenue & 7th Street",
+                "Storz": "Yes"
+            },
+            "id": 75
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06002888915427,
+                    49.504779969183808
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "31",
+                "Description": "2nd Avenue & 7th Street",
+                "Storz": "Yes"
+            },
+            "id": 76
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06328929034198,
+                    49.506016878214226
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "30",
+                "Description": "5th Avenue and 7th Street",
+                "Storz": "No"
+            },
+            "id": 77
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0653853698186,
+                    49.505920525369064
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "140",
+                "Description": "6th Avenue & 6th Street",
+                "Storz": "Yes"
+            },
+            "id": 78
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06286365688229,
+                    49.504813336330258
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "23",
+                "Description": "4th Avenue & 6th Street",
+                "Storz": "Yes"
+            },
+            "id": 79
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06197073508315,
+                    49.50443257476347
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "24",
+                "Description": "3rd Avenue & 6th Street",
+                "Storz": "Yes"
+            },
+            "id": 80
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06093546714236,
+                    49.503987513330571
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "25",
+                "Description": "2nd Avenue & 6th Street",
+                "Storz": "Yes"
+            },
+            "id": 81
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06008034914531,
+                    49.50346555828478
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "149",
+                "Description": "1st Avenue & 6th Street",
+                "Storz": "No"
+            },
+            "id": 82
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06088009678487,
+                    49.502639326924076
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "22",
+                "Description": "1st Avenue & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 83
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06290615797501,
+                    49.503501052118359
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "20",
+                "Description": "3rd Avenue & 5th Street",
+                "Storz": "No"
+            },
+            "id": 84
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06382210808646,
+                    49.503889995013637
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "19",
+                "Description": "4th Avenue and 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 85
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06497224000934,
+                    49.504358228868348
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "18",
+                "Description": "5th Avenue & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 86
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06682208318175,
+                    49.505159696105231
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "16",
+                "Description": "6a Avenue & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 87
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06816635990215,
+                    49.504716158587343
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "151",
+                "Description": "6a Avenue & 4th Street",
+                "Storz": "No"
+            },
+            "id": 88
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06695823903276,
+                    49.504005001340509
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "7",
+                "Description": "6th Avenue & 4th Street",
+                "Storz": "Yes"
+            },
+            "id": 89
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06453891607249,
+                    49.503176015659442
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "8",
+                "Description": "4th Avenue & 4th Street",
+                "Storz": "No"
+            },
+            "id": 90
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06362560521131,
+                    49.502784450647752
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "9",
+                "Description": "3rd Avenue & 4th Street",
+                "Storz": "Yes"
+            },
+            "id": 91
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06250342167358,
+                    49.502300659280117
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "10",
+                "Description": "2nd Avenue & 4th Street",
+                "Storz": "Yes"
+            },
+            "id": 92
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06158867260964,
+                    49.501910568481307
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "11",
+                "Description": "1st Avenue & 4th Street",
+                "Storz": "No"
+            },
+            "id": 93
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0644543935874,
+                    49.501959102699544
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "148",
+                "Description": "3rd Avenue & 3rd Street",
+                "Storz": "No"
+            },
+            "id": 94
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06334396899672,
+                    49.501478342057851
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "5",
+                "Description": "2nd Avenue & 3rd Street",
+                "Storz": "Yes"
+            },
+            "id": 95
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06425837310756,
+                    49.500518699163038
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "4",
+                "Description": "2nd Avenue & 2nd Street",
+                "Storz": "Yes"
+            },
+            "id": 96
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06334851357373,
+                    49.500157700936917
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "3",
+                "Description": "1st Avenue & 2nd Street",
+                "Storz": "Yes"
+            },
+            "id": 97
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06532503896413,
+                    49.499469864231749
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "2",
+                "Description": "2nd Avenue & 1st Street",
+                "Storz": "Yes"
+            },
+            "id": 98
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05646799162251,
+                    49.506814390151185
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "270",
+                "Description": "1st Avenue & 10th Street",
+                "Storz": "Yes"
+            },
+            "id": 99
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05592822810429,
+                    49.507764013028165
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "271",
+                "Description": "1st Avenue & 11th Street",
+                "Storz": "Yes"
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05628953230818,
+                    49.510104239341814
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "263",
+                "Description": "13th St and 3rd Avenue",
+                "Storz": "Yes"
+            },
+            "id": 101
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05350375779746,
+                    49.513891052228821
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "168",
+                "Description": "Fairway Drive @ New High School",
+                "Storz": "No"
+            },
+            "id": 103
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05257843825757,
+                    49.512373762190279
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "154",
+                "Description": "2nd Ave at High School (valve by wood bollard)",
+                "Storz": "No"
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05490245805103,
+                    49.513792875338439
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "136",
+                "Description": "Fairway Drive behind hospital",
+                "Storz": "No"
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05709668925222,
+                    49.513935799231447
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "75",
+                "Description": "Hospital Parking Lot",
+                "Storz": "Not Applicable"
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05601533504245,
+                    49.511683369841052
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "72",
+                "Description": "Prentice Park",
+                "Storz": "Not Applicable"
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05517957214651,
+                    49.512521409385428
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "73",
+                "Description": "Prentice Park",
+                "Storz": "Not Applicable"
+            },
+            "id": 108
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05657343407394,
+                    49.512755315841993
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "69",
+                "Description": "5th Avenue & 15th Street",
+                "Storz": "No"
+            },
+            "id": 109
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05883523565251,
+                    49.51233823688144
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "138",
+                "Description": "6th Ave & 14th St (A&W)",
+                "Storz": "Yes"
+            },
+            "id": 110
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05415134430262,
+                    49.510358043900794
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "63",
+                "Description": "2nd Avenue & 14th Street",
+                "Storz": "Yes"
+            },
+            "id": 111
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05419514795253,
+                    49.509221510354259
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "62",
+                "Description": "1st Avenue & 13th Street",
+                "Storz": "Yes"
+            },
+            "id": 112
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05516647111639,
+                    49.509616949422615
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "61",
+                "Description": "2nd Avenue & 13th Street",
+                "Storz": "No"
+            },
+            "id": 113
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05819531626828,
+                    49.511121106181982
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "167",
+                "Description": "5th Avenue & 13th Street (Police Station)",
+                "Storz": "No"
+            },
+            "id": 114
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05947737207886,
+                    49.511698864984247
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "139",
+                "Description": "6th Ave & 13th St",
+                "Storz": "No"
+            },
+            "id": 115
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06034072133885,
+                    49.510812898986522
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "55",
+                "Description": "6th Avenue & 12th Street",
+                "Storz": "Yes"
+            },
+            "id": 116
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05903075038083,
+                    49.510253143371195
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "56",
+                "Description": "5th Avenue & 12th Street",
+                "Storz": "Yes"
+            },
+            "id": 117
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05812905383799,
+                    49.50987126980629
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "141",
+                "Description": "4th Avenue & 12th Street",
+                "Storz": "Yes"
+            },
+            "id": 118
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05708685808973,
+                    49.509250335823737
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "57",
+                "Description": "3rd Avenue & 12th Street",
+                "Storz": "Yes"
+            },
+            "id": 119
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05647690470677,
+                    49.508039580901688
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "52",
+                "Description": "2nd Avenue & 11th Street",
+                "Storz": "Yes"
+            },
+            "id": 120
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06098365726578,
+                    49.50992730774685
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "152",
+                "Description": "6th Avenue & 11th Street",
+                "Storz": "No"
+            },
+            "id": 121
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06211117410139,
+                    49.509051531433769
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "46",
+                "Description": "6th Avenue & 10th Street",
+                "Storz": "Yes"
+            },
+            "id": 122
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06102632454683,
+                    49.508534858012176
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "47",
+                "Description": "5th Avenue & 10th Street",
+                "Storz": "Yes"
+            },
+            "id": 123
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05967104076926,
+                    49.508016294447742
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "48",
+                "Description": "4th Avenue & 10th Street",
+                "Storz": "No"
+            },
+            "id": 124
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05731542632897,
+                    49.507211430649527
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "49",
+                "Description": "2nd Avenue & 10th Street",
+                "Storz": "Yes"
+            },
+            "id": 125
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05814921832116,
+                    49.506381312212881
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "44",
+                "Description": "2nd Avenue & 9th Street",
+                "Storz": "Yes"
+            },
+            "id": 126
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05945021331286,
+                    49.506911962138773
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "43",
+                "Description": "3rd Avenue & 9th Street",
+                "Storz": "Yes"
+            },
+            "id": 127
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0616963922903,
+                    49.507874333227619
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "42",
+                "Description": "5th Avenue & 9th Street",
+                "Storz": "Not Applicable"
+            },
+            "id": 128
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06220229740718,
+                    49.513962455176589
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "290",
+                "Description": "9th Avenue at 14th Street",
+                "Storz": "Yes"
+            },
+            "id": 129
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06881609517751,
+                    49.507355917241767
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "281",
+                "Description": "9th Avenue at 6th Street",
+                "Storz": "Yes"
+            },
+            "id": 130
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06529228369395,
+                    49.510594380742852
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "282",
+                "Description": "9th Avenue at 10th Street (1002 9th ave)",
+                "Storz": "Yes"
+            },
+            "id": 131
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06694397109109,
+                    49.508919184298342
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "280",
+                "Description": "9th Avenue at 8th Street",
+                "Storz": "Yes"
+            },
+            "id": 132
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06755266413771,
+                    49.517665833921
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "279",
+                "Description": "Igor's Place Burma Road",
+                "Storz": "Yes"
+            },
+            "id": 133
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06078782453383,
+                    49.512183896764569
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "269",
+                "Description": "13th Street & 7th Avenue",
+                "Storz": "Yes"
+            },
+            "id": 134
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06011676774526,
+                    49.517017465725765
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "77",
+                "Description": "Tim Hortons - North West of building",
+                "Storz": "Yes"
+            },
+            "id": 135
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05887862158578,
+                    49.517228833192469
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "255",
+                "Description": "Canadian Tire Parking Lot",
+                "Storz": "Yes"
+            },
+            "id": 136
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06043284716449,
+                    49.515396302335361
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "232",
+                "Description": "9th Ave 16th St",
+                "Storz": "Yes"
+            },
+            "id": 137
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05690959533135,
+                    49.516233803528131
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "135",
+                "Description": "18th Street behind Extra Foods (7th Avenue & 18th",
+                "Storz": "No"
+            },
+            "id": 138
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05922008739496,
+                    49.5163771250388
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "134",
+                "Description": "17th St. & 9th Ave",
+                "Storz": "Yes"
+            },
+            "id": 139
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05797334974808,
+                    49.51691435942675
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "230",
+                "Description": "9th Ave & 18th St",
+                "Storz": "Yes"
+            },
+            "id": 140
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05865086991516,
+                    49.51577357139643
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "231",
+                "Description": "Extra Foods Parking Lot",
+                "Storz": "Yes"
+            },
+            "id": 141
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07012949859819,
+                    49.508923180505406
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "27",
+                "Description": "11th Avenue & 7th Street",
+                "Storz": "No"
+            },
+            "id": 142
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06789751120559,
+                    49.507986242708725
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "28",
+                "Description": "9th Avenue & 7th Street",
+                "Storz": "Yes"
+            },
+            "id": 143
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06676568245665,
+                    49.507511412398372
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "29",
+                "Description": "8th Avenue & 7th Street",
+                "Storz": "Yes"
+            },
+            "id": 144
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06606227643636,
+                    49.507194319445908
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "158",
+                "Description": "7th Avenue & 7th Street (behind Fas Gas)",
+                "Storz": "No"
+            },
+            "id": 145
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06723912245916,
+                    49.506502967914159
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "157",
+                "Description": "7th Avenue Lane & 6th Street",
+                "Storz": "No"
+            },
+            "id": 146
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06192335613842,
+                    49.517176415400954
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "71",
+                "Description": "11th Avenue & 17th Street",
+                "Storz": "No"
+            },
+            "id": 147
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06163755982574,
+                    49.51587641065295
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "70",
+                "Description": "10th Avenue & 16th street",
+                "Storz": "No"
+            },
+            "id": 148
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05828055830392,
+                    49.514661925478251
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "76",
+                "Description": "Best Western - 7th Avenue & 16th Street",
+                "Storz": "No"
+            },
+            "id": 149
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06036698268785,
+                    49.514155573428859
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "68",
+                "Description": "8th Avenue & 15th Street",
+                "Storz": "Not Applicable"
+            },
+            "id": 150
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06138933734641,
+                    49.5148040209745
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "67",
+                "Description": "9th Avenue & 15th Street",
+                "Storz": "No"
+            },
+            "id": 151
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06339100209004,
+                    49.515702305233667
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "66",
+                "Description": "11th Avenue & 15th Street",
+                "Storz": "No"
+            },
+            "id": 152
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06308934512269,
+                    49.514392265778426
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "64",
+                "Description": "10th Avenue & 14th Street",
+                "Storz": "No"
+            },
+            "id": 153
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06119537400858,
+                    49.513316403547734
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "65",
+                "Description": "8th Avenue & 14th Street",
+                "Storz": "No"
+            },
+            "id": 154
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06291758454542,
+                    49.51293259241033
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "59",
+                "Description": "9th Avenue & 13th Street",
+                "Storz": "Yes"
+            },
+            "id": 155
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06529494001224,
+                    49.514071430441028
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "58",
+                "Description": "11th Avenue & 13th Street",
+                "Storz": "Yes"
+            },
+            "id": 156
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06493404005022,
+                    49.512559339339624
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "53",
+                "Description": "10th Avenue & 12th Street",
+                "Storz": "No"
+            },
+            "id": 157
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06267676508236,
+                    49.511852094923192
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "54",
+                "Description": "8th Avenue & 12th Street",
+                "Storz": "No"
+            },
+            "id": 158
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06457738372957,
+                    49.511285536803435
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "51",
+                "Description": "9th Avenue & 11th Street",
+                "Storz": "No"
+            },
+            "id": 159
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06705996156057,
+                    49.512324056613721
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "50",
+                "Description": "11th Avenue & 11th Street",
+                "Storz": "Yes"
+            },
+            "id": 160
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0643419631414,
+                    49.510178269696119
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "45",
+                "Description": "8th Avenue & 10th Street",
+                "Storz": "No"
+            },
+            "id": 161
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06419913370617,
+                    49.508765006051604
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "41",
+                "Description": "7th Avenue & 9th Street (Cannabis Shop)",
+                "Storz": "Yes"
+            },
+            "id": 162
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06623897056114,
+                    49.5096374113875
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "40",
+                "Description": "9th Avenue & 9th Street",
+                "Storz": "Yes"
+            },
+            "id": 163
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06854743872042,
+                    49.510829194082362
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "39",
+                "Description": "11th Avenue & 9th Street (901 11th Ave)",
+                "Storz": "Yes"
+            },
+            "id": 164
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06931564381539,
+                    49.509772956523044
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "32",
+                "Description": "11th Avenue & 8th Street",
+                "Storz": "Yes"
+            },
+            "id": 165
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06816441055798,
+                    49.509272893150367
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "33",
+                "Description": "10th Avenue & 8th Street",
+                "Storz": "Yes"
+            },
+            "id": 166
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06502818978018,
+                    49.507939882065394
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "34",
+                "Description": "7th Avenue & 8th Street",
+                "Storz": "No"
+            },
+            "id": 167
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06794743956911,
+                    49.505667179043833
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "15",
+                "Description": "7th Avenue & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 168
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06832186815932,
+                    49.505955877420618
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "14",
+                "Description": "8th Aveune & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 169
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06944990062787,
+                    49.506440676812232
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "13",
+                "Description": "9th Avenue & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 170
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07077103315329,
+                    49.507014050037846
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "12",
+                "Description": "10th Avenue & 5th Street",
+                "Storz": "Yes"
+            },
+            "id": 171
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06911336297637,
+                    49.505127397888451
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "143",
+                "Description": "8th Avenue & 4th Street",
+                "Storz": "No"
+            },
+            "id": 172
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06103708366899,
+                    49.516469416791452
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "291",
+                "Description": "1641 10th Avenue (mountside church)",
+                "Storz": "No"
+            },
+            "id": 173
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07380904201942,
+                    49.500500061769671
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "276",
+                "Description": "1189 McLeod Avenue",
+                "Storz": "Yes"
+            },
+            "id": 174
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07368736701078,
+                    49.50233641356342
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "234",
+                "Description": "Beaver Street and Colclough Avenue",
+                "Storz": "Yes"
+            },
+            "id": 175
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07700637338934,
+                    49.500498173877048
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "237",
+                "Description": "Mcleod Avenue and Hwy 3",
+                "Storz": "Yes"
+            },
+            "id": 176
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08116168704291,
+                    49.49643113289379
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "240",
+                "Description": "Anderson Rd. and Hwy 3",
+                "Storz": "Yes"
+            },
+            "id": 177
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07859420314621,
+                    49.499586942149605
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "238",
+                "Description": "Highway 3 - Silver Rock",
+                "Storz": "Yes"
+            },
+            "id": 178
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07958321413804,
+                    49.498815661553756
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "239",
+                "Description": "Dairy Queen - Highway #3",
+                "Storz": "Yes"
+            },
+            "id": 181
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0802659759748,
+                    49.498223423301482
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "159",
+                "Description": "Hwy 3 & Smitty's",
+                "Storz": "No"
+            },
+            "id": 182
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07394492837581,
+                    49.499417572678972
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "129",
+                "Description": "McDonald Avenue & Commons St",
+                "Storz": "Yes"
+            },
+            "id": 183
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07092529275221,
+                    49.5022645631088
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "127",
+                "Description": "Colclough Avenue & Riverside",
+                "Storz": "Yes"
+            },
+            "id": 188
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07535037318051,
+                    49.50226637334346
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "235",
+                "Description": "Colclough Avenue & Glover St",
+                "Storz": "Yes"
+            },
+            "id": 189
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07358665059607,
+                    49.5038724457095
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "233",
+                "Description": "Beach Ave. - Beaver St.",
+                "Storz": "Yes"
+            },
+            "id": 190
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07175163681241,
+                    49.503934741248024
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "153",
+                "Description": "Beach Avenue & Riverside",
+                "Storz": "Yes"
+            },
+            "id": 191
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06366638782693,
+                    49.497551714817419
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "243",
+                "Description": "Pine Avenue",
+                "Storz": "Yes"
+            },
+            "id": 192
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06351911173104,
+                    49.498434466501159
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "98",
+                "Description": "Pine Avenue & Coal Creek Road",
+                "Storz": "No"
+            },
+            "id": 193
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06224751680193,
+                    49.497944196852934
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "100",
+                "Description": "House #30 Coal Creek Road",
+                "Storz": "No"
+            },
+            "id": 194
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06161876078176,
+                    49.497141313264109
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "101",
+                "Description": "Coal Creek Road & Pine Cres",
+                "Storz": "No"
+            },
+            "id": 195
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06372018972591,
+                    49.496662473845561
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "99",
+                "Description": "Pine Avenue & Pine Cres",
+                "Storz": "No"
+            },
+            "id": 196
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06617461884747,
+                    49.497156657234129
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "90",
+                "Description": "Park Avenue & Park Cres S",
+                "Storz": "No"
+            },
+            "id": 197
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06580236687519,
+                    49.498269333992752
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "161",
+                "Description": "Park Avenue & Park Cres N",
+                "Storz": "No"
+            },
+            "id": 198
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07308462081134,
+                    49.489550112965404
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "105",
+                "Description": "Mt. Trinity Ave & Mt. Mclean St",
+                "Storz": "No"
+            },
+            "id": 199
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07056048871193,
+                    49.491125015863858
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "142",
+                "Description": "Mt Klauer & Mt Washburn",
+                "Storz": "Yes"
+            },
+            "id": 200
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07196093169716,
+                    49.491273926891644
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "106",
+                "Description": "Mt Washburn & Mt Herchemer",
+                "Storz": "Not Applicable"
+            },
+            "id": 201
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.073889010046,
+                    49.491207202119305
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "107",
+                "Description": "House #37 Mt Proctor Avenue",
+                "Storz": "No"
+            },
+            "id": 202
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07160722634228,
+                    49.493042473069828
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "109",
+                "Description": "Mt Herchemer & Mt Klauer",
+                "Storz": "Not Applicable"
+            },
+            "id": 203
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07388529910556,
+                    49.493381673328983
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "108",
+                "Description": "Mt Proctor & Mt Klauer",
+                "Storz": "Yes"
+            },
+            "id": 204
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07273987704971,
+                    49.495231598185782
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "110",
+                "Description": "Mt Trinity & Mt Ingram",
+                "Storz": "Yes"
+            },
+            "id": 205
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0738141606199,
+                    49.496068631871019
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "111",
+                "Description": "Mt Proctor & Mt Minton",
+                "Storz": "Yes"
+            },
+            "id": 206
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07091098887794,
+                    49.496217688309336
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "112",
+                "Description": "House #22 Mt Minton",
+                "Storz": "Yes"
+            },
+            "id": 207
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06875209650168,
+                    49.491920675739678
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "93",
+                "Description": "House #9 Elkview Drive",
+                "Storz": "No"
+            },
+            "id": 208
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06957694935852,
+                    49.493443155421808
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "94",
+                "Description": "House #32 Elkview Drive",
+                "Storz": "No"
+            },
+            "id": 209
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07066202888178,
+                    49.493949503060321
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "92",
+                "Description": "36 Park Ave",
+                "Storz": "No"
+            },
+            "id": 210
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0708238244476,
+                    49.495104870966628
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "114",
+                "Description": "House #1 Elkview Place",
+                "Storz": "Not Applicable"
+            },
+            "id": 211
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07702733557652,
+                    49.493377592997184
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "156",
+                "Description": "Mountview Park",
+                "Storz": "Not Applicable"
+            },
+            "id": 212
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07271182266339,
+                    49.488721135662836
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "147",
+                "Description": "Sewer Plant",
+                "Storz": "Yes"
+            },
+            "id": 213
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08132184947155,
+                    49.494711522459951
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "277",
+                "Description": "Boardman Road",
+                "Storz": "Yes"
+            },
+            "id": 214
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06779915017357,
+                    49.493387460362726
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "97",
+                "Description": "House #8 Elkview Cres",
+                "Storz": "Yes"
+            },
+            "id": 215
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06633149164553,
+                    49.4944296153259
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "96",
+                "Description": "House #17 Elkview Cres",
+                "Storz": "Not Applicable"
+            },
+            "id": 216
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06784009628254,
+                    49.494404597639829
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "95",
+                "Description": "House #23 Elkview Cres",
+                "Storz": "Not Applicable"
+            },
+            "id": 217
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06867486204852,
+                    49.495082112229348
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "113",
+                "Description": "Park Avenue & Mt Minton St",
+                "Storz": "Yes"
+            },
+            "id": 218
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06400500777328,
+                    49.488854713270776
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "283",
+                "Description": "Black Rock Place",
+                "Storz": "Yes"
+            },
+            "id": 219
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06312021842237,
+                    49.489059009721785
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "267",
+                "Description": "Castle Mountain Rd. (Blackrock Subdivision)",
+                "Storz": "Yes"
+            },
+            "id": 220
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06629683913346,
+                    49.49205517472226
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "242",
+                "Description": "Cokato Road - Rocky Mtn. Village",
+                "Storz": "Yes"
+            },
+            "id": 221
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06080772042075,
+                    49.489273605332478
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "204",
+                "Description": "Cedar Bowl Drive - Cedar Bowl Cres. Int.",
+                "Storz": "No"
+            },
+            "id": 222
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06154343614688,
+                    49.489827101032539
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "205",
+                "Description": "18/20 Cedar Bowl Cres.",
+                "Storz": "No"
+            },
+            "id": 223
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06009501953223,
+                    49.490429731905195
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "206",
+                "Description": "Cedar Bowl Place @ Hydro R.O.W.",
+                "Storz": "No"
+            },
+            "id": 224
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05787867540201,
+                    49.492505401282578
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "188",
+                "Description": "Across the street from 125 Whitetail Drive",
+                "Storz": "No"
+            },
+            "id": 225
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06492359354175,
+                    49.489966465395028
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "200",
+                "Description": "Castle Mtn Road - Estate Drive Int.",
+                "Storz": "No"
+            },
+            "id": 226
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06632210514911,
+                    49.488764501100064
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "202",
+                "Description": "Estate Drive @ Temp. turnaround",
+                "Storz": "No"
+            },
+            "id": 227
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06558751411373,
+                    49.489203315918793
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "201",
+                "Description": "Estate Drive past Castle Creek",
+                "Storz": "No"
+            },
+            "id": 228
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0660838027655,
+                    49.489970020251867
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "181",
+                "Description": "Cokato Road at Mt. McLean Drive",
+                "Storz": "No"
+            },
+            "id": 229
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06198591211988,
+                    49.494293768033856
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "186",
+                "Description": "Montane Parkway unpaved section, south side near old bus barn",
+                "Storz": "No"
+            },
+            "id": 230
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06283601841594,
+                    49.490909546090734
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "183",
+                "Description": "22 Slalom Dr",
+                "Storz": "No"
+            },
+            "id": 231
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06081714374808,
+                    49.488206477878229
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "203",
+                "Description": "Cedar Bowl Drive - Castle Mtn. Road Int.",
+                "Storz": "No"
+            },
+            "id": 232
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05938985011903,
+                    49.492565300863262
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "187",
+                "Description": "White Tail Drive Hydro R.O.W.",
+                "Storz": "No"
+            },
+            "id": 233
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06042888379746,
+                    49.4930685382363
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "185",
+                "Description": "Castle Mtn Whitetail Drive- Slalom Drive Intersection",
+                "Storz": "No"
+            },
+            "id": 234
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06140868256605,
+                    49.491866533991896
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "184",
+                "Description": "45 Slalom Dr",
+                "Storz": "No"
+            },
+            "id": 235
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06431938757997,
+                    49.490223273960325
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "182",
+                "Description": "Castle Mtn (Slalom Drive and Castle Mtn Road Int.)",
+                "Storz": "No"
+            },
+            "id": 236
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06477460705358,
+                    49.491483063387321
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "103",
+                "Description": "Fernie Mobile Home Park",
+                "Storz": "Not Applicable"
+            },
+            "id": 237
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0644817823221,
+                    49.494371160963368
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "166",
+                "Description": "By Dicken Bus on Cokato Road",
+                "Storz": "Yes"
+            },
+            "id": 238
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06618933954005,
+                    49.491329589344893
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "104",
+                "Description": "Apartments on Cokato Road",
+                "Storz": "No"
+            },
+            "id": 239
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07894015514191,
+                    49.486607353439346
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "278",
+                "Description": "Mt. Fernie Park Road",
+                "Storz": "Yes"
+            },
+            "id": 240
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07362117015752,
+                    49.482889354058621
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "264",
+                "Description": "Pinnacle Ridge (45 Rivermount Place)",
+                "Storz": "Yes"
+            },
+            "id": 241
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07422704249413,
+                    49.482940723071039
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "265",
+                "Description": "Pinnacle Ridge (50 Rivermount Place)",
+                "Storz": "UNKN"
+            },
+            "id": 242
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07596989901117,
+                    49.4859184515069
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "208",
+                "Description": "1000 Riverside Way",
+                "Storz": "No"
+            },
+            "id": 243
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0744135659848,
+                    49.483988423462513
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "256",
+                "Description": "Pinnacle Ridge - Chalets",
+                "Storz": "No"
+            },
+            "id": 244
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07421921457478,
+                    49.484044820780952
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "257",
+                "Description": "Pinnacle Ridge - Chalets",
+                "Storz": "No"
+            },
+            "id": 245
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07563828951729,
+                    49.484878988927342
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "292",
+                "Description": "Rivermount Place - 1200",
+                "Storz": "No"
+            },
+            "id": 246
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07551821979811,
+                    49.4833213787358
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "241",
+                "Description": "Pinnacle Ridge - Rivermount Place",
+                "Storz": "Yes"
+            },
+            "id": 247
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07512453851473,
+                    49.484400757286451
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "217",
+                "Description": "Rivermount Place",
+                "Storz": "No"
+            },
+            "id": 248
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07689599739038,
+                    49.4869237943276
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "214",
+                "Description": "Riverside North Condo Site #225",
+                "Storz": "No"
+            },
+            "id": 249
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07611243739223,
+                    49.4864663116697
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "215",
+                "Description": "Riverside North Condo Site # 255",
+                "Storz": "No"
+            },
+            "id": 250
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07516643234632,
+                    49.486158532733626
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "216",
+                "Description": "Riverside North Condo Site #275",
+                "Storz": "No"
+            },
+            "id": 251
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07184852460735,
+                    49.483522465686612
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "211",
+                "Description": "Riverside Way - North of Lift Station",
+                "Storz": "No"
+            },
+            "id": 252
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07338250305789,
+                    49.485175275766096
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "210",
+                "Description": "Riverside Way- Miners Village",
+                "Storz": "No"
+            },
+            "id": 253
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0746596774232,
+                    49.485484544932724
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "209",
+                "Description": "Riverside Way - Riverside Place Int.",
+                "Storz": "No"
+            },
+            "id": 254
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0773866059946,
+                    49.486476803681526
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "207",
+                "Description": "Riverside Way and Highway #3",
+                "Storz": "No"
+            },
+            "id": 255
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07750570283834,
+                    49.487081779704184
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "213",
+                "Description": "Riverside Mtn. Lodge - NorthEast",
+                "Storz": "No"
+            },
+            "id": 256
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07782335520764,
+                    49.486861907805071
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "212",
+                "Description": "Riverside Mtn. Lodge - SouthWest",
+                "Storz": "No"
+            },
+            "id": 257
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06491280297858,
+                    49.525700251377963
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "180",
+                "Description": "398 Canyon Tr",
+                "Storz": "Yes"
+            },
+            "id": 258
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06559456229544,
+                    49.525792657316764
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "260",
+                "Description": "Canyon Peaks Court - East Entrance",
+                "Storz": "Yes"
+            },
+            "id": 259
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06278769085029,
+                    49.508386828382577
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "262",
+                "Description": "6th Avenue and 9th Street, NW Corner",
+                "Storz": "Yes"
+            },
+            "id": 260
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0459196860955,
+                    49.526986499425483
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "293",
+                "Description": "Parking Lot at new homehardware",
+                "Storz": ""
+            },
+            "id": 261
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05654566535188,
+                    49.492413936063961
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "295",
+                "Description": "across the street from #2 Sunniva Drive",
+                "Storz": ""
+            },
+            "id": 262
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05521069338121,
+                    49.492604028759942
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "294",
+                "Description": "11 Sunniva Drive",
+                "Storz": ""
+            },
+            "id": 263
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05849487207618,
+                    49.513608878218889
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "296",
+                "Description": "15th Street at Best Western",
+                "Storz": ""
+            },
+            "id": 264
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.04973378007827,
+                    49.527630456807749
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "297",
+                "Description": "Shadow Road & Kutenai Rd",
+                "Storz": "Yes"
+            },
+            "id": 265
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08720538518783,
+                    49.485303277563972
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "298",
+                "Description": "At intersection of Nordic Blvd and #1 Sunset Lane",
+                "Storz": "No - Deficiency"
+            },
+            "id": 266
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08595094987729,
+                    49.485133252899615
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "299",
+                "Description": "#1 Single Track Way",
+                "Storz": "No - Deficiency"
+            },
+            "id": 267
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08333769591857,
+                    49.485277866546021
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "300",
+                "Description": "#9 Single Track Way",
+                "Storz": "No - Deficiency"
+            },
+            "id": 268
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06855799751827,
+                    49.516633166323153
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "301",
+                "Description": "104 Burma Road",
+                "Storz": "Yes"
+            },
+            "id": 269
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07275746516467,
+                    49.502123824306061
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "302",
+                "Description": "1120 Colclough Avenue",
+                "Storz": "Yes"
+            },
+            "id": 270
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07036386905581,
+                    49.501460469273084
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "304",
+                "Description": "989 Riverside Drive",
+                "Storz": ""
+            },
+            "id": 272
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07034960380912,
+                    49.500484268460575
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "305",
+                "Description": "144 Wilson Street",
+                "Storz": ""
+            },
+            "id": 273
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07210207948619,
+                    49.50049373301195
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "307",
+                "Description": "1069 McLeod Avenue",
+                "Storz": ""
+            },
+            "id": 275
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07216806523537,
+                    49.499406524527977
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "308",
+                "Description": "Eckersley Street and McDonald Avenue",
+                "Storz": ""
+            },
+            "id": 276
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07588953752246,
+                    49.499559581774072
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "309",
+                "Description": "1319 McDonald Avenue",
+                "Storz": ""
+            },
+            "id": 277
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05417298292119,
+                    49.493483368764835
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "310",
+                "Description": "23 Piedmont Drive",
+                "Storz": "Yes"
+            },
+            "id": 278
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05339444181052,
+                    49.49289386267
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "311",
+                "Description": "23 Sunniva Drive",
+                "Storz": ""
+            },
+            "id": 279
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0563487240989,
+                    49.493069634617264
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "312",
+                "Description": "Northside of Piedmont Drive, at #9.",
+                "Storz": ""
+            },
+            "id": 280
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05197958086501,
+                    49.520316280155576
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "317",
+                "Description": "Entrance to Fernie RV Park off 6th Avenue",
+                "Storz": ""
+            },
+            "id": 281
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07950472114514,
+                    49.464665710227315
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "322",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 282
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07751654999539,
+                    49.462891483348876
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "323",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 283
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07599864599858,
+                    49.460777817472959
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "324",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 284
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07914128613739,
+                    49.462211186656809
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "325",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 285
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0817796596864,
+                    49.462182852530844
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "326",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 286
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08250583799916,
+                    49.461554215950862
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "327",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 287
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0813341833404,
+                    49.463197897528914
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "328",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 288
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08386823014558,
+                    49.464658836209409
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "329",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 289
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08300141608352,
+                    49.465657245972523
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "330",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 290
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08452770585353,
+                    49.466871074126388
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "331",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 291
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08257660548061,
+                    49.466137210102147
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "332",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 292
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08510323040491,
+                    49.465965902219835
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "333",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 293
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08648867332154,
+                    49.466497465012253
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "334",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 294
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0898051653156,
+                    49.4661566049407
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "335",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 295
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08926580064933,
+                    49.465061212760666
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "336",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 296
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0889656663264,
+                    49.464742445896789
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "337",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 297
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.09148747807741,
+                    49.465671394810336
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "338",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 298
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08609986450027,
+                    49.463386935970952
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "339",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 299
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08712524827794,
+                    49.462929638606582
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "340",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 300
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08530094870063,
+                    49.45918772175019
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "341",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 301
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07513567313266,
+                    49.500494213152805
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "314",
+                "Description": "1290 McLeod Avenue",
+                "Storz": ""
+            },
+            "id": 303
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05185932968611,
+                    49.509332913367587
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "318",
+                "Description": "1492 Railway Ave (Yards)",
+                "Storz": "Yes"
+            },
+            "id": 306
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05211706622261,
+                    49.510823378197209
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "319",
+                "Description": "15th Street Lane and 16th Street",
+                "Storz": "Yes"
+            },
+            "id": 307
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05277280404064,
+                    49.511713104343471
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "320",
+                "Description": "2nd Avenue and 16th Street",
+                "Storz": ""
+            },
+            "id": 308
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05339988110957,
+                    49.511086239649615
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "321",
+                "Description": "2nd Avenue and 15th Street",
+                "Storz": ""
+            },
+            "id": 309
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07034214330068,
+                    49.5160393736596
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "377",
+                "Description": "112 Burma Road",
+                "Storz": "Yes"
+            },
+            "id": 310
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07765397426756,
+                    49.499562909569462
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "343",
+                "Description": "1410 McDonald Avenue",
+                "Storz": ""
+            },
+            "id": 311
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07381349856152,
+                    49.5012417208172
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "348",
+                "Description": "1221 McLeod Avenue",
+                "Storz": ""
+            },
+            "id": 312
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07189213422113,
+                    49.501235583508731
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "349",
+                "Description": "1050 Hand Avenue",
+                "Storz": ""
+            },
+            "id": 313
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08074117487863,
+                    49.499565670285939
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "342",
+                "Description": "1689 McDonald Avenue",
+                "Storz": ""
+            },
+            "id": 314
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07937333445001,
+                    49.500337645564635
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "345",
+                "Description": "1624 McLeod Avenue",
+                "Storz": ""
+            },
+            "id": 315
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08137933715813,
+                    49.50050961849567
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "344",
+                "Description": "1703 McLeod Avenue",
+                "Storz": "Yes"
+            },
+            "id": 316
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0771235083125,
+                    49.501377160284612
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "346",
+                "Description": "1410 Hand Avenue",
+                "Storz": "Yes"
+            },
+            "id": 317
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07588479262115,
+                    49.5013911412884
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "347",
+                "Description": "1369 Hand Avenue",
+                "Storz": "Yes"
+            },
+            "id": 318
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07675626534626,
+                    49.502286460351378
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "350",
+                "Description": "1381 Colclough Avenue",
+                "Storz": "Yes"
+            },
+            "id": 319
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07308953100271,
+                    49.503724564731
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "351",
+                "Description": "1170 Beach Avenue",
+                "Storz": "Yes"
+            },
+            "id": 320
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07534576931468,
+                    49.505482613515639
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "354",
+                "Description": "311 Stewart Avenue",
+                "Storz": "Yes"
+            },
+            "id": 321
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0751675830882,
+                    49.503739711209789
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "352",
+                "Description": "Hoath Street",
+                "Storz": "Yes"
+            },
+            "id": 322
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07684377472967,
+                    49.503988019105044
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "353",
+                "Description": "315 Burma Road",
+                "Storz": "Yes"
+            },
+            "id": 323
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07880888253281,
+                    49.505424720698478
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "355",
+                "Description": "1540 Stewart Avenue",
+                "Storz": "Yes"
+            },
+            "id": 324
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07710504254352,
+                    49.5053564722691
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "356",
+                "Description": "Burma Rd and Stewart Ave",
+                "Storz": "Yes"
+            },
+            "id": 325
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07272750455331,
+                    49.504869760992989
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "357",
+                "Description": "326 Riverside Drive",
+                "Storz": "Yes"
+            },
+            "id": 326
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05371542962449,
+                    49.4919632226027
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "358",
+                "Description": "End of Yirri Drive",
+                "Storz": "Yes"
+            },
+            "id": 327
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05190281533237,
+                    49.492526832009133
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "359",
+                "Description": "42 Piedmont Drive",
+                "Storz": "Yes"
+            },
+            "id": 328
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05243915806602,
+                    49.493416868729526
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "360",
+                "Description": "28 Sunniva Drive",
+                "Storz": "Yes"
+            },
+            "id": 329
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08434562722691,
+                    49.4842366635028
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "361",
+                "Description": "4 Mammoth Drive",
+                "Storz": "Yes"
+            },
+            "id": 330
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08369234630116,
+                    49.483565570188532
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "363",
+                "Description": "7 Mammoth Drive",
+                "Storz": "Yes"
+            },
+            "id": 331
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08318533895142,
+                    49.48409543398806
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "364",
+                "Description": "Mammoth Drive",
+                "Storz": "Yes"
+            },
+            "id": 332
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0632835132764,
+                    49.520266232166911
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "362",
+                "Description": "2 Oliveriie Cres",
+                "Storz": "Yes"
+            },
+            "id": 333
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07209051188029,
+                    49.515679283710931
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "365",
+                "Description": "118 Burma Road",
+                "Storz": "Yes"
+            },
+            "id": 334
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05978413237533,
+                    49.502460765786445
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "366",
+                "Description": "BC Hydro Substation",
+                "Storz": "Yes"
+            },
+            "id": 335
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05909248260716,
+                    49.50279527868684
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "367",
+                "Description": "BC Hydro Substation - Ground Hydrant for Irrigation",
+                "Storz": "Yes"
+            },
+            "id": 336
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05903255419794,
+                    49.502883640786614
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "368",
+                "Description": "BC Hydro Substation",
+                "Storz": "Yes"
+            },
+            "id": 337
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07100745536304,
+                    49.499557550908655
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "369",
+                "Description": "Mill St & Macdonald Ave",
+                "Storz": ""
+            },
+            "id": 338
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08758013357827,
+                    49.485375013444809
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "371",
+                "Description": "9 corner Pocket Place",
+                "Storz": "Yes"
+            },
+            "id": 339
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07300960519692,
+                    49.514689703169857
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "372",
+                "Description": "124 Burma Road",
+                "Storz": ""
+            },
+            "id": 340
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.0743506363042,
+                    49.513785271577326
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "373",
+                "Description": "127 Burma Road",
+                "Storz": ""
+            },
+            "id": 341
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05461690428345,
+                    49.491708499286837
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "374",
+                "Description": "21 Morrissey Court",
+                "Storz": ""
+            },
+            "id": 342
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05577991625088,
+                    49.491499734283465
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "375",
+                "Description": "19 Morrissey Court",
+                "Storz": ""
+            },
+            "id": 343
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.05712606865357,
+                    49.491602731353858
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "376",
+                "Description": "15 Morrissey Court",
+                "Storz": ""
+            },
+            "id": 344
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08021595508482,
+                    49.463190722039592
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "378",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 345
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.07593548994251,
+                    49.45903996618047
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "379",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 346
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08441001127994,
+                    49.460411545653876
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "380",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 347
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08208281863692,
+                    49.459561933125634
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "381",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 348
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.08143269978096,
+                    49.458464835655619
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "382",
+                "Description": "Fernie Alpine Resort",
+                "Storz": ""
+            },
+            "id": 349
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.06898293658027,
+                    49.512017473227409
+                ]
+            },
+            "properties": {
+                "HydrantNumber": "0",
+                "Description": "",
+                "Storz": ""
+            },
+            "id": 350
+        }
+    ]
+}
