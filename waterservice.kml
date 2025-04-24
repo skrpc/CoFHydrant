@@ -1,5 +1,5 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document>
-<Placemark id="1">
+<Placemark id="244">
 <ExtendedData>
   <Data name="Hydrant number"><value>244</value></Data>
   <Data name="Description"><value>Brickers Road and Manitou by mailboxes</value></Data>
@@ -8,7 +8,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0529729873135,49.52566124296136</coordinates></Point></Placemark>
-<Placemark id="2">
+<Placemark id="288">
 <ExtendedData>
   <Data name="Hydrant number"><value>288</value></Data>
   <Data name="Description"><value>Manitou at Brenners Road</value></Data>
@@ -17,7 +17,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04310870665451,49.5283184666858</coordinates></Point></Placemark>
-<Placemark id="3">
+<Placemark id="287">
 <ExtendedData>
   <Data name="Hydrant number"><value>287</value></Data>
   <Data name="Description"><value>Manitou Rd near old home hardware site</value></Data>
@@ -26,7 +26,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04362972951931,49.52766904266999</coordinates></Point></Placemark>
-<Placemark id="4">
+<Placemark id="289">
 <ExtendedData>
   <Data name="Hydrant number"><value>289</value></Data>
   <Data name="Description"><value>Fernie Transfer Station</value></Data>
@@ -35,7 +35,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0433547695839,49.52705330894051</coordinates></Point></Placemark>
-<Placemark id="5">
+<Placemark id="286">
 <ExtendedData>
   <Data name="Hydrant number"><value>286</value></Data>
   <Data name="Description"><value>Manitou Road at new home hardware site - North Entrance</value></Data>
@@ -44,7 +44,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04454875995388,49.52726942014899</coordinates></Point></Placemark>
-<Placemark id="6">
+<Placemark id="285">
 <ExtendedData>
   <Data name="Hydrant number"><value>285</value></Data>
   <Data name="Description"><value>Manitou Road at new home hardware site - South Entrance</value></Data>
@@ -53,7 +53,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04585298438903,49.52680319159229</coordinates></Point></Placemark>
-<Placemark id="7">
+<Placemark id="284">
 <ExtendedData>
   <Data name="Hydrant number"><value>284</value></Data>
   <Data name="Description"><value>Manitou Road and Shadow Road</value></Data>
@@ -62,7 +62,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04677612102277,49.526531020402</coordinates></Point></Placemark>
-<Placemark id="8">
+<Placemark id="266">
 <ExtendedData>
   <Data name="Hydrant number"><value>266</value></Data>
   <Data name="Description"><value>Brenner Rd. (B.C. Hydro Site)</value></Data>
@@ -71,7 +71,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0467320900991,49.528216510710614</coordinates></Point></Placemark>
-<Placemark id="9">
+<Placemark id="163">
 <ExtendedData>
   <Data name="Hydrant number"><value>163</value></Data>
   <Data name="Description"><value>Chamber of Commerce</value></Data>
@@ -80,7 +80,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05475493132518,49.525096404038536</coordinates></Point></Placemark>
-<Placemark id="10">
+<Placemark id="228">
 <ExtendedData>
   <Data name="Hydrant number"><value>228</value></Data>
   <Data name="Description"><value>Manitou Rd &#x26; Shadow Rd</value></Data>
@@ -89,7 +89,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04801817126047,49.52625136482512</coordinates></Point></Placemark>
-<Placemark id="11">
+<Placemark id="131">
 <ExtendedData>
   <Data name="Hydrant number"><value>131</value></Data>
   <Data name="Description"><value>Kutenai Road &#x26; Ktunaxa Road</value></Data>
@@ -98,7 +98,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05010690161976,49.52660576233856</coordinates></Point></Placemark>
-<Placemark id="12">
+<Placemark id="132">
 <ExtendedData>
   <Data name="Hydrant number"><value>132</value></Data>
   <Data name="Description"><value>Ktunaxa Road &#x26; Shadow Road</value></Data>
@@ -107,7 +107,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04862631543645,49.526928439638446</coordinates></Point></Placemark>
-<Placemark id="14">
+<Placemark id="261">
 <ExtendedData>
   <Data name="Hydrant number"><value>261</value></Data>
   <Data name="Description"><value>Canyon Peaks Court - West Entrance</value></Data>
@@ -116,7 +116,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06681587133157,49.52667389540754</coordinates></Point></Placemark>
-<Placemark id="15">
+<Placemark id="250">
 <ExtendedData>
   <Data name="Hydrant number"><value>250</value></Data>
   <Data name="Description"><value>Alpine - Lodge Trail Lane</value></Data>
@@ -125,7 +125,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06899129989557,49.522548551701036</coordinates></Point></Placemark>
-<Placemark id="16">
+<Placemark id="254">
 <ExtendedData>
   <Data name="Hydrant number"><value>254</value></Data>
   <Data name="Description"><value>Alpine - The Lodges</value></Data>
@@ -134,7 +134,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07153073030425,49.52136343018165</coordinates></Point></Placemark>
-<Placemark id="17">
+<Placemark id="253">
 <ExtendedData>
   <Data name="Hydrant number"><value>253</value></Data>
   <Data name="Description"><value>Alpine - The Lodges</value></Data>
@@ -143,7 +143,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07069545878676,49.52246642216102</coordinates></Point></Placemark>
-<Placemark id="18">
+<Placemark id="252">
 <ExtendedData>
   <Data name="Hydrant number"><value>252</value></Data>
   <Data name="Description"><value>Alpine - The Lodges</value></Data>
@@ -152,7 +152,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.070110778606,49.52220850453508</coordinates></Point></Placemark>
-<Placemark id="19">
+<Placemark id="251">
 <ExtendedData>
   <Data name="Hydrant number"><value>251</value></Data>
   <Data name="Description"><value>Alpine  - The Lodges</value></Data>
@@ -161,7 +161,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06970989642728,49.5214316084611</coordinates></Point></Placemark>
-<Placemark id="20">
+<Placemark id="189">
 <ExtendedData>
   <Data name="Hydrant number"><value>189</value></Data>
   <Data name="Description"><value>490 Canyon Tr</value></Data>
@@ -170,7 +170,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06702129717242,49.527264784048434</coordinates></Point></Placemark>
-<Placemark id="21">
+<Placemark id="190">
 <ExtendedData>
   <Data name="Hydrant number"><value>190</value></Data>
   <Data name="Description"><value>440 Canyon Tr</value></Data>
@@ -179,7 +179,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0658916513296,49.526561279407325</coordinates></Point></Placemark>
-<Placemark id="22">
+<Placemark id="117">
 <ExtendedData>
   <Data name="Hydrant number"><value>117</value></Data>
   <Data name="Description"><value>4 Aspen Cres</value></Data>
@@ -188,7 +188,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06511373005648,49.52052226008809</coordinates></Point></Placemark>
-<Placemark id="23">
+<Placemark id="116">
 <ExtendedData>
   <Data name="Hydrant number"><value>116</value></Data>
   <Data name="Description"><value>House #32 Aspen Cres</value></Data>
@@ -197,7 +197,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06622353750457,49.51942894815544</coordinates></Point></Placemark>
-<Placemark id="24">
+<Placemark id="259">
 <ExtendedData>
   <Data name="Hydrant number"><value>259</value></Data>
   <Data name="Description"><value>Alpine Trail Place</value></Data>
@@ -206,7 +206,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06536917229573,49.52370432490742</coordinates></Point></Placemark>
-<Placemark id="25">
+<Placemark id="222">
 <ExtendedData>
   <Data name="Hydrant number"><value>222</value></Data>
   <Data name="Description"><value>29 Alpine Trail Cres</value></Data>
@@ -215,7 +215,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06890509576425,49.52433305713716</coordinates></Point></Placemark>
-<Placemark id="26">
+<Placemark id="221">
 <ExtendedData>
   <Data name="Hydrant number"><value>221</value></Data>
   <Data name="Description"><value>12 Alpine Trail Cres</value></Data>
@@ -224,7 +224,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06850896208017,49.52323305324843</coordinates></Point></Placemark>
-<Placemark id="27">
+<Placemark id="199">
 <ExtendedData>
   <Data name="Hydrant number"><value>199</value></Data>
   <Data name="Description"><value>Alpine Trail Lane (Multi Site)</value></Data>
@@ -233,7 +233,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0676277893466,49.522140544851965</coordinates></Point></Placemark>
-<Placemark id="28">
+<Placemark id="198">
 <ExtendedData>
   <Data name="Hydrant number"><value>198</value></Data>
   <Data name="Description"><value>Alpine Trail Crescent (East)</value></Data>
@@ -242,7 +242,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06749819748539,49.52379867409348</coordinates></Point></Placemark>
-<Placemark id="29">
+<Placemark id="197">
 <ExtendedData>
   <Data name="Hydrant number"><value>197</value></Data>
   <Data name="Description"><value>Alpine Trail @ Top of Hill (24 Alpine Trail)</value></Data>
@@ -251,7 +251,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06785743017426,49.52466086918739</coordinates></Point></Placemark>
-<Placemark id="30">
+<Placemark id="196">
 <ExtendedData>
   <Data name="Hydrant number"><value>196</value></Data>
   <Data name="Description"><value>Alpine Trail @Booster Station R.O.W.</value></Data>
@@ -260,7 +260,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0662006762789,49.524060460511265</coordinates></Point></Placemark>
-<Placemark id="31">
+<Placemark id="195">
 <ExtendedData>
   <Data name="Hydrant number"><value>195</value></Data>
   <Data name="Description"><value>Alpine Trail @Alpine Place</value></Data>
@@ -269,7 +269,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06573877244129,49.522942156364856</coordinates></Point></Placemark>
-<Placemark id="32">
+<Placemark id="179">
 <ExtendedData>
   <Data name="Hydrant number"><value>179</value></Data>
   <Data name="Description"><value>345 Canyon Trails</value></Data>
@@ -278,7 +278,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06411320805259,49.5246243002799</coordinates></Point></Placemark>
-<Placemark id="33">
+<Placemark id="178">
 <ExtendedData>
   <Data name="Hydrant number"><value>178</value></Data>
   <Data name="Description"><value>Canyon Trail @ Sewage Lift Station</value></Data>
@@ -287,7 +287,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0626972143315,49.52387293388137</coordinates></Point></Placemark>
-<Placemark id="34">
+<Placemark id="115">
 <ExtendedData>
   <Data name="Hydrant number"><value>115</value></Data>
   <Data name="Description"><value>House #48 Aspen Cres</value></Data>
@@ -296,7 +296,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06704407305814,49.51844314090432</coordinates></Point></Placemark>
-<Placemark id="35">
+<Placemark id="120">
 <ExtendedData>
   <Data name="Hydrant number"><value>120</value></Data>
   <Data name="Description"><value>House #11 Aspen Cres</value></Data>
@@ -305,7 +305,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06384603830732,49.52171600287707</coordinates></Point></Placemark>
-<Placemark id="36">
+<Placemark id="118">
 <ExtendedData>
   <Data name="Hydrant number"><value>118</value></Data>
   <Data name="Description"><value>Parkland and Cedar Ave (14 Parkland Drive)</value></Data>
@@ -314,7 +314,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06561137785927,49.52165339758459</coordinates></Point></Placemark>
-<Placemark id="37">
+<Placemark id="119">
 <ExtendedData>
   <Data name="Hydrant number"><value>119</value></Data>
   <Data name="Description"><value>Cedar Avenue @ Aspen Cresc (7 Cedar Ave)</value></Data>
@@ -323,7 +323,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06462077056116,49.522604914505045</coordinates></Point></Placemark>
-<Placemark id="38">
+<Placemark id="227">
 <ExtendedData>
   <Data name="Hydrant number"><value>227</value></Data>
   <Data name="Description"><value>Skifty Morris Way</value></Data>
@@ -332,7 +332,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05037874529947,49.51440790995545</coordinates></Point></Placemark>
-<Placemark id="39">
+<Placemark id="172">
 <ExtendedData>
   <Data name="Hydrant number"><value>172</value></Data>
   <Data name="Description"><value>Fairway Drive @ Club House</value></Data>
@@ -341,7 +341,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04828435824882,49.5162767351719</coordinates></Point></Placemark>
-<Placemark id="40">
+<Placemark id="171">
 <ExtendedData>
   <Data name="Hydrant number"><value>171</value></Data>
   <Data name="Description"><value>Fairway Drive @Duplex North</value></Data>
@@ -350,7 +350,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04946074253758,49.51563223107432</coordinates></Point></Placemark>
-<Placemark id="41">
+<Placemark id="170">
 <ExtendedData>
   <Data name="Hydrant number"><value>170</value></Data>
   <Data name="Description"><value>Fairway Drive @Skifty Morris Way</value></Data>
@@ -359,7 +359,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05045072550655,49.514936630389606</coordinates></Point></Placemark>
-<Placemark id="42">
+<Placemark id="169">
 <ExtendedData>
   <Data name="Hydrant number"><value>169</value></Data>
   <Data name="Description"><value>Fairway Drive @ Fernie Golf Gate</value></Data>
@@ -368,7 +368,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05187086135943,49.51472842522338</coordinates></Point></Placemark>
-<Placemark id="43">
+<Placemark id="164">
 <ExtendedData>
   <Data name="Hydrant number"><value>164</value></Data>
   <Data name="Description"><value>Golf Maint Shop @ Great Norther</value></Data>
@@ -377,7 +377,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05060816244658,49.52037901429022</coordinates></Point></Placemark>
-<Placemark id="44">
+<Placemark id="165">
 <ExtendedData>
   <Data name="Hydrant number"><value>165</value></Data>
   <Data name="Description"><value>At end of Great Northern R/W</value></Data>
@@ -386,7 +386,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04948289589079,49.52136242832242</coordinates></Point></Placemark>
-<Placemark id="45">
+<Placemark id="219">
 <ExtendedData>
   <Data name="Hydrant number"><value>219</value></Data>
   <Data name="Description"><value>Railway Avenue - Schickendanz</value></Data>
@@ -395,7 +395,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04948741531497,49.511282483944335</coordinates></Point></Placemark>
-<Placemark id="46">
+<Placemark id="218">
 <ExtendedData>
   <Data name="Hydrant number"><value>218</value></Data>
   <Data name="Description"><value>Railway Avenue - Concrete Plant</value></Data>
@@ -404,7 +404,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05018372644116,49.510716766734824</coordinates></Point></Placemark>
-<Placemark id="47">
+<Placemark id="220">
 <ExtendedData>
   <Data name="Hydrant number"><value>220</value></Data>
   <Data name="Description"><value>Ridgemont Avenue - Affordable Housing Site Entrance</value></Data>
@@ -413,7 +413,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05103774220535,49.50811821671496</coordinates></Point></Placemark>
-<Placemark id="49">
+<Placemark id="137">
 <ExtendedData>
   <Data name="Hydrant number"><value>137</value></Data>
   <Data name="Description"><value>By Dog Pound on Railway Avenue</value></Data>
@@ -422,7 +422,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05108092961096,49.50998455420026</coordinates></Point></Placemark>
-<Placemark id="50">
+<Placemark id="275">
 <ExtendedData>
   <Data name="Hydrant number"><value>275</value></Data>
   <Data name="Description"><value>Silver Ridge Way Cul-de-Sac</value></Data>
@@ -431,7 +431,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05827677370162,49.49774890606238</coordinates></Point></Placemark>
-<Placemark id="51">
+<Placemark id="274">
 <ExtendedData>
   <Data name="Hydrant number"><value>274</value></Data>
   <Data name="Description"><value>#8 Silver Ridge Way </value></Data>
@@ -440,7 +440,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05825250751083,49.49852661007961</coordinates></Point></Placemark>
-<Placemark id="52">
+<Placemark id="272">
 <ExtendedData>
   <Data name="Hydrant number"><value>272</value></Data>
   <Data name="Description"><value># 33 Silver Ridge Drive Cul-de-Sac</value></Data>
@@ -449,7 +449,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05852115318812,49.50044186318741</coordinates></Point></Placemark>
-<Placemark id="53">
+<Placemark id="273">
 <ExtendedData>
   <Data name="Hydrant number"><value>273</value></Data>
   <Data name="Description"><value>#37 Silver Ridge Drive</value></Data>
@@ -458,7 +458,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05864035603308,49.49980801764666</coordinates></Point></Placemark>
-<Placemark id="54">
+<Placemark id="268">
 <ExtendedData>
   <Data name="Hydrant number"><value>268</value></Data>
   <Data name="Description"><value>St. Margaret's Road and Silver Ridge Dr.</value></Data>
@@ -467,7 +467,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05748883172151,49.499318202822494</coordinates></Point></Placemark>
-<Placemark id="55">
+<Placemark id="162">
 <ExtendedData>
   <Data name="Hydrant number"><value>162</value></Data>
   <Data name="Description"><value>Grass Island on Ridgemont Cres</value></Data>
@@ -476,7 +476,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05366586238372,49.501514872852084</coordinates></Point></Placemark>
-<Placemark id="56">
+<Placemark id="176">
 <ExtendedData>
   <Data name="Hydrant number"><value>176</value></Data>
   <Data name="Description"><value>Parking Lot @ Aquatic Center</value></Data>
@@ -485,7 +485,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.061703474608,49.499782535980465</coordinates></Point></Placemark>
-<Placemark id="57">
+<Placemark id="177">
 <ExtendedData>
   <Data name="Hydrant number"><value>177</value></Data>
   <Data name="Description"><value>Back Lane @ Aquatic Center</value></Data>
@@ -494,7 +494,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06090768404725,49.500243864857964</coordinates></Point></Placemark>
-<Placemark id="58">
+<Placemark id="155">
 <ExtendedData>
   <Data name="Hydrant number"><value>155</value></Data>
   <Data name="Description"><value>Pine Avenue &#x26; Ridgemont Dr</value></Data>
@@ -503,7 +503,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06087032760617,49.50162680913112</coordinates></Point></Placemark>
-<Placemark id="59">
+<Placemark id="84">
 <ExtendedData>
   <Data name="Hydrant number"><value>84</value></Data>
   <Data name="Description"><value>House # 81 Ridgemont Lane</value></Data>
@@ -521,7 +521,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04744505778731,49.50704831981456</coordinates></Point></Placemark>
-<Placemark id="58">
+<Placemark id="79">
 <ExtendedData>
   <Data name="Hydrant number"><value>79</value></Data>
   <Data name="Description"><value>Ridgemont Dr &#x26; Ridgemont Lane N</value></Data>
@@ -530,7 +530,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04981835915723,49.506642059630636</coordinates></Point></Placemark>
-<Placemark id="62">
+<Placemark id="80">
 <ExtendedData>
   <Data name="Hydrant number"><value>80</value></Data>
   <Data name="Description"><value>Apt Block #59 Ridgemont Drive</value></Data>
@@ -539,7 +539,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05239432584514,49.505163337944126</coordinates></Point></Placemark>
-<Placemark id="63">
+<Placemark id="81">
 <ExtendedData>
   <Data name="Hydrant number"><value>81</value></Data>
   <Data name="Description"><value>Ridgemont Dr &#x26; Ridgemont Lane S</value></Data>
@@ -548,7 +548,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05379588633457,49.50318779275666</coordinates></Point></Placemark>
-<Placemark id="64">
+<Placemark id="87">
 <ExtendedData>
   <Data name="Hydrant number"><value>87</value></Data>
   <Data name="Description"><value>House # 123 Ridgemont Cres</value></Data>
@@ -557,7 +557,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05566374432169,49.500475306801135</coordinates></Point></Placemark>
-<Placemark id="65">
+<Placemark id="88">
 <ExtendedData>
   <Data name="Hydrant number"><value>88</value></Data>
   <Data name="Description"><value>Ridgemont Cres &#x26; St. Margaret's Rd</value></Data>
@@ -566,7 +566,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05783231424849,49.500332429922956</coordinates></Point></Placemark>
-<Placemark id="66">
+<Placemark id="83">
 <ExtendedData>
   <Data name="Hydrant number"><value>83</value></Data>
   <Data name="Description"><value>Ridgemont Dr &#x26; Ridgemont Place</value></Data>
@@ -575,7 +575,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05702039353852,49.5011243079055</coordinates></Point></Placemark>
-<Placemark id="67">
+<Placemark id="82">
 <ExtendedData>
   <Data name="Hydrant number"><value>82</value></Data>
   <Data name="Description"><value>Ridgemont Dr &#x26; Ridgmont Cres N</value></Data>
@@ -584,7 +584,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05570987999805,49.501851799857285</coordinates></Point></Placemark>
-<Placemark id="68">
+<Placemark id="86">
 <ExtendedData>
   <Data name="Hydrant number"><value>86</value></Data>
   <Data name="Description"><value>House # 19 Ridgemont Ave</value></Data>
@@ -593,7 +593,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05592599040092,49.503560700811924</coordinates></Point></Placemark>
-<Placemark id="66">
+<Placemark id="85">
 <ExtendedData>
   <Data name="Hydrant number"><value>85</value></Data>
   <Data name="Description"><value>House # 43 Ridgemont Ave</value></Data>
@@ -602,7 +602,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0537795423863,49.5052691874089</coordinates></Point></Placemark>
-<Placemark id="70">
+<Placemark id="226">
 <ExtendedData>
   <Data name="Hydrant number"><value>226</value></Data>
   <Data name="Description"><value>7th St &#x26; 3rd Ave (Firehall)</value></Data>
@@ -611,7 +611,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0610467243886,49.5050329310093</coordinates></Point></Placemark>
-<Placemark id="71">
+<Placemark id="35">
 <ExtendedData>
   <Data name="Hydrant number"><value>35</value></Data>
   <Data name="Description"><value>6th Avenue &#x26; 8th Street</value></Data>
@@ -620,7 +620,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06359364315352,49.50731223111554</coordinates></Point></Placemark>
-<Placemark id="72">
+<Placemark id="36">
 <ExtendedData>
   <Data name="Hydrant number"><value>36</value></Data>
   <Data name="Description"><value>4th Avenue &#x26; 8th Street</value></Data>
@@ -629,7 +629,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0613329024853,49.506368896551145</coordinates></Point></Placemark>
-<Placemark id="73">
+<Placemark id="37">
 <ExtendedData>
   <Data name="Hydrant number"><value>37</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 8th Street</value></Data>
@@ -638,7 +638,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06007823810438,49.505989178431335</coordinates></Point></Placemark>
-<Placemark id="74">
+<Placemark id="38">
 <ExtendedData>
   <Data name="Hydrant number"><value>38</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 8th Street</value></Data>
@@ -647,7 +647,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05861593982367,49.505358052551365</coordinates></Point></Placemark>
-<Placemark id="75">
+<Placemark id="150">
 <ExtendedData>
   <Data name="Hydrant number"><value>150</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 7th Street</value></Data>
@@ -656,7 +656,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0597594574511,49.504706233420414</coordinates></Point></Placemark>
-<Placemark id="76">
+<Placemark id="31">
 <ExtendedData>
   <Data name="Hydrant number"><value>31</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 7th Street</value></Data>
@@ -665,7 +665,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06002888915427,49.50477996918381</coordinates></Point></Placemark>
-<Placemark id="77">
+<Placemark id="30">
 <ExtendedData>
   <Data name="Hydrant number"><value>30</value></Data>
   <Data name="Description"><value>5th Avenue and 7th Street</value></Data>
@@ -674,7 +674,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06328929034198,49.506016878214226</coordinates></Point></Placemark>
-<Placemark id="78">
+<Placemark id="140">
 <ExtendedData>
   <Data name="Hydrant number"><value>140</value></Data>
   <Data name="Description"><value>6th Avenue &#x26; 6th Street</value></Data>
@@ -683,7 +683,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0653853698186,49.50592052536906</coordinates></Point></Placemark>
-<Placemark id="79">
+<Placemark id="23">
 <ExtendedData>
   <Data name="Hydrant number"><value>23</value></Data>
   <Data name="Description"><value>4th Avenue &#x26; 6th Street</value></Data>
@@ -692,7 +692,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06286365688229,49.50481333633026</coordinates></Point></Placemark>
-<Placemark id="80">
+<Placemark id="24">
 <ExtendedData>
   <Data name="Hydrant number"><value>24</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 6th Street</value></Data>
@@ -701,7 +701,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06197073508315,49.50443257476347</coordinates></Point></Placemark>
-<Placemark id="81">
+<Placemark id="25">
 <ExtendedData>
   <Data name="Hydrant number"><value>25</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 6th Street</value></Data>
@@ -710,7 +710,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06093546714236,49.50398751333057</coordinates></Point></Placemark>
-<Placemark id="82">
+<Placemark id="149">
 <ExtendedData>
   <Data name="Hydrant number"><value>149</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 6th Street</value></Data>
@@ -719,7 +719,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06008034914531,49.50346555828478</coordinates></Point></Placemark>
-<Placemark id="83">
+<Placemark id="22">
 <ExtendedData>
   <Data name="Hydrant number"><value>22</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 5th Street</value></Data>
@@ -728,7 +728,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06088009678487,49.502639326924076</coordinates></Point></Placemark>
-<Placemark id="84">
+<Placemark id="20">
 <ExtendedData>
   <Data name="Hydrant number"><value>20</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 5th Street</value></Data>
@@ -737,7 +737,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06290615797501,49.50350105211836</coordinates></Point></Placemark>
-<Placemark id="85">
+<Placemark id="19">
 <ExtendedData>
   <Data name="Hydrant number"><value>19</value></Data>
   <Data name="Description"><value>4th Avenue and 5th Street</value></Data>
@@ -746,7 +746,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06382210808646,49.50388999501364</coordinates></Point></Placemark>
-<Placemark id="86">
+<Placemark id="18">
 <ExtendedData>
   <Data name="Hydrant number"><value>18</value></Data>
   <Data name="Description"><value>5th Avenue &#x26; 5th Street</value></Data>
@@ -755,7 +755,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06497224000934,49.50435822886835</coordinates></Point></Placemark>
-<Placemark id="87">
+<Placemark id="16">
 <ExtendedData>
   <Data name="Hydrant number"><value>16</value></Data>
   <Data name="Description"><value>6a Avenue &#x26; 5th Street</value></Data>
@@ -764,7 +764,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06682208318175,49.50515969610523</coordinates></Point></Placemark>
-<Placemark id="88">
+<Placemark id="151">
 <ExtendedData>
   <Data name="Hydrant number"><value>151</value></Data>
   <Data name="Description"><value>6a Avenue &#x26; 4th Street</value></Data>
@@ -773,7 +773,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06816635990215,49.50471615858734</coordinates></Point></Placemark>
-<Placemark id="89">
+<Placemark id="7">
 <ExtendedData>
   <Data name="Hydrant number"><value>7</value></Data>
   <Data name="Description"><value>6th Avenue &#x26; 4th Street</value></Data>
@@ -782,7 +782,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06695823903276,49.50400500134051</coordinates></Point></Placemark>
-<Placemark id="90">
+<Placemark id="8">
 <ExtendedData>
   <Data name="Hydrant number"><value>8</value></Data>
   <Data name="Description"><value>4th Avenue &#x26; 4th Street</value></Data>
@@ -791,7 +791,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0645389160725,49.50317601565944</coordinates></Point></Placemark>
-<Placemark id="91">
+<Placemark id="9">
 <ExtendedData>
   <Data name="Hydrant number"><value>9</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 4th Street</value></Data>
@@ -800,7 +800,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06362560521131,49.50278445064775</coordinates></Point></Placemark>
-<Placemark id="92">
+<Placemark id="10">
 <ExtendedData>
   <Data name="Hydrant number"><value>10</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 4th Street</value></Data>
@@ -809,7 +809,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06250342167358,49.50230065928012</coordinates></Point></Placemark>
-<Placemark id="93">
+<Placemark id="11">
 <ExtendedData>
   <Data name="Hydrant number"><value>11</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 4th Street</value></Data>
@@ -818,7 +818,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06158867260964,49.50191056848131</coordinates></Point></Placemark>
-<Placemark id="94">
+<Placemark id="148">
 <ExtendedData>
   <Data name="Hydrant number"><value>148</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 3rd Street</value></Data>
@@ -827,7 +827,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0644543935874,49.501959102699544</coordinates></Point></Placemark>
-<Placemark id="95">
+<Placemark id="5">
 <ExtendedData>
   <Data name="Hydrant number"><value>5</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 3rd Street</value></Data>
@@ -836,7 +836,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06334396899672,49.50147834205785</coordinates></Point></Placemark>
-<Placemark id="96">
+<Placemark id="4">
 <ExtendedData>
   <Data name="Hydrant number"><value>4</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 2nd Street</value></Data>
@@ -845,7 +845,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06425837310756,49.50051869916304</coordinates></Point></Placemark>
-<Placemark id="97">
+<Placemark id="3">
 <ExtendedData>
   <Data name="Hydrant number"><value>3</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 2nd Street</value></Data>
@@ -854,7 +854,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06334851357373,49.50015770093692</coordinates></Point></Placemark>
-<Placemark id="98">
+<Placemark id="2">
 <ExtendedData>
   <Data name="Hydrant number"><value>2</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 1st Street</value></Data>
@@ -863,7 +863,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06532503896413,49.49946986423175</coordinates></Point></Placemark>
-<Placemark id="99">
+<Placemark id="270">
 <ExtendedData>
   <Data name="Hydrant number"><value>270</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 10th Street</value></Data>
@@ -872,7 +872,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05646799162251,49.506814390151185</coordinates></Point></Placemark>
-<Placemark id="100">
+<Placemark id="271">
 <ExtendedData>
   <Data name="Hydrant number"><value>271</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 11th Street</value></Data>
@@ -881,7 +881,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05592822810429,49.507764013028165</coordinates></Point></Placemark>
-<Placemark id="101">
+<Placemark id="263">
 <ExtendedData>
   <Data name="Hydrant number"><value>263</value></Data>
   <Data name="Description"><value>13th St and 3rd Avenue</value></Data>
@@ -890,7 +890,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05628953230818,49.510104239341814</coordinates></Point></Placemark>
-<Placemark id="103">
+<Placemark id="168">
 <ExtendedData>
   <Data name="Hydrant number"><value>168</value></Data>
   <Data name="Description"><value>Fairway Drive @ New High School</value></Data>
@@ -899,7 +899,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05350375779746,49.51389105222882</coordinates></Point></Placemark>
-<Placemark id="104">
+<Placemark id="154">
 <ExtendedData>
   <Data name="Hydrant number"><value>154</value></Data>
   <Data name="Description"><value>2nd Ave at High School (valve by wood bollard)</value></Data>
@@ -908,7 +908,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05257843825757,49.51237376219028</coordinates></Point></Placemark>
-<Placemark id="105">
+<Placemark id="136">
 <ExtendedData>
   <Data name="Hydrant number"><value>136</value></Data>
   <Data name="Description"><value>Fairway Drive behind hospital</value></Data>
@@ -917,7 +917,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05490245805103,49.51379287533844</coordinates></Point></Placemark>
-<Placemark id="106">
+<Placemark id="75">
 <ExtendedData>
   <Data name="Hydrant number"><value>75</value></Data>
   <Data name="Description"><value>Hospital Parking Lot</value></Data>
@@ -926,7 +926,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05709668925222,49.51393579923145</coordinates></Point></Placemark>
-<Placemark id="107">
+<Placemark id="72">
 <ExtendedData>
   <Data name="Hydrant number"><value>72</value></Data>
   <Data name="Description"><value>Prentice Park</value></Data>
@@ -935,7 +935,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05601533504245,49.51168336984105</coordinates></Point></Placemark>
-<Placemark id="108">
+<Placemark id="73">
 <ExtendedData>
   <Data name="Hydrant number"><value>73</value></Data>
   <Data name="Description"><value>Prentice Park</value></Data>
@@ -944,7 +944,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05517957214651,49.51252140938543</coordinates></Point></Placemark>
-<Placemark id="109">
+<Placemark id="69">
 <ExtendedData>
   <Data name="Hydrant number"><value>69</value></Data>
   <Data name="Description"><value>5th Avenue &#x26; 15th Street</value></Data>
@@ -953,7 +953,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05657343407394,49.51275531584199</coordinates></Point></Placemark>
-<Placemark id="110">
+<Placemark id="138">
 <ExtendedData>
   <Data name="Hydrant number"><value>138</value></Data>
   <Data name="Description"><value>6th Ave &#x26; 14th St (A&#x26;W)</value></Data>
@@ -962,7 +962,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05883523565251,49.51233823688144</coordinates></Point></Placemark>
-<Placemark id="111">
+<Placemark id="63">
 <ExtendedData>
   <Data name="Hydrant number"><value>63</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 14th Street</value></Data>
@@ -971,7 +971,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05415134430262,49.510358043900794</coordinates></Point></Placemark>
-<Placemark id="112">
+<Placemark id="62">
 <ExtendedData>
   <Data name="Hydrant number"><value>62</value></Data>
   <Data name="Description"><value>1st Avenue &#x26; 13th Street</value></Data>
@@ -980,7 +980,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05419514795253,49.50922151035426</coordinates></Point></Placemark>
-<Placemark id="113">
+<Placemark id="61">
 <ExtendedData>
   <Data name="Hydrant number"><value>61</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 13th Street</value></Data>
@@ -989,7 +989,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0551664711164,49.509616949422615</coordinates></Point></Placemark>
-<Placemark id="114">
+<Placemark id="167">
 <ExtendedData>
   <Data name="Hydrant number"><value>167</value></Data>
   <Data name="Description"><value>5th Avenue &#x26; 13th Street (Police Station)</value></Data>
@@ -998,7 +998,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05819531626828,49.51112110618198</coordinates></Point></Placemark>
-<Placemark id="115">
+<Placemark id="139">
 <ExtendedData>
   <Data name="Hydrant number"><value>139</value></Data>
   <Data name="Description"><value>6th Ave &#x26; 13th St</value></Data>
@@ -1007,7 +1007,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05947737207886,49.51169886498425</coordinates></Point></Placemark>
-<Placemark id="116">
+<Placemark id="55">
 <ExtendedData>
   <Data name="Hydrant number"><value>55</value></Data>
   <Data name="Description"><value>6th Avenue &#x26; 12th Street</value></Data>
@@ -1016,7 +1016,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06034072133885,49.51081289898652</coordinates></Point></Placemark>
-<Placemark id="117">
+<Placemark id="56">
 <ExtendedData>
   <Data name="Hydrant number"><value>56</value></Data>
   <Data name="Description"><value>5th Avenue &#x26; 12th Street</value></Data>
@@ -1025,7 +1025,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05903075038083,49.510253143371195</coordinates></Point></Placemark>
-<Placemark id="118">
+<Placemark id="141">
 <ExtendedData>
   <Data name="Hydrant number"><value>141</value></Data>
   <Data name="Description"><value>4th Avenue &#x26; 12th Street</value></Data>
@@ -1034,7 +1034,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05812905383799,49.50987126980629</coordinates></Point></Placemark>
-<Placemark id="119">
+<Placemark id="57">
 <ExtendedData>
   <Data name="Hydrant number"><value>57</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 12th Street</value></Data>
@@ -1043,7 +1043,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05708685808973,49.50925033582374</coordinates></Point></Placemark>
-<Placemark id="120">
+<Placemark id="52">
 <ExtendedData>
   <Data name="Hydrant number"><value>52</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 11th Street</value></Data>
@@ -1052,7 +1052,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05647690470677,49.50803958090169</coordinates></Point></Placemark>
-<Placemark id="121">
+<Placemark id="152">
 <ExtendedData>
   <Data name="Hydrant number"><value>152</value></Data>
   <Data name="Description"><value>6th Avenue &#x26; 11th Street</value></Data>
@@ -1061,7 +1061,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06098365726578,49.50992730774685</coordinates></Point></Placemark>
-<Placemark id="122">
+<Placemark id="46">
 <ExtendedData>
   <Data name="Hydrant number"><value>46</value></Data>
   <Data name="Description"><value>6th Avenue &#x26; 10th Street</value></Data>
@@ -1070,7 +1070,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06211117410139,49.50905153143377</coordinates></Point></Placemark>
-<Placemark id="123">
+<Placemark id="47">
 <ExtendedData>
   <Data name="Hydrant number"><value>47</value></Data>
   <Data name="Description"><value>5th Avenue &#x26; 10th Street</value></Data>
@@ -1079,7 +1079,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06102632454683,49.508534858012176</coordinates></Point></Placemark>
-<Placemark id="124">
+<Placemark id="48">
 <ExtendedData>
   <Data name="Hydrant number"><value>48</value></Data>
   <Data name="Description"><value>4th Avenue &#x26; 10th Street</value></Data>
@@ -1088,7 +1088,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05967104076926,49.50801629444774</coordinates></Point></Placemark>
-<Placemark id="125">
+<Placemark id="49">
 <ExtendedData>
   <Data name="Hydrant number"><value>49</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 10th Street</value></Data>
@@ -1097,7 +1097,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05731542632897,49.50721143064953</coordinates></Point></Placemark>
-<Placemark id="126">
+<Placemark id="44">
 <ExtendedData>
   <Data name="Hydrant number"><value>44</value></Data>
   <Data name="Description"><value>2nd Avenue &#x26; 9th Street</value></Data>
@@ -1106,7 +1106,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05814921832116,49.50638131221288</coordinates></Point></Placemark>
-<Placemark id="127">
+<Placemark id="43">
 <ExtendedData>
   <Data name="Hydrant number"><value>43</value></Data>
   <Data name="Description"><value>3rd Avenue &#x26; 9th Street</value></Data>
@@ -1115,7 +1115,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05945021331286,49.50691196213877</coordinates></Point></Placemark>
-<Placemark id="128">
+<Placemark id="42">
 <ExtendedData>
   <Data name="Hydrant number"><value>42</value></Data>
   <Data name="Description"><value>5th Avenue &#x26; 9th Street</value></Data>
@@ -1124,7 +1124,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0616963922903,49.50787433322762</coordinates></Point></Placemark>
-<Placemark id="129">
+<Placemark id="290">
 <ExtendedData>
   <Data name="Hydrant number"><value>290</value></Data>
   <Data name="Description"><value>9th Avenue at 14th Street</value></Data>
@@ -1133,7 +1133,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06220229740718,49.51396245517659</coordinates></Point></Placemark>
-<Placemark id="130">
+<Placemark id="281">
 <ExtendedData>
   <Data name="Hydrant number"><value>281</value></Data>
   <Data name="Description"><value>9th Avenue at 6th Street</value></Data>
@@ -1142,7 +1142,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06881609517751,49.50735591724177</coordinates></Point></Placemark>
-<Placemark id="131">
+<Placemark id="282">
 <ExtendedData>
   <Data name="Hydrant number"><value>282</value></Data>
   <Data name="Description"><value>9th Avenue at 10th Street (1002 9th ave)</value></Data>
@@ -1151,7 +1151,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06529228369395,49.51059438074285</coordinates></Point></Placemark>
-<Placemark id="132">
+<Placemark id="280">
 <ExtendedData>
   <Data name="Hydrant number"><value>280</value></Data>
   <Data name="Description"><value>9th Avenue at 8th Street</value></Data>
@@ -1160,7 +1160,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06694397109109,49.50891918429834</coordinates></Point></Placemark>
-<Placemark id="133">
+<Placemark id="279">
 <ExtendedData>
   <Data name="Hydrant number"><value>279</value></Data>
   <Data name="Description"><value>Igor's Place Burma Road</value></Data>
@@ -1169,7 +1169,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06755266413771,49.517665833921</coordinates></Point></Placemark>
-<Placemark id="134">
+<Placemark id="269">
 <ExtendedData>
   <Data name="Hydrant number"><value>269</value></Data>
   <Data name="Description"><value>13th Street &#x26; 7th Avenue</value></Data>
@@ -1178,7 +1178,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06078782453383,49.51218389676457</coordinates></Point></Placemark>
-<Placemark id="135">
+<Placemark id="77">
 <ExtendedData>
   <Data name="Hydrant number"><value>77</value></Data>
   <Data name="Description"><value>Tim Hortons - North West of building</value></Data>
@@ -1187,7 +1187,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06011676774526,49.517017465725765</coordinates></Point></Placemark>
-<Placemark id="136">
+<Placemark id="255">
 <ExtendedData>
   <Data name="Hydrant number"><value>255</value></Data>
   <Data name="Description"><value>Canadian Tire Parking Lot</value></Data>
@@ -1196,7 +1196,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05887862158578,49.51722883319247</coordinates></Point></Placemark>
-<Placemark id="137">
+<Placemark id="232">
 <ExtendedData>
   <Data name="Hydrant number"><value>232</value></Data>
   <Data name="Description"><value>9th Ave 16th St</value></Data>
@@ -1205,7 +1205,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06043284716449,49.51539630233536</coordinates></Point></Placemark>
-<Placemark id="138">
+<Placemark id="135">
 <ExtendedData>
   <Data name="Hydrant number"><value>135</value></Data>
   <Data name="Description"><value>18th Street behind Extra Foods (7th Avenue &#x26; 18th</value></Data>
@@ -1214,7 +1214,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05690959533135,49.51623380352813</coordinates></Point></Placemark>
-<Placemark id="139">
+<Placemark id="134">
 <ExtendedData>
   <Data name="Hydrant number"><value>134</value></Data>
   <Data name="Description"><value>17th St. &#x26; 9th Ave</value></Data>
@@ -1223,7 +1223,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05922008739496,49.5163771250388</coordinates></Point></Placemark>
-<Placemark id="140">
+<Placemark id="230">
 <ExtendedData>
   <Data name="Hydrant number"><value>230</value></Data>
   <Data name="Description"><value>9th Ave &#x26; 18th St</value></Data>
@@ -1232,7 +1232,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05797334974808,49.51691435942675</coordinates></Point></Placemark>
-<Placemark id="141">
+<Placemark id="231">
 <ExtendedData>
   <Data name="Hydrant number"><value>231</value></Data>
   <Data name="Description"><value>Extra Foods Parking Lot</value></Data>
@@ -1241,7 +1241,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05865086991516,49.51577357139643</coordinates></Point></Placemark>
-<Placemark id="142">
+<Placemark id="27">
 <ExtendedData>
   <Data name="Hydrant number"><value>27</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 7th Street</value></Data>
@@ -1250,7 +1250,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07012949859819,49.508923180505406</coordinates></Point></Placemark>
-<Placemark id="143">
+<Placemark id="28">
 <ExtendedData>
   <Data name="Hydrant number"><value>28</value></Data>
   <Data name="Description"><value>9th Avenue &#x26; 7th Street</value></Data>
@@ -1259,7 +1259,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06789751120559,49.507986242708725</coordinates></Point></Placemark>
-<Placemark id="144">
+<Placemark id="29">
 <ExtendedData>
   <Data name="Hydrant number"><value>29</value></Data>
   <Data name="Description"><value>8th Avenue &#x26; 7th Street</value></Data>
@@ -1268,7 +1268,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06676568245665,49.50751141239837</coordinates></Point></Placemark>
-<Placemark id="145">
+<Placemark id="158">
 <ExtendedData>
   <Data name="Hydrant number"><value>158</value></Data>
   <Data name="Description"><value>7th Avenue &#x26; 7th Street (behind Fas Gas)</value></Data>
@@ -1277,7 +1277,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06606227643636,49.50719431944591</coordinates></Point></Placemark>
-<Placemark id="146">
+<Placemark id="157">
 <ExtendedData>
   <Data name="Hydrant number"><value>157</value></Data>
   <Data name="Description"><value>7th Avenue Lane &#x26; 6th Street</value></Data>
@@ -1286,7 +1286,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06723912245916,49.50650296791416</coordinates></Point></Placemark>
-<Placemark id="147">
+<Placemark id="71">
 <ExtendedData>
   <Data name="Hydrant number"><value>71</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 17th Street</value></Data>
@@ -1295,7 +1295,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06192335613842,49.517176415400954</coordinates></Point></Placemark>
-<Placemark id="148">
+<Placemark id="70">
 <ExtendedData>
   <Data name="Hydrant number"><value>70</value></Data>
   <Data name="Description"><value>10th Avenue &#x26; 16th street</value></Data>
@@ -1304,7 +1304,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06163755982574,49.51587641065295</coordinates></Point></Placemark>
-<Placemark id="149">
+<Placemark id="76">
 <ExtendedData>
   <Data name="Hydrant number"><value>76</value></Data>
   <Data name="Description"><value>Best Western - 7th Avenue &#x26; 16th Street</value></Data>
@@ -1313,7 +1313,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05828055830392,49.51466192547825</coordinates></Point></Placemark>
-<Placemark id="150">
+<Placemark id="68">
 <ExtendedData>
   <Data name="Hydrant number"><value>68</value></Data>
   <Data name="Description"><value>8th Avenue &#x26; 15th Street</value></Data>
@@ -1322,7 +1322,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06036698268785,49.51415557342886</coordinates></Point></Placemark>
-<Placemark id="151">
+<Placemark id="67">
 <ExtendedData>
   <Data name="Hydrant number"><value>67</value></Data>
   <Data name="Description"><value>9th Avenue &#x26; 15th Street</value></Data>
@@ -1331,7 +1331,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06138933734641,49.5148040209745</coordinates></Point></Placemark>
-<Placemark id="152">
+<Placemark id="66">
 <ExtendedData>
   <Data name="Hydrant number"><value>66</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 15th Street</value></Data>
@@ -1340,7 +1340,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06339100209004,49.51570230523367</coordinates></Point></Placemark>
-<Placemark id="153">
+<Placemark id="64">
 <ExtendedData>
   <Data name="Hydrant number"><value>64</value></Data>
   <Data name="Description"><value>10th Avenue &#x26; 14th Street</value></Data>
@@ -1349,7 +1349,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06308934512269,49.514392265778426</coordinates></Point></Placemark>
-<Placemark id="154">
+<Placemark id="65">
 <ExtendedData>
   <Data name="Hydrant number"><value>65</value></Data>
   <Data name="Description"><value>8th Avenue &#x26; 14th Street</value></Data>
@@ -1358,7 +1358,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06119537400858,49.513316403547734</coordinates></Point></Placemark>
-<Placemark id="155">
+<Placemark id="59">
 <ExtendedData>
   <Data name="Hydrant number"><value>59</value></Data>
   <Data name="Description"><value>9th Avenue &#x26; 13th Street</value></Data>
@@ -1367,7 +1367,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06291758454542,49.51293259241033</coordinates></Point></Placemark>
-<Placemark id="156">
+<Placemark id="58">
 <ExtendedData>
   <Data name="Hydrant number"><value>58</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 13th Street</value></Data>
@@ -1376,7 +1376,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06529494001224,49.51407143044103</coordinates></Point></Placemark>
-<Placemark id="157">
+<Placemark id="53">
 <ExtendedData>
   <Data name="Hydrant number"><value>53</value></Data>
   <Data name="Description"><value>10th Avenue &#x26; 12th Street</value></Data>
@@ -1385,7 +1385,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06493404005022,49.512559339339624</coordinates></Point></Placemark>
-<Placemark id="158">
+<Placemark id="54">
 <ExtendedData>
   <Data name="Hydrant number"><value>54</value></Data>
   <Data name="Description"><value>8th Avenue &#x26; 12th Street</value></Data>
@@ -1394,7 +1394,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06267676508236,49.51185209492319</coordinates></Point></Placemark>
-<Placemark id="159">
+<Placemark id="51">
 <ExtendedData>
   <Data name="Hydrant number"><value>51</value></Data>
   <Data name="Description"><value>9th Avenue &#x26; 11th Street</value></Data>
@@ -1403,7 +1403,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06457738372957,49.511285536803435</coordinates></Point></Placemark>
-<Placemark id="160">
+<Placemark id="50">
 <ExtendedData>
   <Data name="Hydrant number"><value>50</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 11th Street</value></Data>
@@ -1412,7 +1412,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06705996156057,49.51232405661372</coordinates></Point></Placemark>
-<Placemark id="161">
+<Placemark id="45">
 <ExtendedData>
   <Data name="Hydrant number"><value>45</value></Data>
   <Data name="Description"><value>8th Avenue &#x26; 10th Street</value></Data>
@@ -1421,7 +1421,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0643419631414,49.51017826969612</coordinates></Point></Placemark>
-<Placemark id="162">
+<Placemark id="41">
 <ExtendedData>
   <Data name="Hydrant number"><value>41</value></Data>
   <Data name="Description"><value>7th Avenue &#x26; 9th Street (Cannabis Shop)</value></Data>
@@ -1430,7 +1430,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06419913370617,49.508765006051604</coordinates></Point></Placemark>
-<Placemark id="163">
+<Placemark id="40">
 <ExtendedData>
   <Data name="Hydrant number"><value>40</value></Data>
   <Data name="Description"><value>9th Avenue &#x26; 9th Street</value></Data>
@@ -1439,7 +1439,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06623897056114,49.5096374113875</coordinates></Point></Placemark>
-<Placemark id="164">
+<Placemark id="39">
 <ExtendedData>
   <Data name="Hydrant number"><value>39</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 9th Street (901 11th Ave)</value></Data>
@@ -1448,7 +1448,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06854743872042,49.51082919408236</coordinates></Point></Placemark>
-<Placemark id="165">
+<Placemark id="32">
 <ExtendedData>
   <Data name="Hydrant number"><value>32</value></Data>
   <Data name="Description"><value>11th Avenue &#x26; 8th Street</value></Data>
@@ -1457,7 +1457,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06931564381539,49.509772956523044</coordinates></Point></Placemark>
-<Placemark id="166">
+<Placemark id="33">
 <ExtendedData>
   <Data name="Hydrant number"><value>33</value></Data>
   <Data name="Description"><value>10th Avenue &#x26; 8th Street</value></Data>
@@ -1466,7 +1466,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06816441055798,49.50927289315037</coordinates></Point></Placemark>
-<Placemark id="167">
+<Placemark id="34">
 <ExtendedData>
   <Data name="Hydrant number"><value>34</value></Data>
   <Data name="Description"><value>7th Avenue &#x26; 8th Street</value></Data>
@@ -1475,7 +1475,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06502818978018,49.50793988206539</coordinates></Point></Placemark>
-<Placemark id="168">
+<Placemark id="15">
 <ExtendedData>
   <Data name="Hydrant number"><value>15</value></Data>
   <Data name="Description"><value>7th Avenue &#x26; 5th Street</value></Data>
@@ -1484,7 +1484,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06794743956911,49.50566717904383</coordinates></Point></Placemark>
-<Placemark id="169">
+<Placemark id="14">
 <ExtendedData>
   <Data name="Hydrant number"><value>14</value></Data>
   <Data name="Description"><value>8th Aveune &#x26; 5th Street</value></Data>
@@ -1493,7 +1493,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06832186815932,49.50595587742062</coordinates></Point></Placemark>
-<Placemark id="170">
+<Placemark id="13">
 <ExtendedData>
   <Data name="Hydrant number"><value>13</value></Data>
   <Data name="Description"><value>9th Avenue &#x26; 5th Street</value></Data>
@@ -1502,7 +1502,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06944990062787,49.50644067681223</coordinates></Point></Placemark>
-<Placemark id="171">
+<Placemark id="12">
 <ExtendedData>
   <Data name="Hydrant number"><value>12</value></Data>
   <Data name="Description"><value>10th Avenue &#x26; 5th Street</value></Data>
@@ -1511,7 +1511,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07077103315329,49.507014050037846</coordinates></Point></Placemark>
-<Placemark id="172">
+<Placemark id="143">
 <ExtendedData>
   <Data name="Hydrant number"><value>143</value></Data>
   <Data name="Description"><value>8th Avenue &#x26; 4th Street</value></Data>
@@ -1520,7 +1520,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06911336297637,49.50512739788845</coordinates></Point></Placemark>
-<Placemark id="173">
+<Placemark id="291">
 <ExtendedData>
   <Data name="Hydrant number"><value>291</value></Data>
   <Data name="Description"><value>1641 10th Avenue (mountside church)</value></Data>
@@ -1529,7 +1529,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06103708366899,49.51646941679145</coordinates></Point></Placemark>
-<Placemark id="174">
+<Placemark id="276">
 <ExtendedData>
   <Data name="Hydrant number"><value>276</value></Data>
   <Data name="Description"><value>1189 McLeod Avenue</value></Data>
@@ -1538,7 +1538,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07380904201942,49.50050006176967</coordinates></Point></Placemark>
-<Placemark id="175">
+<Placemark id="234">
 <ExtendedData>
   <Data name="Hydrant number"><value>234</value></Data>
   <Data name="Description"><value>Beaver Street and Colclough Avenue</value></Data>
@@ -1547,7 +1547,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07368736701078,49.50233641356342</coordinates></Point></Placemark>
-<Placemark id="176">
+<Placemark id="237">
 <ExtendedData>
   <Data name="Hydrant number"><value>237</value></Data>
   <Data name="Description"><value>Mcleod Avenue and Hwy 3</value></Data>
@@ -1556,7 +1556,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07700637338934,49.50049817387705</coordinates></Point></Placemark>
-<Placemark id="177">
+<Placemark id="240">
 <ExtendedData>
   <Data name="Hydrant number"><value>240</value></Data>
   <Data name="Description"><value>Anderson Rd. and Hwy 3</value></Data>
@@ -1565,7 +1565,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08116168704291,49.49643113289379</coordinates></Point></Placemark>
-<Placemark id="178">
+<Placemark id="238">
 <ExtendedData>
   <Data name="Hydrant number"><value>238</value></Data>
   <Data name="Description"><value>Highway 3 - Silver Rock</value></Data>
@@ -1574,7 +1574,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07859420314621,49.499586942149605</coordinates></Point></Placemark>
-<Placemark id="181">
+<Placemark id="239">
 <ExtendedData>
   <Data name="Hydrant number"><value>239</value></Data>
   <Data name="Description"><value>Dairy Queen - Highway #3</value></Data>
@@ -1583,7 +1583,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07958321413804,49.498815661553756</coordinates></Point></Placemark>
-<Placemark id="182">
+<Placemark id="159">
 <ExtendedData>
   <Data name="Hydrant number"><value>159</value></Data>
   <Data name="Description"><value>Hwy 3 &#x26; Smitty's</value></Data>
@@ -1592,7 +1592,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0802659759748,49.49822342330148</coordinates></Point></Placemark>
-<Placemark id="183">
+<Placemark id="129">
 <ExtendedData>
   <Data name="Hydrant number"><value>129</value></Data>
   <Data name="Description"><value>McDonald Avenue &#x26; Commons St</value></Data>
@@ -1601,7 +1601,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07394492837581,49.49941757267897</coordinates></Point></Placemark>
-<Placemark id="188">
+<Placemark id="127">
 <ExtendedData>
   <Data name="Hydrant number"><value>127</value></Data>
   <Data name="Description"><value>Colclough Avenue &#x26; Riverside</value></Data>
@@ -1610,7 +1610,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07092529275221,49.5022645631088</coordinates></Point></Placemark>
-<Placemark id="189">
+<Placemark id="235">
 <ExtendedData>
   <Data name="Hydrant number"><value>235</value></Data>
   <Data name="Description"><value>Colclough Avenue &#x26; Glover St</value></Data>
@@ -1619,7 +1619,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07535037318051,49.50226637334346</coordinates></Point></Placemark>
-<Placemark id="190">
+<Placemark id="233">
 <ExtendedData>
   <Data name="Hydrant number"><value>233</value></Data>
   <Data name="Description"><value>Beach Ave. - Beaver St.</value></Data>
@@ -1628,7 +1628,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07358665059607,49.5038724457095</coordinates></Point></Placemark>
-<Placemark id="191">
+<Placemark id="153">
 <ExtendedData>
   <Data name="Hydrant number"><value>153</value></Data>
   <Data name="Description"><value>Beach Avenue &#x26; Riverside</value></Data>
@@ -1637,7 +1637,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07175163681241,49.503934741248024</coordinates></Point></Placemark>
-<Placemark id="192">
+<Placemark id="243">
 <ExtendedData>
   <Data name="Hydrant number"><value>243</value></Data>
   <Data name="Description"><value>Pine Avenue</value></Data>
@@ -1646,7 +1646,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06366638782693,49.49755171481742</coordinates></Point></Placemark>
-<Placemark id="193">
+<Placemark id="98">
 <ExtendedData>
   <Data name="Hydrant number"><value>98</value></Data>
   <Data name="Description"><value>Pine Avenue &#x26; Coal Creek Road</value></Data>
@@ -1655,7 +1655,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06351911173104,49.49843446650116</coordinates></Point></Placemark>
-<Placemark id="194">
+<Placemark id="100">
 <ExtendedData>
   <Data name="Hydrant number"><value>100</value></Data>
   <Data name="Description"><value>House #30 Coal Creek Road</value></Data>
@@ -1664,7 +1664,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06224751680193,49.497944196852934</coordinates></Point></Placemark>
-<Placemark id="195">
+<Placemark id="101">
 <ExtendedData>
   <Data name="Hydrant number"><value>101</value></Data>
   <Data name="Description"><value>Coal Creek Road &#x26; Pine Cres</value></Data>
@@ -1673,7 +1673,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06161876078176,49.49714131326411</coordinates></Point></Placemark>
-<Placemark id="196">
+<Placemark id="99">
 <ExtendedData>
   <Data name="Hydrant number"><value>99</value></Data>
   <Data name="Description"><value>Pine Avenue &#x26; Pine Cres</value></Data>
@@ -1682,7 +1682,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06372018972591,49.49666247384556</coordinates></Point></Placemark>
-<Placemark id="197">
+<Placemark id="90">
 <ExtendedData>
   <Data name="Hydrant number"><value>90</value></Data>
   <Data name="Description"><value>Park Avenue &#x26; Park Cres S</value></Data>
@@ -1691,7 +1691,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06617461884747,49.49715665723413</coordinates></Point></Placemark>
-<Placemark id="198">
+<Placemark id="161">
 <ExtendedData>
   <Data name="Hydrant number"><value>161</value></Data>
   <Data name="Description"><value>Park Avenue &#x26; Park Cres N</value></Data>
@@ -1700,7 +1700,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06580236687519,49.49826933399275</coordinates></Point></Placemark>
-<Placemark id="199">
+<Placemark id="105">
 <ExtendedData>
   <Data name="Hydrant number"><value>105</value></Data>
   <Data name="Description"><value>Mt. Trinity Ave &#x26; Mt. Mclean St</value></Data>
@@ -1709,7 +1709,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07308462081134,49.489550112965404</coordinates></Point></Placemark>
-<Placemark id="200">
+<Placemark id="142">
 <ExtendedData>
   <Data name="Hydrant number"><value>142</value></Data>
   <Data name="Description"><value>Mt Klauer &#x26; Mt Washburn</value></Data>
@@ -1718,7 +1718,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07056048871193,49.49112501586386</coordinates></Point></Placemark>
-<Placemark id="201">
+<Placemark id="106">
 <ExtendedData>
   <Data name="Hydrant number"><value>106</value></Data>
   <Data name="Description"><value>Mt Washburn &#x26; Mt Herchemer</value></Data>
@@ -1727,7 +1727,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07196093169716,49.491273926891644</coordinates></Point></Placemark>
-<Placemark id="202">
+<Placemark id="107">
 <ExtendedData>
   <Data name="Hydrant number"><value>107</value></Data>
   <Data name="Description"><value>House #37 Mt Proctor Avenue</value></Data>
@@ -1736,7 +1736,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.073889010046,49.491207202119305</coordinates></Point></Placemark>
-<Placemark id="203">
+<Placemark id="109">
 <ExtendedData>
   <Data name="Hydrant number"><value>109</value></Data>
   <Data name="Description"><value>Mt Herchemer &#x26; Mt Klauer</value></Data>
@@ -1745,7 +1745,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07160722634228,49.49304247306983</coordinates></Point></Placemark>
-<Placemark id="204">
+<Placemark id="108">
 <ExtendedData>
   <Data name="Hydrant number"><value>108</value></Data>
   <Data name="Description"><value>Mt Proctor &#x26; Mt Klauer</value></Data>
@@ -1754,7 +1754,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07388529910556,49.49338167332898</coordinates></Point></Placemark>
-<Placemark id="205">
+<Placemark id="110">
 <ExtendedData>
   <Data name="Hydrant number"><value>110</value></Data>
   <Data name="Description"><value>Mt Trinity &#x26; Mt Ingram</value></Data>
@@ -1763,7 +1763,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07273987704971,49.49523159818578</coordinates></Point></Placemark>
-<Placemark id="206">
+<Placemark id="111">
 <ExtendedData>
   <Data name="Hydrant number"><value>111</value></Data>
   <Data name="Description"><value>Mt Proctor &#x26; Mt Minton</value></Data>
@@ -1772,7 +1772,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0738141606199,49.49606863187102</coordinates></Point></Placemark>
-<Placemark id="207">
+<Placemark id="112">
 <ExtendedData>
   <Data name="Hydrant number"><value>112</value></Data>
   <Data name="Description"><value>House #22 Mt Minton</value></Data>
@@ -1781,7 +1781,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07091098887794,49.496217688309336</coordinates></Point></Placemark>
-<Placemark id="208">
+<Placemark id="93">
 <ExtendedData>
   <Data name="Hydrant number"><value>93</value></Data>
   <Data name="Description"><value>House #9 Elkview Drive</value></Data>
@@ -1790,7 +1790,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06875209650168,49.49192067573968</coordinates></Point></Placemark>
-<Placemark id="209">
+<Placemark id="94">
 <ExtendedData>
   <Data name="Hydrant number"><value>94</value></Data>
   <Data name="Description"><value>House #32 Elkview Drive</value></Data>
@@ -1799,7 +1799,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06957694935852,49.49344315542181</coordinates></Point></Placemark>
-<Placemark id="210">
+<Placemark id="92">
 <ExtendedData>
   <Data name="Hydrant number"><value>92</value></Data>
   <Data name="Description"><value>36 Park Ave</value></Data>
@@ -1808,7 +1808,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07066202888178,49.49394950306032</coordinates></Point></Placemark>
-<Placemark id="211">
+<Placemark id="114">
 <ExtendedData>
   <Data name="Hydrant number"><value>114</value></Data>
   <Data name="Description"><value>House #1 Elkview Place</value></Data>
@@ -1817,7 +1817,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0708238244476,49.49510487096663</coordinates></Point></Placemark>
-<Placemark id="212">
+<Placemark id="156">
 <ExtendedData>
   <Data name="Hydrant number"><value>156</value></Data>
   <Data name="Description"><value>Mountview Park</value></Data>
@@ -1826,7 +1826,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07702733557652,49.493377592997184</coordinates></Point></Placemark>
-<Placemark id="213">
+<Placemark id="147">
 <ExtendedData>
   <Data name="Hydrant number"><value>147</value></Data>
   <Data name="Description"><value>Sewer Plant</value></Data>
@@ -1835,7 +1835,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0727118226634,49.488721135662836</coordinates></Point></Placemark>
-<Placemark id="214">
+<Placemark id="277">
 <ExtendedData>
   <Data name="Hydrant number"><value>277</value></Data>
   <Data name="Description"><value>Boardman Road</value></Data>
@@ -1844,7 +1844,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08132184947155,49.49471152245995</coordinates></Point></Placemark>
-<Placemark id="215">
+<Placemark id="97">
 <ExtendedData>
   <Data name="Hydrant number"><value>97</value></Data>
   <Data name="Description"><value>House #8 Elkview Cres</value></Data>
@@ -1853,7 +1853,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06779915017357,49.493387460362726</coordinates></Point></Placemark>
-<Placemark id="216">
+<Placemark id="96">
 <ExtendedData>
   <Data name="Hydrant number"><value>96</value></Data>
   <Data name="Description"><value>House #17 Elkview Cres</value></Data>
@@ -1862,7 +1862,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06633149164553,49.4944296153259</coordinates></Point></Placemark>
-<Placemark id="217">
+<Placemark id="95">
 <ExtendedData>
   <Data name="Hydrant number"><value>95</value></Data>
   <Data name="Description"><value>House #23 Elkview Cres</value></Data>
@@ -1871,7 +1871,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06784009628254,49.49440459763983</coordinates></Point></Placemark>
-<Placemark id="218">
+<Placemark id="113">
 <ExtendedData>
   <Data name="Hydrant number"><value>113</value></Data>
   <Data name="Description"><value>Park Avenue &#x26; Mt Minton St</value></Data>
@@ -1880,7 +1880,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06867486204852,49.49508211222935</coordinates></Point></Placemark>
-<Placemark id="219">
+<Placemark id="283">
 <ExtendedData>
   <Data name="Hydrant number"><value>283</value></Data>
   <Data name="Description"><value>Black Rock Place</value></Data>
@@ -1889,7 +1889,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06400500777328,49.488854713270776</coordinates></Point></Placemark>
-<Placemark id="220">
+<Placemark id="267">
 <ExtendedData>
   <Data name="Hydrant number"><value>267</value></Data>
   <Data name="Description"><value>Castle Mountain Rd. (Blackrock Subdivision)</value></Data>
@@ -1898,7 +1898,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06312021842237,49.489059009721785</coordinates></Point></Placemark>
-<Placemark id="221">
+<Placemark id="242">
 <ExtendedData>
   <Data name="Hydrant number"><value>242</value></Data>
   <Data name="Description"><value>Cokato Road - Rocky Mtn. Village</value></Data>
@@ -1907,7 +1907,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06629683913346,49.49205517472226</coordinates></Point></Placemark>
-<Placemark id="222">
+<Placemark id="204">
 <ExtendedData>
   <Data name="Hydrant number"><value>204</value></Data>
   <Data name="Description"><value>Cedar Bowl Drive - Cedar Bowl Cres. Int.</value></Data>
@@ -1916,7 +1916,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06080772042075,49.48927360533248</coordinates></Point></Placemark>
-<Placemark id="223">
+<Placemark id="205">
 <ExtendedData>
   <Data name="Hydrant number"><value>205</value></Data>
   <Data name="Description"><value>18/20 Cedar Bowl Cres.</value></Data>
@@ -1925,7 +1925,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06154343614688,49.48982710103254</coordinates></Point></Placemark>
-<Placemark id="224">
+<Placemark id="206">
 <ExtendedData>
   <Data name="Hydrant number"><value>206</value></Data>
   <Data name="Description"><value>Cedar Bowl Place @ Hydro R.O.W.</value></Data>
@@ -1934,7 +1934,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06009501953223,49.490429731905195</coordinates></Point></Placemark>
-<Placemark id="225">
+<Placemark id="188">
 <ExtendedData>
   <Data name="Hydrant number"><value>188</value></Data>
   <Data name="Description"><value>Across the street from 125 Whitetail Drive</value></Data>
@@ -1943,7 +1943,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05787867540201,49.49250540128258</coordinates></Point></Placemark>
-<Placemark id="226">
+<Placemark id="200">
 <ExtendedData>
   <Data name="Hydrant number"><value>200</value></Data>
   <Data name="Description"><value>Castle Mtn Road - Estate Drive Int.</value></Data>
@@ -1952,7 +1952,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06492359354175,49.48996646539503</coordinates></Point></Placemark>
-<Placemark id="227">
+<Placemark id="202">
 <ExtendedData>
   <Data name="Hydrant number"><value>202</value></Data>
   <Data name="Description"><value>Estate Drive @ Temp. turnaround</value></Data>
@@ -1961,7 +1961,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06632210514911,49.488764501100064</coordinates></Point></Placemark>
-<Placemark id="228">
+<Placemark id="201">
 <ExtendedData>
   <Data name="Hydrant number"><value>201</value></Data>
   <Data name="Description"><value>Estate Drive past Castle Creek</value></Data>
@@ -1970,7 +1970,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06558751411373,49.48920331591879</coordinates></Point></Placemark>
-<Placemark id="229">
+<Placemark id="181">
 <ExtendedData>
   <Data name="Hydrant number"><value>181</value></Data>
   <Data name="Description"><value>Cokato Road at Mt. McLean Drive</value></Data>
@@ -1979,7 +1979,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0660838027655,49.48997002025187</coordinates></Point></Placemark>
-<Placemark id="230">
+<Placemark id="186">
 <ExtendedData>
   <Data name="Hydrant number"><value>186</value></Data>
   <Data name="Description"><value>Montane Parkway unpaved section, south side near old bus barn</value></Data>
@@ -1988,7 +1988,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06198591211988,49.494293768033856</coordinates></Point></Placemark>
-<Placemark id="231">
+<Placemark id="183">
 <ExtendedData>
   <Data name="Hydrant number"><value>183</value></Data>
   <Data name="Description"><value>22 Slalom Dr</value></Data>
@@ -1997,7 +1997,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06283601841594,49.490909546090734</coordinates></Point></Placemark>
-<Placemark id="232">
+<Placemark id="203">
 <ExtendedData>
   <Data name="Hydrant number"><value>203</value></Data>
   <Data name="Description"><value>Cedar Bowl Drive - Castle Mtn. Road Int.</value></Data>
@@ -2006,7 +2006,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06081714374808,49.48820647787823</coordinates></Point></Placemark>
-<Placemark id="233">
+<Placemark id="187">
 <ExtendedData>
   <Data name="Hydrant number"><value>187</value></Data>
   <Data name="Description"><value>White Tail Drive Hydro R.O.W.</value></Data>
@@ -2015,7 +2015,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05938985011903,49.49256530086326</coordinates></Point></Placemark>
-<Placemark id="234">
+<Placemark id="185">
 <ExtendedData>
   <Data name="Hydrant number"><value>185</value></Data>
   <Data name="Description"><value>Castle Mtn Whitetail Drive- Slalom Drive Intersection</value></Data>
@@ -2024,7 +2024,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06042888379746,49.4930685382363</coordinates></Point></Placemark>
-<Placemark id="235">
+<Placemark id="184">
 <ExtendedData>
   <Data name="Hydrant number"><value>184</value></Data>
   <Data name="Description"><value>45 Slalom Dr</value></Data>
@@ -2033,7 +2033,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06140868256605,49.491866533991896</coordinates></Point></Placemark>
-<Placemark id="236">
+<Placemark id="182">
 <ExtendedData>
   <Data name="Hydrant number"><value>182</value></Data>
   <Data name="Description"><value>Castle Mtn (Slalom Drive and Castle Mtn Road Int.)</value></Data>
@@ -2042,7 +2042,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06431938757997,49.490223273960325</coordinates></Point></Placemark>
-<Placemark id="237">
+<Placemark id="103">
 <ExtendedData>
   <Data name="Hydrant number"><value>103</value></Data>
   <Data name="Description"><value>Fernie Mobile Home Park</value></Data>
@@ -2051,7 +2051,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06477460705358,49.49148306338732</coordinates></Point></Placemark>
-<Placemark id="238">
+<Placemark id="166">
 <ExtendedData>
   <Data name="Hydrant number"><value>166</value></Data>
   <Data name="Description"><value>By Dicken Bus on Cokato Road</value></Data>
@@ -2060,7 +2060,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0644817823221,49.49437116096337</coordinates></Point></Placemark>
-<Placemark id="239">
+<Placemark id="104">
 <ExtendedData>
   <Data name="Hydrant number"><value>104</value></Data>
   <Data name="Description"><value>Apartments on Cokato Road</value></Data>
@@ -2069,7 +2069,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06618933954005,49.49132958934489</coordinates></Point></Placemark>
-<Placemark id="240">
+<Placemark id="278">
 <ExtendedData>
   <Data name="Hydrant number"><value>278</value></Data>
   <Data name="Description"><value>Mt. Fernie Park Road</value></Data>
@@ -2078,7 +2078,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07894015514191,49.48660735343935</coordinates></Point></Placemark>
-<Placemark id="241">
+<Placemark id="264">
 <ExtendedData>
   <Data name="Hydrant number"><value>264</value></Data>
   <Data name="Description"><value>Pinnacle Ridge (45 Rivermount Place)</value></Data>
@@ -2087,7 +2087,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07362117015752,49.48288935405862</coordinates></Point></Placemark>
-<Placemark id="242">
+<Placemark id="265">
 <ExtendedData>
   <Data name="Hydrant number"><value>265</value></Data>
   <Data name="Description"><value>Pinnacle Ridge (50 Rivermount Place)</value></Data>
@@ -2096,7 +2096,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07422704249413,49.48294072307104</coordinates></Point></Placemark>
-<Placemark id="243">
+<Placemark id="208">
 <ExtendedData>
   <Data name="Hydrant number"><value>208</value></Data>
   <Data name="Description"><value>1000 Riverside Way</value></Data>
@@ -2105,7 +2105,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07596989901117,49.4859184515069</coordinates></Point></Placemark>
-<Placemark id="244">
+<Placemark id="256">
 <ExtendedData>
   <Data name="Hydrant number"><value>256</value></Data>
   <Data name="Description"><value>Pinnacle Ridge - Chalets</value></Data>
@@ -2114,7 +2114,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0744135659848,49.48398842346251</coordinates></Point></Placemark>
-<Placemark id="245">
+<Placemark id="257">
 <ExtendedData>
   <Data name="Hydrant number"><value>257</value></Data>
   <Data name="Description"><value>Pinnacle Ridge - Chalets</value></Data>
@@ -2123,7 +2123,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07421921457478,49.48404482078095</coordinates></Point></Placemark>
-<Placemark id="246">
+<Placemark id="292">
 <ExtendedData>
   <Data name="Hydrant number"><value>292</value></Data>
   <Data name="Description"><value>Rivermount Place - 1200</value></Data>
@@ -2132,7 +2132,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07563828951729,49.48487898892734</coordinates></Point></Placemark>
-<Placemark id="247">
+<Placemark id="241">
 <ExtendedData>
   <Data name="Hydrant number"><value>241</value></Data>
   <Data name="Description"><value>Pinnacle Ridge - Rivermount Place</value></Data>
@@ -2141,7 +2141,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07551821979811,49.4833213787358</coordinates></Point></Placemark>
-<Placemark id="248">
+<Placemark id="217">
 <ExtendedData>
   <Data name="Hydrant number"><value>217</value></Data>
   <Data name="Description"><value>Rivermount Place</value></Data>
@@ -2150,7 +2150,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07512453851473,49.48440075728645</coordinates></Point></Placemark>
-<Placemark id="249">
+<Placemark id="214">
 <ExtendedData>
   <Data name="Hydrant number"><value>214</value></Data>
   <Data name="Description"><value>Riverside North Condo Site #225</value></Data>
@@ -2159,7 +2159,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07689599739038,49.4869237943276</coordinates></Point></Placemark>
-<Placemark id="250">
+<Placemark id="215">
 <ExtendedData>
   <Data name="Hydrant number"><value>215</value></Data>
   <Data name="Description"><value>Riverside North Condo Site # 255</value></Data>
@@ -2168,7 +2168,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07611243739223,49.4864663116697</coordinates></Point></Placemark>
-<Placemark id="251">
+<Placemark id="216">
 <ExtendedData>
   <Data name="Hydrant number"><value>216</value></Data>
   <Data name="Description"><value>Riverside North Condo Site #275</value></Data>
@@ -2177,7 +2177,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07516643234632,49.486158532733626</coordinates></Point></Placemark>
-<Placemark id="252">
+<Placemark id="211">
 <ExtendedData>
   <Data name="Hydrant number"><value>211</value></Data>
   <Data name="Description"><value>Riverside Way - North of Lift Station</value></Data>
@@ -2186,7 +2186,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07184852460735,49.48352246568661</coordinates></Point></Placemark>
-<Placemark id="253">
+<Placemark id="210">
 <ExtendedData>
   <Data name="Hydrant number"><value>210</value></Data>
   <Data name="Description"><value>Riverside Way- Miners Village</value></Data>
@@ -2195,7 +2195,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07338250305789,49.485175275766096</coordinates></Point></Placemark>
-<Placemark id="254">
+<Placemark id="209">
 <ExtendedData>
   <Data name="Hydrant number"><value>209</value></Data>
   <Data name="Description"><value>Riverside Way - Riverside Place Int.</value></Data>
@@ -2204,7 +2204,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0746596774232,49.485484544932724</coordinates></Point></Placemark>
-<Placemark id="255">
+<Placemark id="207">
 <ExtendedData>
   <Data name="Hydrant number"><value>207</value></Data>
   <Data name="Description"><value>Riverside Way and Highway #3</value></Data>
@@ -2213,7 +2213,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0773866059946,49.486476803681526</coordinates></Point></Placemark>
-<Placemark id="256">
+<Placemark id="213">
 <ExtendedData>
   <Data name="Hydrant number"><value>213</value></Data>
   <Data name="Description"><value>Riverside Mtn. Lodge - NorthEast</value></Data>
@@ -2222,7 +2222,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07750570283834,49.487081779704184</coordinates></Point></Placemark>
-<Placemark id="257">
+<Placemark id="212">
 <ExtendedData>
   <Data name="Hydrant number"><value>212</value></Data>
   <Data name="Description"><value>Riverside Mtn. Lodge - SouthWest</value></Data>
@@ -2231,7 +2231,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07782335520764,49.48686190780507</coordinates></Point></Placemark>
-<Placemark id="258">
+<Placemark id="180">
 <ExtendedData>
   <Data name="Hydrant number"><value>180</value></Data>
   <Data name="Description"><value>398 Canyon Tr</value></Data>
@@ -2240,7 +2240,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06491280297858,49.52570025137796</coordinates></Point></Placemark>
-<Placemark id="259">
+<Placemark id="260">
 <ExtendedData>
   <Data name="Hydrant number"><value>260</value></Data>
   <Data name="Description"><value>Canyon Peaks Court - East Entrance</value></Data>
@@ -2249,7 +2249,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06559456229544,49.525792657316764</coordinates></Point></Placemark>
-<Placemark id="260">
+<Placemark id="262">
 <ExtendedData>
   <Data name="Hydrant number"><value>262</value></Data>
   <Data name="Description"><value>6th Avenue and 9th Street, NW Corner</value></Data>
@@ -2258,7 +2258,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06278769085029,49.50838682838258</coordinates></Point></Placemark>
-<Placemark id="261">
+<Placemark id="293">
 <ExtendedData>
   <Data name="Hydrant number"><value>293</value></Data>
   <Data name="Description"><value>Parking Lot at new homehardware</value></Data>
@@ -2267,7 +2267,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0459196860955,49.52698649942548</coordinates></Point></Placemark>
-<Placemark id="262">
+<Placemark id="295">
 <ExtendedData>
   <Data name="Hydrant number"><value>295</value></Data>
   <Data name="Description"><value>across the street from #2 Sunniva Drive</value></Data>
@@ -2276,7 +2276,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05654566535188,49.49241393606396</coordinates></Point></Placemark>
-<Placemark id="263">
+<Placemark id="294">
 <ExtendedData>
   <Data name="Hydrant number"><value>294</value></Data>
   <Data name="Description"><value>11 Sunniva Drive</value></Data>
@@ -2285,7 +2285,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05521069338121,49.49260402875994</coordinates></Point></Placemark>
-<Placemark id="264">
+<Placemark id="296">
 <ExtendedData>
   <Data name="Hydrant number"><value>296</value></Data>
   <Data name="Description"><value>15th Street at Best Western</value></Data>
@@ -2294,7 +2294,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05849487207618,49.51360887821889</coordinates></Point></Placemark>
-<Placemark id="265">
+<Placemark id="297">
 <ExtendedData>
   <Data name="Hydrant number"><value>297</value></Data>
   <Data name="Description"><value>Shadow Road &#x26; Kutenai Rd</value></Data>
@@ -2303,7 +2303,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.04973378007827,49.52763045680775</coordinates></Point></Placemark>
-<Placemark id="266">
+<Placemark id="298">
 <ExtendedData>
   <Data name="Hydrant number"><value>298</value></Data>
   <Data name="Description"><value>At intersection of Nordic Blvd and #1 Sunset Lane</value></Data>
@@ -2312,7 +2312,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08720538518783,49.48530327756397</coordinates></Point></Placemark>
-<Placemark id="267">
+<Placemark id="299">
 <ExtendedData>
   <Data name="Hydrant number"><value>299</value></Data>
   <Data name="Description"><value>#1 Single Track Way</value></Data>
@@ -2321,7 +2321,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08595094987729,49.485133252899615</coordinates></Point></Placemark>
-<Placemark id="268">
+<Placemark id="300">
 <ExtendedData>
   <Data name="Hydrant number"><value>300</value></Data>
   <Data name="Description"><value>#9 Single Track Way</value></Data>
@@ -2330,7 +2330,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08333769591857,49.48527786654602</coordinates></Point></Placemark>
-<Placemark id="269">
+<Placemark id="301">
 <ExtendedData>
   <Data name="Hydrant number"><value>301</value></Data>
   <Data name="Description"><value>104 Burma Road</value></Data>
@@ -2339,7 +2339,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.06855799751827,49.51663316632315</coordinates></Point></Placemark>
-<Placemark id="270">
+<Placemark id="302">
 <ExtendedData>
   <Data name="Hydrant number"><value>302</value></Data>
   <Data name="Description"><value>1120 Colclough Avenue</value></Data>
@@ -2348,7 +2348,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07275746516467,49.50212382430606</coordinates></Point></Placemark>
-<Placemark id="272">
+<Placemark id="304">
 <ExtendedData>
   <Data name="Hydrant number"><value>304</value></Data>
   <Data name="Description"><value>989 Riverside Drive</value></Data>
@@ -2357,7 +2357,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07036386905581,49.501460469273084</coordinates></Point></Placemark>
-<Placemark id="273">
+<Placemark id="305">
 <ExtendedData>
   <Data name="Hydrant number"><value>305</value></Data>
   <Data name="Description"><value>144 Wilson Street</value></Data>
@@ -2366,7 +2366,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07034960380912,49.500484268460575</coordinates></Point></Placemark>
-<Placemark id="275">
+<Placemark id="307">
 <ExtendedData>
   <Data name="Hydrant number"><value>307</value></Data>
   <Data name="Description"><value>1069 McLeod Avenue</value></Data>
@@ -2375,7 +2375,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07210207948619,49.50049373301195</coordinates></Point></Placemark>
-<Placemark id="276">
+<Placemark id="308">
 <ExtendedData>
   <Data name="Hydrant number"><value>308</value></Data>
   <Data name="Description"><value>Eckersley Street and McDonald Avenue</value></Data>
@@ -2384,7 +2384,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07216806523537,49.49940652452798</coordinates></Point></Placemark>
-<Placemark id="277">
+<Placemark id="309">
 <ExtendedData>
   <Data name="Hydrant number"><value>309</value></Data>
   <Data name="Description"><value>1319 McDonald Avenue</value></Data>
@@ -2393,7 +2393,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07588953752246,49.49955958177407</coordinates></Point></Placemark>
-<Placemark id="278">
+<Placemark id="310">
 <ExtendedData>
   <Data name="Hydrant number"><value>310</value></Data>
   <Data name="Description"><value>23 Piedmont Drive</value></Data>
@@ -2402,7 +2402,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05417298292119,49.493483368764835</coordinates></Point></Placemark>
-<Placemark id="279">
+<Placemark id="311">
 <ExtendedData>
   <Data name="Hydrant number"><value>311</value></Data>
   <Data name="Description"><value>23 Sunniva Drive</value></Data>
@@ -2411,7 +2411,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05339444181052,49.49289386267</coordinates></Point></Placemark>
-<Placemark id="280">
+<Placemark id="312">
 <ExtendedData>
   <Data name="Hydrant number"><value>312</value></Data>
   <Data name="Description"><value>Northside of Piedmont Drive, at #9.</value></Data>
@@ -2420,7 +2420,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0563487240989,49.493069634617264</coordinates></Point></Placemark>
-<Placemark id="281">
+<Placemark id="317">
 <ExtendedData>
   <Data name="Hydrant number"><value>317</value></Data>
   <Data name="Description"><value>Entrance to Fernie RV Park off 6th Avenue</value></Data>
@@ -2429,7 +2429,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05197958086501,49.520316280155576</coordinates></Point></Placemark>
-<Placemark id="282">
+<Placemark id="322">
 <ExtendedData>
   <Data name="Hydrant number"><value>322</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2438,7 +2438,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07950472114514,49.464665710227315</coordinates></Point></Placemark>
-<Placemark id="283">
+<Placemark id="323">
 <ExtendedData>
   <Data name="Hydrant number"><value>323</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2447,7 +2447,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0775165499954,49.462891483348876</coordinates></Point></Placemark>
-<Placemark id="284">
+<Placemark id="324">
 <ExtendedData>
   <Data name="Hydrant number"><value>324</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2456,7 +2456,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07599864599858,49.46077781747296</coordinates></Point></Placemark>
-<Placemark id="285">
+<Placemark id="325">
 <ExtendedData>
   <Data name="Hydrant number"><value>325</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2465,7 +2465,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07914128613739,49.46221118665681</coordinates></Point></Placemark>
-<Placemark id="286">
+<Placemark id="326">
 <ExtendedData>
   <Data name="Hydrant number"><value>326</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2474,7 +2474,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0817796596864,49.462182852530844</coordinates></Point></Placemark>
-<Placemark id="287">
+<Placemark id="327">
 <ExtendedData>
   <Data name="Hydrant number"><value>327</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2483,7 +2483,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08250583799916,49.46155421595086</coordinates></Point></Placemark>
-<Placemark id="288">
+<Placemark id="328">
 <ExtendedData>
   <Data name="Hydrant number"><value>328</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2492,7 +2492,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0813341833404,49.463197897528914</coordinates></Point></Placemark>
-<Placemark id="289">
+<Placemark id="329">
 <ExtendedData>
   <Data name="Hydrant number"><value>329</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2501,7 +2501,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08386823014558,49.46465883620941</coordinates></Point></Placemark>
-<Placemark id="290">
+<Placemark id="330">
 <ExtendedData>
   <Data name="Hydrant number"><value>330</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2510,7 +2510,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08300141608352,49.46565724597252</coordinates></Point></Placemark>
-<Placemark id="291">
+<Placemark id="331">
 <ExtendedData>
   <Data name="Hydrant number"><value>331</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2519,7 +2519,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08452770585353,49.46687107412639</coordinates></Point></Placemark>
-<Placemark id="292">
+<Placemark id="332">
 <ExtendedData>
   <Data name="Hydrant number"><value>332</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2528,7 +2528,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08257660548061,49.46613721010215</coordinates></Point></Placemark>
-<Placemark id="293">
+<Placemark id="333">
 <ExtendedData>
   <Data name="Hydrant number"><value>333</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2537,7 +2537,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08510323040491,49.465965902219835</coordinates></Point></Placemark>
-<Placemark id="294">
+<Placemark id="334">
 <ExtendedData>
   <Data name="Hydrant number"><value>334</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2546,7 +2546,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08648867332154,49.46649746501225</coordinates></Point></Placemark>
-<Placemark id="295">
+<Placemark id="335">
 <ExtendedData>
   <Data name="Hydrant number"><value>335</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2555,7 +2555,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0898051653156,49.4661566049407</coordinates></Point></Placemark>
-<Placemark id="296">
+<Placemark id="336">
 <ExtendedData>
   <Data name="Hydrant number"><value>336</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2564,7 +2564,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08926580064933,49.465061212760666</coordinates></Point></Placemark>
-<Placemark id="297">
+<Placemark id="337">
 <ExtendedData>
   <Data name="Hydrant number"><value>337</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2573,7 +2573,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0889656663264,49.46474244589679</coordinates></Point></Placemark>
-<Placemark id="298">
+<Placemark id="338">
 <ExtendedData>
   <Data name="Hydrant number"><value>338</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2582,7 +2582,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.09148747807741,49.465671394810336</coordinates></Point></Placemark>
-<Placemark id="299">
+<Placemark id="339">
 <ExtendedData>
   <Data name="Hydrant number"><value>339</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2591,7 +2591,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08609986450027,49.46338693597095</coordinates></Point></Placemark>
-<Placemark id="300">
+<Placemark id="340">
 <ExtendedData>
   <Data name="Hydrant number"><value>340</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2600,7 +2600,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08712524827794,49.46292963860658</coordinates></Point></Placemark>
-<Placemark id="301">
+<Placemark id="341">
 <ExtendedData>
   <Data name="Hydrant number"><value>341</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2609,7 +2609,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08530094870063,49.45918772175019</coordinates></Point></Placemark>
-<Placemark id="303">
+<Placemark id="314">
 <ExtendedData>
   <Data name="Hydrant number"><value>314</value></Data>
   <Data name="Description"><value>1290 McLeod Avenue</value></Data>
@@ -2618,7 +2618,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07513567313266,49.500494213152805</coordinates></Point></Placemark>
-<Placemark id="306">
+<Placemark id="318">
 <ExtendedData>
   <Data name="Hydrant number"><value>318</value></Data>
   <Data name="Description"><value>1492 Railway Ave (Yards)</value></Data>
@@ -2627,7 +2627,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05185932968611,49.50933291336759</coordinates></Point></Placemark>
-<Placemark id="307">
+<Placemark id="319">
 <ExtendedData>
   <Data name="Hydrant number"><value>319</value></Data>
   <Data name="Description"><value>15th Street Lane and 16th Street</value></Data>
@@ -2636,7 +2636,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0521170662226,49.51082337819721</coordinates></Point></Placemark>
-<Placemark id="308">
+<Placemark id="320">
 <ExtendedData>
   <Data name="Hydrant number"><value>320</value></Data>
   <Data name="Description"><value>2nd Avenue and 16th Street</value></Data>
@@ -2645,7 +2645,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05277280404064,49.51171310434347</coordinates></Point></Placemark>
-<Placemark id="309">
+<Placemark id="321">
 <ExtendedData>
   <Data name="Hydrant number"><value>321</value></Data>
   <Data name="Description"><value>2nd Avenue and 15th Street</value></Data>
@@ -2654,7 +2654,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05339988110957,49.511086239649615</coordinates></Point></Placemark>
-<Placemark id="310">
+<Placemark id="377">
 <ExtendedData>
   <Data name="Hydrant number"><value>377</value></Data>
   <Data name="Description"><value>112 Burma Road</value></Data>
@@ -2663,7 +2663,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07034214330068,49.5160393736596</coordinates></Point></Placemark>
-<Placemark id="311">
+<Placemark id="343">
 <ExtendedData>
   <Data name="Hydrant number"><value>343</value></Data>
   <Data name="Description"><value>1410 McDonald Avenue</value></Data>
@@ -2672,7 +2672,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07765397426756,49.49956290956946</coordinates></Point></Placemark>
-<Placemark id="312">
+<Placemark id="348">
 <ExtendedData>
   <Data name="Hydrant number"><value>348</value></Data>
   <Data name="Description"><value>1221 McLeod Avenue</value></Data>
@@ -2681,7 +2681,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07381349856152,49.5012417208172</coordinates></Point></Placemark>
-<Placemark id="313">
+<Placemark id="349">
 <ExtendedData>
   <Data name="Hydrant number"><value>349</value></Data>
   <Data name="Description"><value>1050 Hand Avenue</value></Data>
@@ -2690,7 +2690,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07189213422113,49.50123558350873</coordinates></Point></Placemark>
-<Placemark id="314">
+<Placemark id="342">
 <ExtendedData>
   <Data name="Hydrant number"><value>342</value></Data>
   <Data name="Description"><value>1689 McDonald Avenue</value></Data>
@@ -2699,7 +2699,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08074117487863,49.49956567028594</coordinates></Point></Placemark>
-<Placemark id="315">
+<Placemark id="345">
 <ExtendedData>
   <Data name="Hydrant number"><value>345</value></Data>
   <Data name="Description"><value>1624 McLeod Avenue</value></Data>
@@ -2708,7 +2708,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07937333445001,49.500337645564635</coordinates></Point></Placemark>
-<Placemark id="316">
+<Placemark id="344">
 <ExtendedData>
   <Data name="Hydrant number"><value>344</value></Data>
   <Data name="Description"><value>1703 McLeod Avenue</value></Data>
@@ -2717,7 +2717,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08137933715813,49.50050961849567</coordinates></Point></Placemark>
-<Placemark id="317">
+<Placemark id="346">
 <ExtendedData>
   <Data name="Hydrant number"><value>346</value></Data>
   <Data name="Description"><value>1410 Hand Avenue</value></Data>
@@ -2726,7 +2726,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0771235083125,49.50137716028461</coordinates></Point></Placemark>
-<Placemark id="318">
+<Placemark id="347">
 <ExtendedData>
   <Data name="Hydrant number"><value>347</value></Data>
   <Data name="Description"><value>1369 Hand Avenue</value></Data>
@@ -2735,7 +2735,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07588479262115,49.5013911412884</coordinates></Point></Placemark>
-<Placemark id="319">
+<Placemark id="350">
 <ExtendedData>
   <Data name="Hydrant number"><value>350</value></Data>
   <Data name="Description"><value>1381 Colclough Avenue</value></Data>
@@ -2744,7 +2744,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07675626534626,49.50228646035138</coordinates></Point></Placemark>
-<Placemark id="320">
+<Placemark id="351">
 <ExtendedData>
   <Data name="Hydrant number"><value>351</value></Data>
   <Data name="Description"><value>1170 Beach Avenue</value></Data>
@@ -2753,7 +2753,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07308953100271,49.503724564731</coordinates></Point></Placemark>
-<Placemark id="321">
+<Placemark id="354">
 <ExtendedData>
   <Data name="Hydrant number"><value>354</value></Data>
   <Data name="Description"><value>311 Stewart Avenue</value></Data>
@@ -2762,7 +2762,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07534576931468,49.50548261351564</coordinates></Point></Placemark>
-<Placemark id="322">
+<Placemark id="352">
 <ExtendedData>
   <Data name="Hydrant number"><value>352</value></Data>
   <Data name="Description"><value>Hoath Street</value></Data>
@@ -2771,7 +2771,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0751675830882,49.50373971120979</coordinates></Point></Placemark>
-<Placemark id="323">
+<Placemark id="353">
 <ExtendedData>
   <Data name="Hydrant number"><value>353</value></Data>
   <Data name="Description"><value>315 Burma Road</value></Data>
@@ -2780,7 +2780,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07684377472967,49.503988019105044</coordinates></Point></Placemark>
-<Placemark id="324">
+<Placemark id="355">
 <ExtendedData>
   <Data name="Hydrant number"><value>355</value></Data>
   <Data name="Description"><value>1540 Stewart Avenue</value></Data>
@@ -2789,7 +2789,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07880888253281,49.50542472069848</coordinates></Point></Placemark>
-<Placemark id="325">
+<Placemark id="356">
 <ExtendedData>
   <Data name="Hydrant number"><value>356</value></Data>
   <Data name="Description"><value>Burma Rd and Stewart Ave</value></Data>
@@ -2798,7 +2798,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07710504254352,49.5053564722691</coordinates></Point></Placemark>
-<Placemark id="326">
+<Placemark id="357">
 <ExtendedData>
   <Data name="Hydrant number"><value>357</value></Data>
   <Data name="Description"><value>326 Riverside Drive</value></Data>
@@ -2807,7 +2807,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07272750455331,49.50486976099299</coordinates></Point></Placemark>
-<Placemark id="327">
+<Placemark id="358">
 <ExtendedData>
   <Data name="Hydrant number"><value>358</value></Data>
   <Data name="Description"><value>End of Yirri Drive</value></Data>
@@ -2816,7 +2816,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05371542962449,49.4919632226027</coordinates></Point></Placemark>
-<Placemark id="328">
+<Placemark id="359">
 <ExtendedData>
   <Data name="Hydrant number"><value>359</value></Data>
   <Data name="Description"><value>42 Piedmont Drive</value></Data>
@@ -2825,7 +2825,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05190281533237,49.49252683200913</coordinates></Point></Placemark>
-<Placemark id="329">
+<Placemark id="360">
 <ExtendedData>
   <Data name="Hydrant number"><value>360</value></Data>
   <Data name="Description"><value>28 Sunniva Drive</value></Data>
@@ -2834,7 +2834,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05243915806602,49.493416868729526</coordinates></Point></Placemark>
-<Placemark id="330">
+<Placemark id="361">
 <ExtendedData>
   <Data name="Hydrant number"><value>361</value></Data>
   <Data name="Description"><value>4 Mammoth Drive</value></Data>
@@ -2843,7 +2843,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08434562722691,49.4842366635028</coordinates></Point></Placemark>
-<Placemark id="331">
+<Placemark id="363">
 <ExtendedData>
   <Data name="Hydrant number"><value>363</value></Data>
   <Data name="Description"><value>7 Mammoth Drive</value></Data>
@@ -2852,7 +2852,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08369234630116,49.48356557018853</coordinates></Point></Placemark>
-<Placemark id="332">
+<Placemark id="364">
 <ExtendedData>
   <Data name="Hydrant number"><value>364</value></Data>
   <Data name="Description"><value>Mammoth Drive</value></Data>
@@ -2861,7 +2861,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08318533895142,49.48409543398806</coordinates></Point></Placemark>
-<Placemark id="333">
+<Placemark id="362">
 <ExtendedData>
   <Data name="Hydrant number"><value>362</value></Data>
   <Data name="Description"><value>2 Oliveriie Cres</value></Data>
@@ -2870,7 +2870,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0632835132764,49.52026623216691</coordinates></Point></Placemark>
-<Placemark id="334">
+<Placemark id="365">
 <ExtendedData>
   <Data name="Hydrant number"><value>365</value></Data>
   <Data name="Description"><value>118 Burma Road</value></Data>
@@ -2879,7 +2879,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07209051188029,49.51567928371093</coordinates></Point></Placemark>
-<Placemark id="335">
+<Placemark id="366">
 <ExtendedData>
   <Data name="Hydrant number"><value>366</value></Data>
   <Data name="Description"><value>BC Hydro Substation</value></Data>
@@ -2888,7 +2888,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05978413237533,49.502460765786445</coordinates></Point></Placemark>
-<Placemark id="336">
+<Placemark id="367">
 <ExtendedData>
   <Data name="Hydrant number"><value>367</value></Data>
   <Data name="Description"><value>BC Hydro Substation - Ground Hydrant for Irrigation</value></Data>
@@ -2897,7 +2897,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05909248260716,49.50279527868684</coordinates></Point></Placemark>
-<Placemark id="337">
+<Placemark id="368">
 <ExtendedData>
   <Data name="Hydrant number"><value>368</value></Data>
   <Data name="Description"><value>BC Hydro Substation</value></Data>
@@ -2906,7 +2906,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05903255419794,49.502883640786614</coordinates></Point></Placemark>
-<Placemark id="338">
+<Placemark id="369">
 <ExtendedData>
   <Data name="Hydrant number"><value>369</value></Data>
   <Data name="Description"><value>Mill St &#x26; Macdonald Ave</value></Data>
@@ -2915,7 +2915,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07100745536304,49.499557550908655</coordinates></Point></Placemark>
-<Placemark id="339">
+<Placemark id="371">
 <ExtendedData>
   <Data name="Hydrant number"><value>371</value></Data>
   <Data name="Description"><value>9 corner Pocket Place</value></Data>
@@ -2924,7 +2924,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08758013357827,49.48537501344481</coordinates></Point></Placemark>
-<Placemark id="340">
+<Placemark id="372">
 <ExtendedData>
   <Data name="Hydrant number"><value>372</value></Data>
   <Data name="Description"><value>124 Burma Road</value></Data>
@@ -2933,7 +2933,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07300960519692,49.51468970316986</coordinates></Point></Placemark>
-<Placemark id="341">
+<Placemark id="373">
 <ExtendedData>
   <Data name="Hydrant number"><value>373</value></Data>
   <Data name="Description"><value>127 Burma Road</value></Data>
@@ -2942,7 +2942,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.0743506363042,49.513785271577326</coordinates></Point></Placemark>
-<Placemark id="342">
+<Placemark id="374">
 <ExtendedData>
   <Data name="Hydrant number"><value>374</value></Data>
   <Data name="Description"><value>21 Morrissey Court</value></Data>
@@ -2951,7 +2951,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05461690428345,49.49170849928684</coordinates></Point></Placemark>
-<Placemark id="343">
+<Placemark id="375">
 <ExtendedData>
   <Data name="Hydrant number"><value>375</value></Data>
   <Data name="Description"><value>19 Morrissey Court</value></Data>
@@ -2960,7 +2960,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05577991625088,49.491499734283465</coordinates></Point></Placemark>
-<Placemark id="344">
+<Placemark id="376">
 <ExtendedData>
   <Data name="Hydrant number"><value>376</value></Data>
   <Data name="Description"><value>15 Morrissey Court</value></Data>
@@ -2969,7 +2969,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.05712606865357,49.49160273135386</coordinates></Point></Placemark>
-<Placemark id="345">
+<Placemark id="378">
 <ExtendedData>
   <Data name="Hydrant number"><value>378</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2978,7 +2978,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08021595508482,49.46319072203959</coordinates></Point></Placemark>
-<Placemark id="346">
+<Placemark id="379">
 <ExtendedData>
   <Data name="Hydrant number"><value>379</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2987,7 +2987,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.07593548994251,49.45903996618047</coordinates></Point></Placemark>
-<Placemark id="347">
+<Placemark id="380">
 <ExtendedData>
   <Data name="Hydrant number"><value>380</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -2996,7 +2996,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08441001127994,49.460411545653876</coordinates></Point></Placemark>
-<Placemark id="348">
+<Placemark id="381">
 <ExtendedData>
   <Data name="Hydrant number"><value>381</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -3005,7 +3005,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08208281863692,49.459561933125634</coordinates></Point></Placemark>
-<Placemark id="349">
+<Placemark id="382">
 <ExtendedData>
   <Data name="Hydrant number"><value>382</value></Data>
   <Data name="Description"><value>Fernie Alpine Resort</value></Data>
@@ -3014,7 +3014,7 @@
   <Data name="marker-size"><value>small</value></Data>
   <Data name="marker-symbol"><value>fire-station</value></Data></ExtendedData>
   <Point><coordinates>-115.08143269978096,49.45846483565562</coordinates></Point></Placemark>
-<Placemark id="350">
+<Placemark id="0">
 <ExtendedData>
   <Data name="Hydrant number"><value>0</value></Data>
   <Data name="Description"><value></value></Data>
