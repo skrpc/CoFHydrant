@@ -15,7 +15,7 @@
                 "Description": "Brickers Road and Manitou by mailboxes",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 1
@@ -34,7 +34,7 @@
                 "Description": "Manitou at Brenners Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 2
@@ -53,7 +53,7 @@
                 "Description": "Manitou Rd near old home hardware site",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 3
@@ -72,7 +72,7 @@
                 "Description": "Fernie Transfer Station",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 4
@@ -91,7 +91,7 @@
                 "Description": "Manitou Road at new home hardware site - North Entrance",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 5
@@ -110,7 +110,7 @@
                 "Description": "Manitou Road at new home hardware site - South Entrance",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 6
@@ -129,7 +129,7 @@
                 "Description": "Manitou Road and Shadow Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 7
@@ -148,7 +148,7 @@
                 "Description": "Brenner Rd. (B.C. Hydro Site)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 8
@@ -167,7 +167,7 @@
                 "Description": "Chamber of Commerce",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 9
@@ -186,7 +186,7 @@
                 "Description": "Manitou Rd & Shadow Rd",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 10
@@ -205,7 +205,7 @@
                 "Description": "Kutenai Road & Ktunaxa Road",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 11
@@ -224,7 +224,7 @@
                 "Description": "Ktunaxa Road & Shadow Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 12
@@ -243,7 +243,7 @@
                 "Description": "Canyon Peaks Court - West Entrance",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 14
@@ -262,7 +262,7 @@
                 "Description": "Alpine - Lodge Trail Lane",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 15
@@ -281,7 +281,7 @@
                 "Description": "Alpine - The Lodges",
                 "Storz": "UNKN",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 16
@@ -300,7 +300,7 @@
                 "Description": "Alpine - The Lodges",
                 "Storz": "UNKN",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 17
@@ -319,7 +319,7 @@
                 "Description": "Alpine - The Lodges",
                 "Storz": "UNKN",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 18
@@ -338,7 +338,7 @@
                 "Description": "Alpine  - The Lodges",
                 "Storz": "UNKN",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 19
@@ -357,7 +357,7 @@
                 "Description": "490 Canyon Tr",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 20
@@ -376,7 +376,7 @@
                 "Description": "440 Canyon Tr",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 21
@@ -395,7 +395,7 @@
                 "Description": "4 Aspen Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 22
@@ -414,7 +414,7 @@
                 "Description": "House #32 Aspen Cres",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 23
@@ -433,7 +433,7 @@
                 "Description": "Alpine Trail Place",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 24
@@ -452,7 +452,7 @@
                 "Description": "29 Alpine Trail Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 25
@@ -471,7 +471,7 @@
                 "Description": "12 Alpine Trail Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 26
@@ -490,7 +490,7 @@
                 "Description": "Alpine Trail Lane (Multi Site)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 27
@@ -509,7 +509,7 @@
                 "Description": "Alpine Trail Crescent (East)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 28
@@ -528,7 +528,7 @@
                 "Description": "Alpine Trail @ Top of Hill (24 Alpine Trail)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 29
@@ -547,7 +547,7 @@
                 "Description": "Alpine Trail @Booster Station R.O.W.",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 30
@@ -566,7 +566,7 @@
                 "Description": "Alpine Trail @Alpine Place",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 31
@@ -585,7 +585,7 @@
                 "Description": "345 Canyon Trails",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 32
@@ -604,7 +604,7 @@
                 "Description": "Canyon Trail @ Sewage Lift Station",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 33
@@ -623,7 +623,7 @@
                 "Description": "House #48 Aspen Cres",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 34
@@ -642,7 +642,7 @@
                 "Description": "House #11 Aspen Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 35
@@ -661,7 +661,7 @@
                 "Description": "Parkland and Cedar Ave (14 Parkland Drive)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 36
@@ -680,7 +680,7 @@
                 "Description": "Cedar Avenue @ Aspen Cresc (7 Cedar Ave)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 37
@@ -699,7 +699,7 @@
                 "Description": "Skifty Morris Way",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 38
@@ -718,7 +718,7 @@
                 "Description": "Fairway Drive @ Club House",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 39
@@ -737,7 +737,7 @@
                 "Description": "Fairway Drive @Duplex North",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 40
@@ -756,7 +756,7 @@
                 "Description": "Fairway Drive @Skifty Morris Way",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 41
@@ -775,7 +775,7 @@
                 "Description": "Fairway Drive @ Fernie Golf Gate",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 42
@@ -794,7 +794,7 @@
                 "Description": "Golf Maint Shop @ Great Norther",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 43
@@ -813,7 +813,7 @@
                 "Description": "At end of Great Northern R/W",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 44
@@ -832,7 +832,7 @@
                 "Description": "Railway Avenue - Schickendanz",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 45
@@ -851,7 +851,7 @@
                 "Description": "Railway Avenue - Concrete Plant",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 46
@@ -870,7 +870,7 @@
                 "Description": "Ridgemont Avenue - Affordable Housing Site Entrance",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 47
@@ -889,7 +889,7 @@
                 "Description": "By Dog Pound on Railway Avenue",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 49
@@ -908,7 +908,7 @@
                 "Description": "Silver Ridge Way Cul-de-Sac",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 50
@@ -927,7 +927,7 @@
                 "Description": "#8 Silver Ridge Way ",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 51
@@ -946,7 +946,7 @@
                 "Description": "# 33 Silver Ridge Drive Cul-de-Sac",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 52
@@ -965,7 +965,7 @@
                 "Description": "#37 Silver Ridge Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 53
@@ -984,7 +984,7 @@
                 "Description": "St. Margaret's Road and Silver Ridge Dr.",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 54
@@ -1003,7 +1003,7 @@
                 "Description": "Grass Island on Ridgemont Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 55
@@ -1022,7 +1022,7 @@
                 "Description": "Parking Lot @ Aquatic Center",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 56
@@ -1041,7 +1041,7 @@
                 "Description": "Back Lane @ Aquatic Center",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 57
@@ -1060,7 +1060,7 @@
                 "Description": "Pine Avenue & Ridgemont Dr",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 58
@@ -1079,7 +1079,7 @@
                 "Description": "House # 81 Ridgemont Lane",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 59
@@ -1098,7 +1098,7 @@
                 "Description": "House # 91 Ridgemont Drive",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 57
@@ -1117,7 +1117,7 @@
                 "Description": "Ridgemont Dr & Ridgemont Lane N",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 58
@@ -1136,7 +1136,7 @@
                 "Description": "Apt Block #59 Ridgemont Drive",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 62
@@ -1155,7 +1155,7 @@
                 "Description": "Ridgemont Dr & Ridgemont Lane S",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 63
@@ -1174,7 +1174,7 @@
                 "Description": "House # 123 Ridgemont Cres",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 64
@@ -1193,7 +1193,7 @@
                 "Description": "Ridgemont Cres & St. Margaret's Rd",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 65
@@ -1212,7 +1212,7 @@
                 "Description": "Ridgemont Dr & Ridgemont Place",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 66
@@ -1231,7 +1231,7 @@
                 "Description": "Ridgemont Dr & Ridgmont Cres N",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 67
@@ -1250,7 +1250,7 @@
                 "Description": "House # 19 Ridgemont Ave",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 68
@@ -1269,7 +1269,7 @@
                 "Description": "House # 43 Ridgemont Ave",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 66
@@ -1288,7 +1288,7 @@
                 "Description": "7th St & 3rd Ave (Firehall)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 70
@@ -1307,7 +1307,7 @@
                 "Description": "6th Avenue & 8th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 71
@@ -1326,7 +1326,7 @@
                 "Description": "4th Avenue & 8th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 72
@@ -1345,7 +1345,7 @@
                 "Description": "3rd Avenue & 8th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 73
@@ -1364,7 +1364,7 @@
                 "Description": "1st Avenue & 8th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 74
@@ -1383,7 +1383,7 @@
                 "Description": "2nd Avenue & 7th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 75
@@ -1402,7 +1402,7 @@
                 "Description": "2nd Avenue & 7th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 76
@@ -1421,7 +1421,7 @@
                 "Description": "5th Avenue and 7th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 77
@@ -1440,7 +1440,7 @@
                 "Description": "6th Avenue & 6th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 78
@@ -1459,7 +1459,7 @@
                 "Description": "4th Avenue & 6th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 79
@@ -1478,7 +1478,7 @@
                 "Description": "3rd Avenue & 6th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 80
@@ -1497,7 +1497,7 @@
                 "Description": "2nd Avenue & 6th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 81
@@ -1516,7 +1516,7 @@
                 "Description": "1st Avenue & 6th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 82
@@ -1535,7 +1535,7 @@
                 "Description": "1st Avenue & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 83
@@ -1554,7 +1554,7 @@
                 "Description": "3rd Avenue & 5th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 84
@@ -1573,7 +1573,7 @@
                 "Description": "4th Avenue and 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 85
@@ -1592,7 +1592,7 @@
                 "Description": "5th Avenue & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 86
@@ -1611,7 +1611,7 @@
                 "Description": "6a Avenue & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 87
@@ -1630,7 +1630,7 @@
                 "Description": "6a Avenue & 4th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 88
@@ -1649,7 +1649,7 @@
                 "Description": "6th Avenue & 4th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 89
@@ -1668,7 +1668,7 @@
                 "Description": "4th Avenue & 4th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 90
@@ -1687,7 +1687,7 @@
                 "Description": "3rd Avenue & 4th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 91
@@ -1706,7 +1706,7 @@
                 "Description": "2nd Avenue & 4th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 92
@@ -1725,7 +1725,7 @@
                 "Description": "1st Avenue & 4th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 93
@@ -1744,7 +1744,7 @@
                 "Description": "3rd Avenue & 3rd Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 94
@@ -1763,7 +1763,7 @@
                 "Description": "2nd Avenue & 3rd Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 95
@@ -1782,7 +1782,7 @@
                 "Description": "2nd Avenue & 2nd Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 96
@@ -1801,7 +1801,7 @@
                 "Description": "1st Avenue & 2nd Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 97
@@ -1820,7 +1820,7 @@
                 "Description": "2nd Avenue & 1st Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 98
@@ -1839,7 +1839,7 @@
                 "Description": "1st Avenue & 10th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 99
@@ -1858,7 +1858,7 @@
                 "Description": "1st Avenue & 11th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 100
@@ -1877,7 +1877,7 @@
                 "Description": "13th St and 3rd Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 101
@@ -1896,7 +1896,7 @@
                 "Description": "Fairway Drive @ New High School",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 103
@@ -1915,7 +1915,7 @@
                 "Description": "2nd Ave at High School (valve by wood bollard)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 104
@@ -1934,7 +1934,7 @@
                 "Description": "Fairway Drive behind hospital",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 105
@@ -1953,7 +1953,7 @@
                 "Description": "Hospital Parking Lot",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 106
@@ -1972,7 +1972,7 @@
                 "Description": "Prentice Park",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 107
@@ -1991,7 +1991,7 @@
                 "Description": "Prentice Park",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 108
@@ -2010,7 +2010,7 @@
                 "Description": "5th Avenue & 15th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 109
@@ -2029,7 +2029,7 @@
                 "Description": "6th Ave & 14th St (A&W)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 110
@@ -2048,7 +2048,7 @@
                 "Description": "2nd Avenue & 14th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 111
@@ -2067,7 +2067,7 @@
                 "Description": "1st Avenue & 13th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 112
@@ -2086,7 +2086,7 @@
                 "Description": "2nd Avenue & 13th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 113
@@ -2105,7 +2105,7 @@
                 "Description": "5th Avenue & 13th Street (Police Station)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 114
@@ -2124,7 +2124,7 @@
                 "Description": "6th Ave & 13th St",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 115
@@ -2143,7 +2143,7 @@
                 "Description": "6th Avenue & 12th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 116
@@ -2162,7 +2162,7 @@
                 "Description": "5th Avenue & 12th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 117
@@ -2181,7 +2181,7 @@
                 "Description": "4th Avenue & 12th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 118
@@ -2200,7 +2200,7 @@
                 "Description": "3rd Avenue & 12th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 119
@@ -2219,7 +2219,7 @@
                 "Description": "2nd Avenue & 11th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 120
@@ -2238,7 +2238,7 @@
                 "Description": "6th Avenue & 11th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 121
@@ -2257,7 +2257,7 @@
                 "Description": "6th Avenue & 10th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 122
@@ -2276,7 +2276,7 @@
                 "Description": "5th Avenue & 10th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 123
@@ -2295,7 +2295,7 @@
                 "Description": "4th Avenue & 10th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 124
@@ -2314,7 +2314,7 @@
                 "Description": "2nd Avenue & 10th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 125
@@ -2333,7 +2333,7 @@
                 "Description": "2nd Avenue & 9th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 126
@@ -2352,7 +2352,7 @@
                 "Description": "3rd Avenue & 9th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 127
@@ -2371,7 +2371,7 @@
                 "Description": "5th Avenue & 9th Street",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 128
@@ -2390,7 +2390,7 @@
                 "Description": "9th Avenue at 14th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 129
@@ -2409,7 +2409,7 @@
                 "Description": "9th Avenue at 6th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 130
@@ -2428,7 +2428,7 @@
                 "Description": "9th Avenue at 10th Street (1002 9th ave)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 131
@@ -2447,7 +2447,7 @@
                 "Description": "9th Avenue at 8th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 132
@@ -2466,7 +2466,7 @@
                 "Description": "Igor's Place Burma Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 133
@@ -2485,7 +2485,7 @@
                 "Description": "13th Street & 7th Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 134
@@ -2504,7 +2504,7 @@
                 "Description": "Tim Hortons - North West of building",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 135
@@ -2523,7 +2523,7 @@
                 "Description": "Canadian Tire Parking Lot",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 136
@@ -2542,7 +2542,7 @@
                 "Description": "9th Ave 16th St",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 137
@@ -2561,7 +2561,7 @@
                 "Description": "18th Street behind Extra Foods (7th Avenue & 18th",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 138
@@ -2580,7 +2580,7 @@
                 "Description": "17th St. & 9th Ave",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 139
@@ -2599,7 +2599,7 @@
                 "Description": "9th Ave & 18th St",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 140
@@ -2618,7 +2618,7 @@
                 "Description": "Extra Foods Parking Lot",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 141
@@ -2637,7 +2637,7 @@
                 "Description": "11th Avenue & 7th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 142
@@ -2656,7 +2656,7 @@
                 "Description": "9th Avenue & 7th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 143
@@ -2675,7 +2675,7 @@
                 "Description": "8th Avenue & 7th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 144
@@ -2694,7 +2694,7 @@
                 "Description": "7th Avenue & 7th Street (behind Fas Gas)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 145
@@ -2713,7 +2713,7 @@
                 "Description": "7th Avenue Lane & 6th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 146
@@ -2732,7 +2732,7 @@
                 "Description": "11th Avenue & 17th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 147
@@ -2751,7 +2751,7 @@
                 "Description": "10th Avenue & 16th street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 148
@@ -2770,7 +2770,7 @@
                 "Description": "Best Western - 7th Avenue & 16th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 149
@@ -2789,7 +2789,7 @@
                 "Description": "8th Avenue & 15th Street",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 150
@@ -2808,7 +2808,7 @@
                 "Description": "9th Avenue & 15th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 151
@@ -2827,7 +2827,7 @@
                 "Description": "11th Avenue & 15th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 152
@@ -2846,7 +2846,7 @@
                 "Description": "10th Avenue & 14th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 153
@@ -2865,7 +2865,7 @@
                 "Description": "8th Avenue & 14th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 154
@@ -2884,7 +2884,7 @@
                 "Description": "9th Avenue & 13th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 155
@@ -2903,7 +2903,7 @@
                 "Description": "11th Avenue & 13th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 156
@@ -2922,7 +2922,7 @@
                 "Description": "10th Avenue & 12th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 157
@@ -2941,7 +2941,7 @@
                 "Description": "8th Avenue & 12th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 158
@@ -2960,7 +2960,7 @@
                 "Description": "9th Avenue & 11th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 159
@@ -2979,7 +2979,7 @@
                 "Description": "11th Avenue & 11th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 160
@@ -2998,7 +2998,7 @@
                 "Description": "8th Avenue & 10th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 161
@@ -3017,7 +3017,7 @@
                 "Description": "7th Avenue & 9th Street (Cannabis Shop)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 162
@@ -3036,7 +3036,7 @@
                 "Description": "9th Avenue & 9th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 163
@@ -3055,7 +3055,7 @@
                 "Description": "11th Avenue & 9th Street (901 11th Ave)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 164
@@ -3074,7 +3074,7 @@
                 "Description": "11th Avenue & 8th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 165
@@ -3093,7 +3093,7 @@
                 "Description": "10th Avenue & 8th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 166
@@ -3112,7 +3112,7 @@
                 "Description": "7th Avenue & 8th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 167
@@ -3131,7 +3131,7 @@
                 "Description": "7th Avenue & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 168
@@ -3150,7 +3150,7 @@
                 "Description": "8th Aveune & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 169
@@ -3169,7 +3169,7 @@
                 "Description": "9th Avenue & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 170
@@ -3188,7 +3188,7 @@
                 "Description": "10th Avenue & 5th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 171
@@ -3207,7 +3207,7 @@
                 "Description": "8th Avenue & 4th Street",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 172
@@ -3226,7 +3226,7 @@
                 "Description": "1641 10th Avenue (mountside church)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 173
@@ -3245,7 +3245,7 @@
                 "Description": "1189 McLeod Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 174
@@ -3264,7 +3264,7 @@
                 "Description": "Beaver Street and Colclough Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 175
@@ -3283,7 +3283,7 @@
                 "Description": "Mcleod Avenue and Hwy 3",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 176
@@ -3302,7 +3302,7 @@
                 "Description": "Anderson Rd. and Hwy 3",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 177
@@ -3321,7 +3321,7 @@
                 "Description": "Highway 3 - Silver Rock",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 178
@@ -3340,7 +3340,7 @@
                 "Description": "Dairy Queen - Highway #3",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 181
@@ -3359,7 +3359,7 @@
                 "Description": "Hwy 3 & Smitty's",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 182
@@ -3378,7 +3378,7 @@
                 "Description": "McDonald Avenue & Commons St",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 183
@@ -3397,7 +3397,7 @@
                 "Description": "Colclough Avenue & Riverside",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 188
@@ -3416,7 +3416,7 @@
                 "Description": "Colclough Avenue & Glover St",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 189
@@ -3435,7 +3435,7 @@
                 "Description": "Beach Ave. - Beaver St.",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 190
@@ -3454,7 +3454,7 @@
                 "Description": "Beach Avenue & Riverside",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 191
@@ -3473,7 +3473,7 @@
                 "Description": "Pine Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 192
@@ -3492,7 +3492,7 @@
                 "Description": "Pine Avenue & Coal Creek Road",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 193
@@ -3511,7 +3511,7 @@
                 "Description": "House #30 Coal Creek Road",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 194
@@ -3530,7 +3530,7 @@
                 "Description": "Coal Creek Road & Pine Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 195
@@ -3549,7 +3549,7 @@
                 "Description": "Pine Avenue & Pine Cres",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 196
@@ -3568,7 +3568,7 @@
                 "Description": "Park Avenue & Park Cres S",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 197
@@ -3587,7 +3587,7 @@
                 "Description": "Park Avenue & Park Cres N",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 198
@@ -3606,7 +3606,7 @@
                 "Description": "Mt. Trinity Ave & Mt. Mclean St",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 199
@@ -3625,7 +3625,7 @@
                 "Description": "Mt Klauer & Mt Washburn",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 200
@@ -3644,7 +3644,7 @@
                 "Description": "Mt Washburn & Mt Herchemer",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 201
@@ -3663,7 +3663,7 @@
                 "Description": "House #37 Mt Proctor Avenue",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 202
@@ -3682,7 +3682,7 @@
                 "Description": "Mt Herchemer & Mt Klauer",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 203
@@ -3701,7 +3701,7 @@
                 "Description": "Mt Proctor & Mt Klauer",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 204
@@ -3720,7 +3720,7 @@
                 "Description": "Mt Trinity & Mt Ingram",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 205
@@ -3739,7 +3739,7 @@
                 "Description": "Mt Proctor & Mt Minton",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 206
@@ -3758,7 +3758,7 @@
                 "Description": "House #22 Mt Minton",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 207
@@ -3777,7 +3777,7 @@
                 "Description": "House #9 Elkview Drive",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 208
@@ -3796,7 +3796,7 @@
                 "Description": "House #32 Elkview Drive",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 209
@@ -3815,7 +3815,7 @@
                 "Description": "36 Park Ave",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 210
@@ -3834,7 +3834,7 @@
                 "Description": "House #1 Elkview Place",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 211
@@ -3853,7 +3853,7 @@
                 "Description": "Mountview Park",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 212
@@ -3872,7 +3872,7 @@
                 "Description": "Sewer Plant",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 213
@@ -3891,7 +3891,7 @@
                 "Description": "Boardman Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 214
@@ -3910,7 +3910,7 @@
                 "Description": "House #8 Elkview Cres",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 215
@@ -3929,7 +3929,7 @@
                 "Description": "House #17 Elkview Cres",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 216
@@ -3948,7 +3948,7 @@
                 "Description": "House #23 Elkview Cres",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 217
@@ -3967,7 +3967,7 @@
                 "Description": "Park Avenue & Mt Minton St",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 218
@@ -3986,7 +3986,7 @@
                 "Description": "Black Rock Place",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 219
@@ -4005,7 +4005,7 @@
                 "Description": "Castle Mountain Rd. (Blackrock Subdivision)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 220
@@ -4024,7 +4024,7 @@
                 "Description": "Cokato Road - Rocky Mtn. Village",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 221
@@ -4043,7 +4043,7 @@
                 "Description": "Cedar Bowl Drive - Cedar Bowl Cres. Int.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 222
@@ -4062,7 +4062,7 @@
                 "Description": "18/20 Cedar Bowl Cres.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 223
@@ -4081,7 +4081,7 @@
                 "Description": "Cedar Bowl Place @ Hydro R.O.W.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 224
@@ -4100,7 +4100,7 @@
                 "Description": "Across the street from 125 Whitetail Drive",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 225
@@ -4119,7 +4119,7 @@
                 "Description": "Castle Mtn Road - Estate Drive Int.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 226
@@ -4138,7 +4138,7 @@
                 "Description": "Estate Drive @ Temp. turnaround",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 227
@@ -4157,7 +4157,7 @@
                 "Description": "Estate Drive past Castle Creek",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 228
@@ -4176,7 +4176,7 @@
                 "Description": "Cokato Road at Mt. McLean Drive",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 229
@@ -4195,7 +4195,7 @@
                 "Description": "Montane Parkway unpaved section, south side near old bus barn",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 230
@@ -4214,7 +4214,7 @@
                 "Description": "22 Slalom Dr",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 231
@@ -4233,7 +4233,7 @@
                 "Description": "Cedar Bowl Drive - Castle Mtn. Road Int.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 232
@@ -4252,7 +4252,7 @@
                 "Description": "White Tail Drive Hydro R.O.W.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 233
@@ -4271,7 +4271,7 @@
                 "Description": "Castle Mtn Whitetail Drive- Slalom Drive Intersection",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 234
@@ -4290,7 +4290,7 @@
                 "Description": "45 Slalom Dr",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 235
@@ -4309,7 +4309,7 @@
                 "Description": "Castle Mtn (Slalom Drive and Castle Mtn Road Int.)",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 236
@@ -4328,7 +4328,7 @@
                 "Description": "Fernie Mobile Home Park",
                 "Storz": "Not Applicable",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 237
@@ -4347,7 +4347,7 @@
                 "Description": "By Dicken Bus on Cokato Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 238
@@ -4366,7 +4366,7 @@
                 "Description": "Apartments on Cokato Road",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 239
@@ -4385,7 +4385,7 @@
                 "Description": "Mt. Fernie Park Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 240
@@ -4404,7 +4404,7 @@
                 "Description": "Pinnacle Ridge (45 Rivermount Place)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 241
@@ -4423,7 +4423,7 @@
                 "Description": "Pinnacle Ridge (50 Rivermount Place)",
                 "Storz": "UNKN",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 242
@@ -4442,7 +4442,7 @@
                 "Description": "1000 Riverside Way",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 243
@@ -4461,7 +4461,7 @@
                 "Description": "Pinnacle Ridge - Chalets",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 244
@@ -4480,7 +4480,7 @@
                 "Description": "Pinnacle Ridge - Chalets",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 245
@@ -4499,7 +4499,7 @@
                 "Description": "Rivermount Place - 1200",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 246
@@ -4518,7 +4518,7 @@
                 "Description": "Pinnacle Ridge - Rivermount Place",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 247
@@ -4537,7 +4537,7 @@
                 "Description": "Rivermount Place",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 248
@@ -4556,7 +4556,7 @@
                 "Description": "Riverside North Condo Site #225",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 249
@@ -4575,7 +4575,7 @@
                 "Description": "Riverside North Condo Site # 255",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 250
@@ -4594,7 +4594,7 @@
                 "Description": "Riverside North Condo Site #275",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 251
@@ -4613,7 +4613,7 @@
                 "Description": "Riverside Way - North of Lift Station",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 252
@@ -4632,7 +4632,7 @@
                 "Description": "Riverside Way- Miners Village",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 253
@@ -4651,7 +4651,7 @@
                 "Description": "Riverside Way - Riverside Place Int.",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 254
@@ -4670,7 +4670,7 @@
                 "Description": "Riverside Way and Highway #3",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 255
@@ -4689,7 +4689,7 @@
                 "Description": "Riverside Mtn. Lodge - NorthEast",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 256
@@ -4708,7 +4708,7 @@
                 "Description": "Riverside Mtn. Lodge - SouthWest",
                 "Storz": "No",
                 "marker-color": "silver",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 257
@@ -4727,7 +4727,7 @@
                 "Description": "398 Canyon Tr",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 258
@@ -4746,7 +4746,7 @@
                 "Description": "Canyon Peaks Court - East Entrance",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 259
@@ -4765,7 +4765,7 @@
                 "Description": "6th Avenue and 9th Street, NW Corner",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 260
@@ -4784,7 +4784,7 @@
                 "Description": "Parking Lot at new homehardware",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 261
@@ -4803,7 +4803,7 @@
                 "Description": "across the street from #2 Sunniva Drive",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 262
@@ -4822,7 +4822,7 @@
                 "Description": "11 Sunniva Drive",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 263
@@ -4841,7 +4841,7 @@
                 "Description": "15th Street at Best Western",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 264
@@ -4860,7 +4860,7 @@
                 "Description": "Shadow Road & Kutenai Rd",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 265
@@ -4879,7 +4879,7 @@
                 "Description": "At intersection of Nordic Blvd and #1 Sunset Lane",
                 "Storz": "No - Deficiency",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 266
@@ -4898,7 +4898,7 @@
                 "Description": "#1 Single Track Way",
                 "Storz": "No - Deficiency",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 267
@@ -4917,7 +4917,7 @@
                 "Description": "#9 Single Track Way",
                 "Storz": "No - Deficiency",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 268
@@ -4936,7 +4936,7 @@
                 "Description": "104 Burma Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 269
@@ -4955,7 +4955,7 @@
                 "Description": "1120 Colclough Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 270
@@ -4974,7 +4974,7 @@
                 "Description": "989 Riverside Drive",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 272
@@ -4993,7 +4993,7 @@
                 "Description": "144 Wilson Street",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 273
@@ -5012,7 +5012,7 @@
                 "Description": "1069 McLeod Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 275
@@ -5031,7 +5031,7 @@
                 "Description": "Eckersley Street and McDonald Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 276
@@ -5050,7 +5050,7 @@
                 "Description": "1319 McDonald Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 277
@@ -5069,7 +5069,7 @@
                 "Description": "23 Piedmont Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 278
@@ -5088,7 +5088,7 @@
                 "Description": "23 Sunniva Drive",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 279
@@ -5107,7 +5107,7 @@
                 "Description": "Northside of Piedmont Drive, at #9.",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 280
@@ -5126,7 +5126,7 @@
                 "Description": "Entrance to Fernie RV Park off 6th Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 281
@@ -5145,7 +5145,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 282
@@ -5164,7 +5164,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 283
@@ -5183,7 +5183,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 284
@@ -5202,7 +5202,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 285
@@ -5221,7 +5221,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 286
@@ -5240,7 +5240,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 287
@@ -5259,7 +5259,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 288
@@ -5278,7 +5278,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 289
@@ -5297,7 +5297,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 290
@@ -5316,7 +5316,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 291
@@ -5335,7 +5335,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 292
@@ -5354,7 +5354,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 293
@@ -5373,7 +5373,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 294
@@ -5392,7 +5392,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 295
@@ -5411,7 +5411,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 296
@@ -5430,7 +5430,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 297
@@ -5449,7 +5449,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 298
@@ -5468,7 +5468,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 299
@@ -5487,7 +5487,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 300
@@ -5506,7 +5506,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 301
@@ -5525,7 +5525,7 @@
                 "Description": "1290 McLeod Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 303
@@ -5544,7 +5544,7 @@
                 "Description": "1492 Railway Ave (Yards)",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 306
@@ -5563,7 +5563,7 @@
                 "Description": "15th Street Lane and 16th Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 307
@@ -5582,7 +5582,7 @@
                 "Description": "2nd Avenue and 16th Street",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 308
@@ -5601,7 +5601,7 @@
                 "Description": "2nd Avenue and 15th Street",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 309
@@ -5620,7 +5620,7 @@
                 "Description": "112 Burma Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 310
@@ -5639,7 +5639,7 @@
                 "Description": "1410 McDonald Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 311
@@ -5658,7 +5658,7 @@
                 "Description": "1221 McLeod Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 312
@@ -5677,7 +5677,7 @@
                 "Description": "1050 Hand Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 313
@@ -5696,7 +5696,7 @@
                 "Description": "1689 McDonald Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 314
@@ -5715,7 +5715,7 @@
                 "Description": "1624 McLeod Avenue",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 315
@@ -5734,7 +5734,7 @@
                 "Description": "1703 McLeod Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 316
@@ -5753,7 +5753,7 @@
                 "Description": "1410 Hand Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 317
@@ -5772,7 +5772,7 @@
                 "Description": "1369 Hand Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 318
@@ -5791,7 +5791,7 @@
                 "Description": "1381 Colclough Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 319
@@ -5810,7 +5810,7 @@
                 "Description": "1170 Beach Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 320
@@ -5829,7 +5829,7 @@
                 "Description": "311 Stewart Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 321
@@ -5848,7 +5848,7 @@
                 "Description": "Hoath Street",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 322
@@ -5867,7 +5867,7 @@
                 "Description": "315 Burma Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 323
@@ -5886,7 +5886,7 @@
                 "Description": "1540 Stewart Avenue",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 324
@@ -5905,7 +5905,7 @@
                 "Description": "Burma Rd and Stewart Ave",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 325
@@ -5924,7 +5924,7 @@
                 "Description": "326 Riverside Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 326
@@ -5943,7 +5943,7 @@
                 "Description": "End of Yirri Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 327
@@ -5962,7 +5962,7 @@
                 "Description": "42 Piedmont Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 328
@@ -5981,7 +5981,7 @@
                 "Description": "28 Sunniva Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 329
@@ -6000,7 +6000,7 @@
                 "Description": "4 Mammoth Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 330
@@ -6019,7 +6019,7 @@
                 "Description": "7 Mammoth Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 331
@@ -6038,7 +6038,7 @@
                 "Description": "Mammoth Drive",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 332
@@ -6057,7 +6057,7 @@
                 "Description": "2 Oliveriie Cres",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 333
@@ -6076,7 +6076,7 @@
                 "Description": "118 Burma Road",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 334
@@ -6095,7 +6095,7 @@
                 "Description": "BC Hydro Substation",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 335
@@ -6114,7 +6114,7 @@
                 "Description": "BC Hydro Substation - Ground Hydrant for Irrigation",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 336
@@ -6133,7 +6133,7 @@
                 "Description": "BC Hydro Substation",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 337
@@ -6152,7 +6152,7 @@
                 "Description": "Mill St & Macdonald Ave",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 338
@@ -6171,7 +6171,7 @@
                 "Description": "9 corner Pocket Place",
                 "Storz": "Yes",
                 "marker-color": "black",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 339
@@ -6190,7 +6190,7 @@
                 "Description": "124 Burma Road",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 340
@@ -6209,7 +6209,7 @@
                 "Description": "127 Burma Road",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 341
@@ -6228,7 +6228,7 @@
                 "Description": "21 Morrissey Court",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 342
@@ -6247,7 +6247,7 @@
                 "Description": "19 Morrissey Court",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 343
@@ -6266,7 +6266,7 @@
                 "Description": "15 Morrissey Court",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 344
@@ -6285,7 +6285,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 345
@@ -6304,7 +6304,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 346
@@ -6323,7 +6323,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 347
@@ -6342,7 +6342,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 348
@@ -6361,7 +6361,7 @@
                 "Description": "Fernie Alpine Resort",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 349
@@ -6380,7 +6380,7 @@
                 "Description": "",
                 "Storz": "",
                 "marker-color": "red",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "fire-station"
             },
             "id": 350
