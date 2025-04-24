@@ -13,7 +13,10 @@
             "properties": {
                 "HydrantNumber": "244",
                 "Description": "Brickers Road and Manitou by mailboxes",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 1
         },
@@ -29,7 +32,10 @@
             "properties": {
                 "HydrantNumber": "288",
                 "Description": "Manitou at Brenners Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 2
         },
@@ -45,7 +51,10 @@
             "properties": {
                 "HydrantNumber": "287",
                 "Description": "Manitou Rd near old home hardware site",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 3
         },
@@ -61,7 +70,10 @@
             "properties": {
                 "HydrantNumber": "289",
                 "Description": "Fernie Transfer Station",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 4
         },
@@ -77,7 +89,10 @@
             "properties": {
                 "HydrantNumber": "286",
                 "Description": "Manitou Road at new home hardware site - North Entrance",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 5
         },
@@ -93,7 +108,10 @@
             "properties": {
                 "HydrantNumber": "285",
                 "Description": "Manitou Road at new home hardware site - South Entrance",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 6
         },
@@ -109,7 +127,10 @@
             "properties": {
                 "HydrantNumber": "284",
                 "Description": "Manitou Road and Shadow Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 7
         },
@@ -125,7 +146,10 @@
             "properties": {
                 "HydrantNumber": "266",
                 "Description": "Brenner Rd. (B.C. Hydro Site)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 8
         },
@@ -141,7 +165,10 @@
             "properties": {
                 "HydrantNumber": "163",
                 "Description": "Chamber of Commerce",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 9
         },
@@ -157,7 +184,10 @@
             "properties": {
                 "HydrantNumber": "228",
                 "Description": "Manitou Rd & Shadow Rd",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 10
         },
@@ -173,7 +203,10 @@
             "properties": {
                 "HydrantNumber": "131",
                 "Description": "Kutenai Road & Ktunaxa Road",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 11
         },
@@ -189,7 +222,10 @@
             "properties": {
                 "HydrantNumber": "132",
                 "Description": "Ktunaxa Road & Shadow Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 12
         },
@@ -205,7 +241,10 @@
             "properties": {
                 "HydrantNumber": "261",
                 "Description": "Canyon Peaks Court - West Entrance",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 14
         },
@@ -221,7 +260,10 @@
             "properties": {
                 "HydrantNumber": "250",
                 "Description": "Alpine - Lodge Trail Lane",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 15
         },
@@ -237,7 +279,10 @@
             "properties": {
                 "HydrantNumber": "254",
                 "Description": "Alpine - The Lodges",
-                "Storz": "UNKN"
+                "Storz": "UNKN",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 16
         },
@@ -253,7 +298,10 @@
             "properties": {
                 "HydrantNumber": "253",
                 "Description": "Alpine - The Lodges",
-                "Storz": "UNKN"
+                "Storz": "UNKN",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 17
         },
@@ -269,7 +317,10 @@
             "properties": {
                 "HydrantNumber": "252",
                 "Description": "Alpine - The Lodges",
-                "Storz": "UNKN"
+                "Storz": "UNKN",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 18
         },
@@ -285,7 +336,10 @@
             "properties": {
                 "HydrantNumber": "251",
                 "Description": "Alpine  - The Lodges",
-                "Storz": "UNKN"
+                "Storz": "UNKN",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 19
         },
@@ -301,7 +355,10 @@
             "properties": {
                 "HydrantNumber": "189",
                 "Description": "490 Canyon Tr",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 20
         },
@@ -317,7 +374,10 @@
             "properties": {
                 "HydrantNumber": "190",
                 "Description": "440 Canyon Tr",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 21
         },
@@ -333,7 +393,10 @@
             "properties": {
                 "HydrantNumber": "117",
                 "Description": "4 Aspen Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 22
         },
@@ -349,7 +412,10 @@
             "properties": {
                 "HydrantNumber": "116",
                 "Description": "House #32 Aspen Cres",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 23
         },
@@ -365,7 +431,10 @@
             "properties": {
                 "HydrantNumber": "259",
                 "Description": "Alpine Trail Place",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 24
         },
@@ -381,7 +450,10 @@
             "properties": {
                 "HydrantNumber": "222",
                 "Description": "29 Alpine Trail Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 25
         },
@@ -397,7 +469,10 @@
             "properties": {
                 "HydrantNumber": "221",
                 "Description": "12 Alpine Trail Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 26
         },
@@ -413,7 +488,10 @@
             "properties": {
                 "HydrantNumber": "199",
                 "Description": "Alpine Trail Lane (Multi Site)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 27
         },
@@ -429,7 +507,10 @@
             "properties": {
                 "HydrantNumber": "198",
                 "Description": "Alpine Trail Crescent (East)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 28
         },
@@ -445,7 +526,10 @@
             "properties": {
                 "HydrantNumber": "197",
                 "Description": "Alpine Trail @ Top of Hill (24 Alpine Trail)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 29
         },
@@ -461,7 +545,10 @@
             "properties": {
                 "HydrantNumber": "196",
                 "Description": "Alpine Trail @Booster Station R.O.W.",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 30
         },
@@ -477,7 +564,10 @@
             "properties": {
                 "HydrantNumber": "195",
                 "Description": "Alpine Trail @Alpine Place",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 31
         },
@@ -493,7 +583,10 @@
             "properties": {
                 "HydrantNumber": "179",
                 "Description": "345 Canyon Trails",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 32
         },
@@ -509,7 +602,10 @@
             "properties": {
                 "HydrantNumber": "178",
                 "Description": "Canyon Trail @ Sewage Lift Station",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 33
         },
@@ -525,7 +621,10 @@
             "properties": {
                 "HydrantNumber": "115",
                 "Description": "House #48 Aspen Cres",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 34
         },
@@ -541,7 +640,10 @@
             "properties": {
                 "HydrantNumber": "120",
                 "Description": "House #11 Aspen Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 35
         },
@@ -557,7 +659,10 @@
             "properties": {
                 "HydrantNumber": "118",
                 "Description": "Parkland and Cedar Ave (14 Parkland Drive)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 36
         },
@@ -573,7 +678,10 @@
             "properties": {
                 "HydrantNumber": "119",
                 "Description": "Cedar Avenue @ Aspen Cresc (7 Cedar Ave)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 37
         },
@@ -589,7 +697,10 @@
             "properties": {
                 "HydrantNumber": "227",
                 "Description": "Skifty Morris Way",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 38
         },
@@ -605,7 +716,10 @@
             "properties": {
                 "HydrantNumber": "172",
                 "Description": "Fairway Drive @ Club House",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 39
         },
@@ -621,7 +735,10 @@
             "properties": {
                 "HydrantNumber": "171",
                 "Description": "Fairway Drive @Duplex North",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 40
         },
@@ -637,7 +754,10 @@
             "properties": {
                 "HydrantNumber": "170",
                 "Description": "Fairway Drive @Skifty Morris Way",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 41
         },
@@ -653,7 +773,10 @@
             "properties": {
                 "HydrantNumber": "169",
                 "Description": "Fairway Drive @ Fernie Golf Gate",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 42
         },
@@ -669,7 +792,10 @@
             "properties": {
                 "HydrantNumber": "164",
                 "Description": "Golf Maint Shop @ Great Norther",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 43
         },
@@ -685,7 +811,10 @@
             "properties": {
                 "HydrantNumber": "165",
                 "Description": "At end of Great Northern R/W",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 44
         },
@@ -701,7 +830,10 @@
             "properties": {
                 "HydrantNumber": "219",
                 "Description": "Railway Avenue - Schickendanz",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 45
         },
@@ -717,7 +849,10 @@
             "properties": {
                 "HydrantNumber": "218",
                 "Description": "Railway Avenue - Concrete Plant",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 46
         },
@@ -733,7 +868,10 @@
             "properties": {
                 "HydrantNumber": "220",
                 "Description": "Ridgemont Avenue - Affordable Housing Site Entrance",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 47
         },
@@ -749,7 +887,10 @@
             "properties": {
                 "HydrantNumber": "137",
                 "Description": "By Dog Pound on Railway Avenue",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 49
         },
@@ -765,7 +906,10 @@
             "properties": {
                 "HydrantNumber": "275",
                 "Description": "Silver Ridge Way Cul-de-Sac",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 50
         },
@@ -781,7 +925,10 @@
             "properties": {
                 "HydrantNumber": "274",
                 "Description": "#8 Silver Ridge Way ",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 51
         },
@@ -797,7 +944,10 @@
             "properties": {
                 "HydrantNumber": "272",
                 "Description": "# 33 Silver Ridge Drive Cul-de-Sac",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 52
         },
@@ -813,7 +963,10 @@
             "properties": {
                 "HydrantNumber": "273",
                 "Description": "#37 Silver Ridge Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 53
         },
@@ -829,7 +982,10 @@
             "properties": {
                 "HydrantNumber": "268",
                 "Description": "St. Margaret's Road and Silver Ridge Dr.",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 54
         },
@@ -845,7 +1001,10 @@
             "properties": {
                 "HydrantNumber": "162",
                 "Description": "Grass Island on Ridgemont Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 55
         },
@@ -861,7 +1020,10 @@
             "properties": {
                 "HydrantNumber": "176",
                 "Description": "Parking Lot @ Aquatic Center",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 56
         },
@@ -877,7 +1039,10 @@
             "properties": {
                 "HydrantNumber": "177",
                 "Description": "Back Lane @ Aquatic Center",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 57
         },
@@ -893,7 +1058,10 @@
             "properties": {
                 "HydrantNumber": "155",
                 "Description": "Pine Avenue & Ridgemont Dr",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 58
         },
@@ -909,7 +1077,10 @@
             "properties": {
                 "HydrantNumber": "84",
                 "Description": "House # 81 Ridgemont Lane",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 59
         },
@@ -923,9 +1094,12 @@
                 ]
             },
             "properties": {
-                "HydrantNumber": "78",
+                "HydrantNumber": 78,
                 "Description": "House # 91 Ridgemont Drive",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 57
         },
@@ -941,7 +1115,10 @@
             "properties": {
                 "HydrantNumber": "79",
                 "Description": "Ridgemont Dr & Ridgemont Lane N",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 58
         },
@@ -957,7 +1134,10 @@
             "properties": {
                 "HydrantNumber": "80",
                 "Description": "Apt Block #59 Ridgemont Drive",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 62
         },
@@ -973,7 +1153,10 @@
             "properties": {
                 "HydrantNumber": "81",
                 "Description": "Ridgemont Dr & Ridgemont Lane S",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 63
         },
@@ -989,7 +1172,10 @@
             "properties": {
                 "HydrantNumber": "87",
                 "Description": "House # 123 Ridgemont Cres",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 64
         },
@@ -1005,7 +1191,10 @@
             "properties": {
                 "HydrantNumber": "88",
                 "Description": "Ridgemont Cres & St. Margaret's Rd",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 65
         },
@@ -1021,7 +1210,10 @@
             "properties": {
                 "HydrantNumber": "83",
                 "Description": "Ridgemont Dr & Ridgemont Place",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 66
         },
@@ -1037,7 +1229,10 @@
             "properties": {
                 "HydrantNumber": "82",
                 "Description": "Ridgemont Dr & Ridgmont Cres N",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 67
         },
@@ -1053,7 +1248,10 @@
             "properties": {
                 "HydrantNumber": "86",
                 "Description": "House # 19 Ridgemont Ave",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 68
         },
@@ -1069,7 +1267,10 @@
             "properties": {
                 "HydrantNumber": "85",
                 "Description": "House # 43 Ridgemont Ave",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 66
         },
@@ -1085,7 +1286,10 @@
             "properties": {
                 "HydrantNumber": "226",
                 "Description": "7th St & 3rd Ave (Firehall)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 70
         },
@@ -1101,7 +1305,10 @@
             "properties": {
                 "HydrantNumber": "35",
                 "Description": "6th Avenue & 8th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 71
         },
@@ -1117,7 +1324,10 @@
             "properties": {
                 "HydrantNumber": "36",
                 "Description": "4th Avenue & 8th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 72
         },
@@ -1133,7 +1343,10 @@
             "properties": {
                 "HydrantNumber": "37",
                 "Description": "3rd Avenue & 8th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 73
         },
@@ -1149,7 +1362,10 @@
             "properties": {
                 "HydrantNumber": "38",
                 "Description": "1st Avenue & 8th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 74
         },
@@ -1165,7 +1381,10 @@
             "properties": {
                 "HydrantNumber": "150",
                 "Description": "2nd Avenue & 7th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 75
         },
@@ -1181,7 +1400,10 @@
             "properties": {
                 "HydrantNumber": "31",
                 "Description": "2nd Avenue & 7th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 76
         },
@@ -1197,7 +1419,10 @@
             "properties": {
                 "HydrantNumber": "30",
                 "Description": "5th Avenue and 7th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 77
         },
@@ -1213,7 +1438,10 @@
             "properties": {
                 "HydrantNumber": "140",
                 "Description": "6th Avenue & 6th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 78
         },
@@ -1229,7 +1457,10 @@
             "properties": {
                 "HydrantNumber": "23",
                 "Description": "4th Avenue & 6th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 79
         },
@@ -1245,7 +1476,10 @@
             "properties": {
                 "HydrantNumber": "24",
                 "Description": "3rd Avenue & 6th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 80
         },
@@ -1261,7 +1495,10 @@
             "properties": {
                 "HydrantNumber": "25",
                 "Description": "2nd Avenue & 6th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 81
         },
@@ -1277,7 +1514,10 @@
             "properties": {
                 "HydrantNumber": "149",
                 "Description": "1st Avenue & 6th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 82
         },
@@ -1293,7 +1533,10 @@
             "properties": {
                 "HydrantNumber": "22",
                 "Description": "1st Avenue & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 83
         },
@@ -1309,7 +1552,10 @@
             "properties": {
                 "HydrantNumber": "20",
                 "Description": "3rd Avenue & 5th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 84
         },
@@ -1325,7 +1571,10 @@
             "properties": {
                 "HydrantNumber": "19",
                 "Description": "4th Avenue and 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 85
         },
@@ -1341,7 +1590,10 @@
             "properties": {
                 "HydrantNumber": "18",
                 "Description": "5th Avenue & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 86
         },
@@ -1357,7 +1609,10 @@
             "properties": {
                 "HydrantNumber": "16",
                 "Description": "6a Avenue & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 87
         },
@@ -1373,7 +1628,10 @@
             "properties": {
                 "HydrantNumber": "151",
                 "Description": "6a Avenue & 4th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 88
         },
@@ -1389,7 +1647,10 @@
             "properties": {
                 "HydrantNumber": "7",
                 "Description": "6th Avenue & 4th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 89
         },
@@ -1405,7 +1666,10 @@
             "properties": {
                 "HydrantNumber": "8",
                 "Description": "4th Avenue & 4th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 90
         },
@@ -1421,7 +1685,10 @@
             "properties": {
                 "HydrantNumber": "9",
                 "Description": "3rd Avenue & 4th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 91
         },
@@ -1437,7 +1704,10 @@
             "properties": {
                 "HydrantNumber": "10",
                 "Description": "2nd Avenue & 4th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 92
         },
@@ -1453,7 +1723,10 @@
             "properties": {
                 "HydrantNumber": "11",
                 "Description": "1st Avenue & 4th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 93
         },
@@ -1469,7 +1742,10 @@
             "properties": {
                 "HydrantNumber": "148",
                 "Description": "3rd Avenue & 3rd Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 94
         },
@@ -1485,7 +1761,10 @@
             "properties": {
                 "HydrantNumber": "5",
                 "Description": "2nd Avenue & 3rd Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 95
         },
@@ -1501,7 +1780,10 @@
             "properties": {
                 "HydrantNumber": "4",
                 "Description": "2nd Avenue & 2nd Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 96
         },
@@ -1517,7 +1799,10 @@
             "properties": {
                 "HydrantNumber": "3",
                 "Description": "1st Avenue & 2nd Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 97
         },
@@ -1533,7 +1818,10 @@
             "properties": {
                 "HydrantNumber": "2",
                 "Description": "2nd Avenue & 1st Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 98
         },
@@ -1549,7 +1837,10 @@
             "properties": {
                 "HydrantNumber": "270",
                 "Description": "1st Avenue & 10th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 99
         },
@@ -1565,7 +1856,10 @@
             "properties": {
                 "HydrantNumber": "271",
                 "Description": "1st Avenue & 11th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 100
         },
@@ -1581,7 +1875,10 @@
             "properties": {
                 "HydrantNumber": "263",
                 "Description": "13th St and 3rd Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 101
         },
@@ -1597,7 +1894,10 @@
             "properties": {
                 "HydrantNumber": "168",
                 "Description": "Fairway Drive @ New High School",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 103
         },
@@ -1613,7 +1913,10 @@
             "properties": {
                 "HydrantNumber": "154",
                 "Description": "2nd Ave at High School (valve by wood bollard)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 104
         },
@@ -1629,7 +1932,10 @@
             "properties": {
                 "HydrantNumber": "136",
                 "Description": "Fairway Drive behind hospital",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 105
         },
@@ -1645,7 +1951,10 @@
             "properties": {
                 "HydrantNumber": "75",
                 "Description": "Hospital Parking Lot",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 106
         },
@@ -1661,7 +1970,10 @@
             "properties": {
                 "HydrantNumber": "72",
                 "Description": "Prentice Park",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 107
         },
@@ -1677,7 +1989,10 @@
             "properties": {
                 "HydrantNumber": "73",
                 "Description": "Prentice Park",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 108
         },
@@ -1693,7 +2008,10 @@
             "properties": {
                 "HydrantNumber": "69",
                 "Description": "5th Avenue & 15th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 109
         },
@@ -1709,7 +2027,10 @@
             "properties": {
                 "HydrantNumber": "138",
                 "Description": "6th Ave & 14th St (A&W)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 110
         },
@@ -1725,7 +2046,10 @@
             "properties": {
                 "HydrantNumber": "63",
                 "Description": "2nd Avenue & 14th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 111
         },
@@ -1741,7 +2065,10 @@
             "properties": {
                 "HydrantNumber": "62",
                 "Description": "1st Avenue & 13th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 112
         },
@@ -1757,7 +2084,10 @@
             "properties": {
                 "HydrantNumber": "61",
                 "Description": "2nd Avenue & 13th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 113
         },
@@ -1773,7 +2103,10 @@
             "properties": {
                 "HydrantNumber": "167",
                 "Description": "5th Avenue & 13th Street (Police Station)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 114
         },
@@ -1789,7 +2122,10 @@
             "properties": {
                 "HydrantNumber": "139",
                 "Description": "6th Ave & 13th St",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 115
         },
@@ -1805,7 +2141,10 @@
             "properties": {
                 "HydrantNumber": "55",
                 "Description": "6th Avenue & 12th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 116
         },
@@ -1821,7 +2160,10 @@
             "properties": {
                 "HydrantNumber": "56",
                 "Description": "5th Avenue & 12th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 117
         },
@@ -1837,7 +2179,10 @@
             "properties": {
                 "HydrantNumber": "141",
                 "Description": "4th Avenue & 12th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 118
         },
@@ -1853,7 +2198,10 @@
             "properties": {
                 "HydrantNumber": "57",
                 "Description": "3rd Avenue & 12th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 119
         },
@@ -1869,7 +2217,10 @@
             "properties": {
                 "HydrantNumber": "52",
                 "Description": "2nd Avenue & 11th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 120
         },
@@ -1885,7 +2236,10 @@
             "properties": {
                 "HydrantNumber": "152",
                 "Description": "6th Avenue & 11th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 121
         },
@@ -1901,7 +2255,10 @@
             "properties": {
                 "HydrantNumber": "46",
                 "Description": "6th Avenue & 10th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 122
         },
@@ -1917,7 +2274,10 @@
             "properties": {
                 "HydrantNumber": "47",
                 "Description": "5th Avenue & 10th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 123
         },
@@ -1933,7 +2293,10 @@
             "properties": {
                 "HydrantNumber": "48",
                 "Description": "4th Avenue & 10th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 124
         },
@@ -1949,7 +2312,10 @@
             "properties": {
                 "HydrantNumber": "49",
                 "Description": "2nd Avenue & 10th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 125
         },
@@ -1965,7 +2331,10 @@
             "properties": {
                 "HydrantNumber": "44",
                 "Description": "2nd Avenue & 9th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 126
         },
@@ -1981,7 +2350,10 @@
             "properties": {
                 "HydrantNumber": "43",
                 "Description": "3rd Avenue & 9th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 127
         },
@@ -1997,7 +2369,10 @@
             "properties": {
                 "HydrantNumber": "42",
                 "Description": "5th Avenue & 9th Street",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 128
         },
@@ -2013,7 +2388,10 @@
             "properties": {
                 "HydrantNumber": "290",
                 "Description": "9th Avenue at 14th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 129
         },
@@ -2029,7 +2407,10 @@
             "properties": {
                 "HydrantNumber": "281",
                 "Description": "9th Avenue at 6th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 130
         },
@@ -2045,7 +2426,10 @@
             "properties": {
                 "HydrantNumber": "282",
                 "Description": "9th Avenue at 10th Street (1002 9th ave)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 131
         },
@@ -2061,7 +2445,10 @@
             "properties": {
                 "HydrantNumber": "280",
                 "Description": "9th Avenue at 8th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 132
         },
@@ -2077,7 +2464,10 @@
             "properties": {
                 "HydrantNumber": "279",
                 "Description": "Igor's Place Burma Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 133
         },
@@ -2093,7 +2483,10 @@
             "properties": {
                 "HydrantNumber": "269",
                 "Description": "13th Street & 7th Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 134
         },
@@ -2109,7 +2502,10 @@
             "properties": {
                 "HydrantNumber": "77",
                 "Description": "Tim Hortons - North West of building",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 135
         },
@@ -2125,7 +2521,10 @@
             "properties": {
                 "HydrantNumber": "255",
                 "Description": "Canadian Tire Parking Lot",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 136
         },
@@ -2141,7 +2540,10 @@
             "properties": {
                 "HydrantNumber": "232",
                 "Description": "9th Ave 16th St",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 137
         },
@@ -2157,7 +2559,10 @@
             "properties": {
                 "HydrantNumber": "135",
                 "Description": "18th Street behind Extra Foods (7th Avenue & 18th",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 138
         },
@@ -2173,7 +2578,10 @@
             "properties": {
                 "HydrantNumber": "134",
                 "Description": "17th St. & 9th Ave",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 139
         },
@@ -2189,7 +2597,10 @@
             "properties": {
                 "HydrantNumber": "230",
                 "Description": "9th Ave & 18th St",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 140
         },
@@ -2205,7 +2616,10 @@
             "properties": {
                 "HydrantNumber": "231",
                 "Description": "Extra Foods Parking Lot",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 141
         },
@@ -2221,7 +2635,10 @@
             "properties": {
                 "HydrantNumber": "27",
                 "Description": "11th Avenue & 7th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 142
         },
@@ -2237,7 +2654,10 @@
             "properties": {
                 "HydrantNumber": "28",
                 "Description": "9th Avenue & 7th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 143
         },
@@ -2253,7 +2673,10 @@
             "properties": {
                 "HydrantNumber": "29",
                 "Description": "8th Avenue & 7th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 144
         },
@@ -2269,7 +2692,10 @@
             "properties": {
                 "HydrantNumber": "158",
                 "Description": "7th Avenue & 7th Street (behind Fas Gas)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 145
         },
@@ -2285,7 +2711,10 @@
             "properties": {
                 "HydrantNumber": "157",
                 "Description": "7th Avenue Lane & 6th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 146
         },
@@ -2301,7 +2730,10 @@
             "properties": {
                 "HydrantNumber": "71",
                 "Description": "11th Avenue & 17th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 147
         },
@@ -2317,7 +2749,10 @@
             "properties": {
                 "HydrantNumber": "70",
                 "Description": "10th Avenue & 16th street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 148
         },
@@ -2333,7 +2768,10 @@
             "properties": {
                 "HydrantNumber": "76",
                 "Description": "Best Western - 7th Avenue & 16th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 149
         },
@@ -2349,7 +2787,10 @@
             "properties": {
                 "HydrantNumber": "68",
                 "Description": "8th Avenue & 15th Street",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 150
         },
@@ -2365,7 +2806,10 @@
             "properties": {
                 "HydrantNumber": "67",
                 "Description": "9th Avenue & 15th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 151
         },
@@ -2381,7 +2825,10 @@
             "properties": {
                 "HydrantNumber": "66",
                 "Description": "11th Avenue & 15th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 152
         },
@@ -2397,7 +2844,10 @@
             "properties": {
                 "HydrantNumber": "64",
                 "Description": "10th Avenue & 14th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 153
         },
@@ -2413,7 +2863,10 @@
             "properties": {
                 "HydrantNumber": "65",
                 "Description": "8th Avenue & 14th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 154
         },
@@ -2429,7 +2882,10 @@
             "properties": {
                 "HydrantNumber": "59",
                 "Description": "9th Avenue & 13th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 155
         },
@@ -2445,7 +2901,10 @@
             "properties": {
                 "HydrantNumber": "58",
                 "Description": "11th Avenue & 13th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 156
         },
@@ -2461,7 +2920,10 @@
             "properties": {
                 "HydrantNumber": "53",
                 "Description": "10th Avenue & 12th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 157
         },
@@ -2477,7 +2939,10 @@
             "properties": {
                 "HydrantNumber": "54",
                 "Description": "8th Avenue & 12th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 158
         },
@@ -2493,7 +2958,10 @@
             "properties": {
                 "HydrantNumber": "51",
                 "Description": "9th Avenue & 11th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 159
         },
@@ -2509,7 +2977,10 @@
             "properties": {
                 "HydrantNumber": "50",
                 "Description": "11th Avenue & 11th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 160
         },
@@ -2525,7 +2996,10 @@
             "properties": {
                 "HydrantNumber": "45",
                 "Description": "8th Avenue & 10th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 161
         },
@@ -2541,7 +3015,10 @@
             "properties": {
                 "HydrantNumber": "41",
                 "Description": "7th Avenue & 9th Street (Cannabis Shop)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 162
         },
@@ -2557,7 +3034,10 @@
             "properties": {
                 "HydrantNumber": "40",
                 "Description": "9th Avenue & 9th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 163
         },
@@ -2573,7 +3053,10 @@
             "properties": {
                 "HydrantNumber": "39",
                 "Description": "11th Avenue & 9th Street (901 11th Ave)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 164
         },
@@ -2589,7 +3072,10 @@
             "properties": {
                 "HydrantNumber": "32",
                 "Description": "11th Avenue & 8th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 165
         },
@@ -2605,7 +3091,10 @@
             "properties": {
                 "HydrantNumber": "33",
                 "Description": "10th Avenue & 8th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 166
         },
@@ -2621,7 +3110,10 @@
             "properties": {
                 "HydrantNumber": "34",
                 "Description": "7th Avenue & 8th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 167
         },
@@ -2637,7 +3129,10 @@
             "properties": {
                 "HydrantNumber": "15",
                 "Description": "7th Avenue & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 168
         },
@@ -2653,7 +3148,10 @@
             "properties": {
                 "HydrantNumber": "14",
                 "Description": "8th Aveune & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 169
         },
@@ -2669,7 +3167,10 @@
             "properties": {
                 "HydrantNumber": "13",
                 "Description": "9th Avenue & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 170
         },
@@ -2685,7 +3186,10 @@
             "properties": {
                 "HydrantNumber": "12",
                 "Description": "10th Avenue & 5th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 171
         },
@@ -2701,7 +3205,10 @@
             "properties": {
                 "HydrantNumber": "143",
                 "Description": "8th Avenue & 4th Street",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 172
         },
@@ -2717,7 +3224,10 @@
             "properties": {
                 "HydrantNumber": "291",
                 "Description": "1641 10th Avenue (mountside church)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 173
         },
@@ -2733,7 +3243,10 @@
             "properties": {
                 "HydrantNumber": "276",
                 "Description": "1189 McLeod Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 174
         },
@@ -2749,7 +3262,10 @@
             "properties": {
                 "HydrantNumber": "234",
                 "Description": "Beaver Street and Colclough Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 175
         },
@@ -2765,7 +3281,10 @@
             "properties": {
                 "HydrantNumber": "237",
                 "Description": "Mcleod Avenue and Hwy 3",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 176
         },
@@ -2781,7 +3300,10 @@
             "properties": {
                 "HydrantNumber": "240",
                 "Description": "Anderson Rd. and Hwy 3",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 177
         },
@@ -2797,7 +3319,10 @@
             "properties": {
                 "HydrantNumber": "238",
                 "Description": "Highway 3 - Silver Rock",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 178
         },
@@ -2813,7 +3338,10 @@
             "properties": {
                 "HydrantNumber": "239",
                 "Description": "Dairy Queen - Highway #3",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 181
         },
@@ -2829,7 +3357,10 @@
             "properties": {
                 "HydrantNumber": "159",
                 "Description": "Hwy 3 & Smitty's",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 182
         },
@@ -2845,7 +3376,10 @@
             "properties": {
                 "HydrantNumber": "129",
                 "Description": "McDonald Avenue & Commons St",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 183
         },
@@ -2861,7 +3395,10 @@
             "properties": {
                 "HydrantNumber": "127",
                 "Description": "Colclough Avenue & Riverside",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 188
         },
@@ -2877,7 +3414,10 @@
             "properties": {
                 "HydrantNumber": "235",
                 "Description": "Colclough Avenue & Glover St",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 189
         },
@@ -2893,7 +3433,10 @@
             "properties": {
                 "HydrantNumber": "233",
                 "Description": "Beach Ave. - Beaver St.",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 190
         },
@@ -2909,7 +3452,10 @@
             "properties": {
                 "HydrantNumber": "153",
                 "Description": "Beach Avenue & Riverside",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 191
         },
@@ -2925,7 +3471,10 @@
             "properties": {
                 "HydrantNumber": "243",
                 "Description": "Pine Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 192
         },
@@ -2941,7 +3490,10 @@
             "properties": {
                 "HydrantNumber": "98",
                 "Description": "Pine Avenue & Coal Creek Road",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 193
         },
@@ -2957,7 +3509,10 @@
             "properties": {
                 "HydrantNumber": "100",
                 "Description": "House #30 Coal Creek Road",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 194
         },
@@ -2973,7 +3528,10 @@
             "properties": {
                 "HydrantNumber": "101",
                 "Description": "Coal Creek Road & Pine Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 195
         },
@@ -2989,7 +3547,10 @@
             "properties": {
                 "HydrantNumber": "99",
                 "Description": "Pine Avenue & Pine Cres",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 196
         },
@@ -3005,7 +3566,10 @@
             "properties": {
                 "HydrantNumber": "90",
                 "Description": "Park Avenue & Park Cres S",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 197
         },
@@ -3021,7 +3585,10 @@
             "properties": {
                 "HydrantNumber": "161",
                 "Description": "Park Avenue & Park Cres N",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 198
         },
@@ -3037,7 +3604,10 @@
             "properties": {
                 "HydrantNumber": "105",
                 "Description": "Mt. Trinity Ave & Mt. Mclean St",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 199
         },
@@ -3053,7 +3623,10 @@
             "properties": {
                 "HydrantNumber": "142",
                 "Description": "Mt Klauer & Mt Washburn",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 200
         },
@@ -3069,7 +3642,10 @@
             "properties": {
                 "HydrantNumber": "106",
                 "Description": "Mt Washburn & Mt Herchemer",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 201
         },
@@ -3085,7 +3661,10 @@
             "properties": {
                 "HydrantNumber": "107",
                 "Description": "House #37 Mt Proctor Avenue",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 202
         },
@@ -3101,7 +3680,10 @@
             "properties": {
                 "HydrantNumber": "109",
                 "Description": "Mt Herchemer & Mt Klauer",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 203
         },
@@ -3117,7 +3699,10 @@
             "properties": {
                 "HydrantNumber": "108",
                 "Description": "Mt Proctor & Mt Klauer",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 204
         },
@@ -3133,7 +3718,10 @@
             "properties": {
                 "HydrantNumber": "110",
                 "Description": "Mt Trinity & Mt Ingram",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 205
         },
@@ -3149,7 +3737,10 @@
             "properties": {
                 "HydrantNumber": "111",
                 "Description": "Mt Proctor & Mt Minton",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 206
         },
@@ -3165,7 +3756,10 @@
             "properties": {
                 "HydrantNumber": "112",
                 "Description": "House #22 Mt Minton",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 207
         },
@@ -3181,7 +3775,10 @@
             "properties": {
                 "HydrantNumber": "93",
                 "Description": "House #9 Elkview Drive",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 208
         },
@@ -3197,7 +3794,10 @@
             "properties": {
                 "HydrantNumber": "94",
                 "Description": "House #32 Elkview Drive",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 209
         },
@@ -3213,7 +3813,10 @@
             "properties": {
                 "HydrantNumber": "92",
                 "Description": "36 Park Ave",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 210
         },
@@ -3229,7 +3832,10 @@
             "properties": {
                 "HydrantNumber": "114",
                 "Description": "House #1 Elkview Place",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 211
         },
@@ -3245,7 +3851,10 @@
             "properties": {
                 "HydrantNumber": "156",
                 "Description": "Mountview Park",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 212
         },
@@ -3261,7 +3870,10 @@
             "properties": {
                 "HydrantNumber": "147",
                 "Description": "Sewer Plant",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 213
         },
@@ -3277,7 +3889,10 @@
             "properties": {
                 "HydrantNumber": "277",
                 "Description": "Boardman Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 214
         },
@@ -3293,7 +3908,10 @@
             "properties": {
                 "HydrantNumber": "97",
                 "Description": "House #8 Elkview Cres",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 215
         },
@@ -3309,7 +3927,10 @@
             "properties": {
                 "HydrantNumber": "96",
                 "Description": "House #17 Elkview Cres",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 216
         },
@@ -3325,7 +3946,10 @@
             "properties": {
                 "HydrantNumber": "95",
                 "Description": "House #23 Elkview Cres",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 217
         },
@@ -3341,7 +3965,10 @@
             "properties": {
                 "HydrantNumber": "113",
                 "Description": "Park Avenue & Mt Minton St",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 218
         },
@@ -3357,7 +3984,10 @@
             "properties": {
                 "HydrantNumber": "283",
                 "Description": "Black Rock Place",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 219
         },
@@ -3373,7 +4003,10 @@
             "properties": {
                 "HydrantNumber": "267",
                 "Description": "Castle Mountain Rd. (Blackrock Subdivision)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 220
         },
@@ -3389,7 +4022,10 @@
             "properties": {
                 "HydrantNumber": "242",
                 "Description": "Cokato Road - Rocky Mtn. Village",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 221
         },
@@ -3405,7 +4041,10 @@
             "properties": {
                 "HydrantNumber": "204",
                 "Description": "Cedar Bowl Drive - Cedar Bowl Cres. Int.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 222
         },
@@ -3421,7 +4060,10 @@
             "properties": {
                 "HydrantNumber": "205",
                 "Description": "18/20 Cedar Bowl Cres.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 223
         },
@@ -3437,7 +4079,10 @@
             "properties": {
                 "HydrantNumber": "206",
                 "Description": "Cedar Bowl Place @ Hydro R.O.W.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 224
         },
@@ -3453,7 +4098,10 @@
             "properties": {
                 "HydrantNumber": "188",
                 "Description": "Across the street from 125 Whitetail Drive",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 225
         },
@@ -3469,7 +4117,10 @@
             "properties": {
                 "HydrantNumber": "200",
                 "Description": "Castle Mtn Road - Estate Drive Int.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 226
         },
@@ -3485,7 +4136,10 @@
             "properties": {
                 "HydrantNumber": "202",
                 "Description": "Estate Drive @ Temp. turnaround",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 227
         },
@@ -3501,7 +4155,10 @@
             "properties": {
                 "HydrantNumber": "201",
                 "Description": "Estate Drive past Castle Creek",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 228
         },
@@ -3517,7 +4174,10 @@
             "properties": {
                 "HydrantNumber": "181",
                 "Description": "Cokato Road at Mt. McLean Drive",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 229
         },
@@ -3533,7 +4193,10 @@
             "properties": {
                 "HydrantNumber": "186",
                 "Description": "Montane Parkway unpaved section, south side near old bus barn",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 230
         },
@@ -3549,7 +4212,10 @@
             "properties": {
                 "HydrantNumber": "183",
                 "Description": "22 Slalom Dr",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 231
         },
@@ -3565,7 +4231,10 @@
             "properties": {
                 "HydrantNumber": "203",
                 "Description": "Cedar Bowl Drive - Castle Mtn. Road Int.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 232
         },
@@ -3581,7 +4250,10 @@
             "properties": {
                 "HydrantNumber": "187",
                 "Description": "White Tail Drive Hydro R.O.W.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 233
         },
@@ -3597,7 +4269,10 @@
             "properties": {
                 "HydrantNumber": "185",
                 "Description": "Castle Mtn Whitetail Drive- Slalom Drive Intersection",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 234
         },
@@ -3613,7 +4288,10 @@
             "properties": {
                 "HydrantNumber": "184",
                 "Description": "45 Slalom Dr",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 235
         },
@@ -3629,7 +4307,10 @@
             "properties": {
                 "HydrantNumber": "182",
                 "Description": "Castle Mtn (Slalom Drive and Castle Mtn Road Int.)",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 236
         },
@@ -3645,7 +4326,10 @@
             "properties": {
                 "HydrantNumber": "103",
                 "Description": "Fernie Mobile Home Park",
-                "Storz": "Not Applicable"
+                "Storz": "Not Applicable",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 237
         },
@@ -3661,7 +4345,10 @@
             "properties": {
                 "HydrantNumber": "166",
                 "Description": "By Dicken Bus on Cokato Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 238
         },
@@ -3677,7 +4364,10 @@
             "properties": {
                 "HydrantNumber": "104",
                 "Description": "Apartments on Cokato Road",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 239
         },
@@ -3693,7 +4383,10 @@
             "properties": {
                 "HydrantNumber": "278",
                 "Description": "Mt. Fernie Park Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 240
         },
@@ -3709,7 +4402,10 @@
             "properties": {
                 "HydrantNumber": "264",
                 "Description": "Pinnacle Ridge (45 Rivermount Place)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 241
         },
@@ -3725,7 +4421,10 @@
             "properties": {
                 "HydrantNumber": "265",
                 "Description": "Pinnacle Ridge (50 Rivermount Place)",
-                "Storz": "UNKN"
+                "Storz": "UNKN",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 242
         },
@@ -3741,7 +4440,10 @@
             "properties": {
                 "HydrantNumber": "208",
                 "Description": "1000 Riverside Way",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 243
         },
@@ -3757,7 +4459,10 @@
             "properties": {
                 "HydrantNumber": "256",
                 "Description": "Pinnacle Ridge - Chalets",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 244
         },
@@ -3773,7 +4478,10 @@
             "properties": {
                 "HydrantNumber": "257",
                 "Description": "Pinnacle Ridge - Chalets",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 245
         },
@@ -3789,7 +4497,10 @@
             "properties": {
                 "HydrantNumber": "292",
                 "Description": "Rivermount Place - 1200",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 246
         },
@@ -3805,7 +4516,10 @@
             "properties": {
                 "HydrantNumber": "241",
                 "Description": "Pinnacle Ridge - Rivermount Place",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 247
         },
@@ -3821,7 +4535,10 @@
             "properties": {
                 "HydrantNumber": "217",
                 "Description": "Rivermount Place",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 248
         },
@@ -3837,7 +4554,10 @@
             "properties": {
                 "HydrantNumber": "214",
                 "Description": "Riverside North Condo Site #225",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 249
         },
@@ -3853,7 +4573,10 @@
             "properties": {
                 "HydrantNumber": "215",
                 "Description": "Riverside North Condo Site # 255",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 250
         },
@@ -3869,7 +4592,10 @@
             "properties": {
                 "HydrantNumber": "216",
                 "Description": "Riverside North Condo Site #275",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 251
         },
@@ -3885,7 +4611,10 @@
             "properties": {
                 "HydrantNumber": "211",
                 "Description": "Riverside Way - North of Lift Station",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 252
         },
@@ -3901,7 +4630,10 @@
             "properties": {
                 "HydrantNumber": "210",
                 "Description": "Riverside Way- Miners Village",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 253
         },
@@ -3917,7 +4649,10 @@
             "properties": {
                 "HydrantNumber": "209",
                 "Description": "Riverside Way - Riverside Place Int.",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 254
         },
@@ -3933,7 +4668,10 @@
             "properties": {
                 "HydrantNumber": "207",
                 "Description": "Riverside Way and Highway #3",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 255
         },
@@ -3949,7 +4687,10 @@
             "properties": {
                 "HydrantNumber": "213",
                 "Description": "Riverside Mtn. Lodge - NorthEast",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 256
         },
@@ -3965,7 +4706,10 @@
             "properties": {
                 "HydrantNumber": "212",
                 "Description": "Riverside Mtn. Lodge - SouthWest",
-                "Storz": "No"
+                "Storz": "No",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 257
         },
@@ -3981,7 +4725,10 @@
             "properties": {
                 "HydrantNumber": "180",
                 "Description": "398 Canyon Tr",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 258
         },
@@ -3997,7 +4744,10 @@
             "properties": {
                 "HydrantNumber": "260",
                 "Description": "Canyon Peaks Court - East Entrance",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 259
         },
@@ -4013,7 +4763,10 @@
             "properties": {
                 "HydrantNumber": "262",
                 "Description": "6th Avenue and 9th Street, NW Corner",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 260
         },
@@ -4029,7 +4782,10 @@
             "properties": {
                 "HydrantNumber": "293",
                 "Description": "Parking Lot at new homehardware",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 261
         },
@@ -4045,7 +4801,10 @@
             "properties": {
                 "HydrantNumber": "295",
                 "Description": "across the street from #2 Sunniva Drive",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 262
         },
@@ -4061,7 +4820,10 @@
             "properties": {
                 "HydrantNumber": "294",
                 "Description": "11 Sunniva Drive",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 263
         },
@@ -4077,7 +4839,10 @@
             "properties": {
                 "HydrantNumber": "296",
                 "Description": "15th Street at Best Western",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 264
         },
@@ -4093,7 +4858,10 @@
             "properties": {
                 "HydrantNumber": "297",
                 "Description": "Shadow Road & Kutenai Rd",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 265
         },
@@ -4109,7 +4877,10 @@
             "properties": {
                 "HydrantNumber": "298",
                 "Description": "At intersection of Nordic Blvd and #1 Sunset Lane",
-                "Storz": "No - Deficiency"
+                "Storz": "No - Deficiency",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 266
         },
@@ -4125,7 +4896,10 @@
             "properties": {
                 "HydrantNumber": "299",
                 "Description": "#1 Single Track Way",
-                "Storz": "No - Deficiency"
+                "Storz": "No - Deficiency",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 267
         },
@@ -4141,7 +4915,10 @@
             "properties": {
                 "HydrantNumber": "300",
                 "Description": "#9 Single Track Way",
-                "Storz": "No - Deficiency"
+                "Storz": "No - Deficiency",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 268
         },
@@ -4157,7 +4934,10 @@
             "properties": {
                 "HydrantNumber": "301",
                 "Description": "104 Burma Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 269
         },
@@ -4173,7 +4953,10 @@
             "properties": {
                 "HydrantNumber": "302",
                 "Description": "1120 Colclough Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 270
         },
@@ -4189,7 +4972,10 @@
             "properties": {
                 "HydrantNumber": "304",
                 "Description": "989 Riverside Drive",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 272
         },
@@ -4205,7 +4991,10 @@
             "properties": {
                 "HydrantNumber": "305",
                 "Description": "144 Wilson Street",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 273
         },
@@ -4221,7 +5010,10 @@
             "properties": {
                 "HydrantNumber": "307",
                 "Description": "1069 McLeod Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 275
         },
@@ -4237,7 +5029,10 @@
             "properties": {
                 "HydrantNumber": "308",
                 "Description": "Eckersley Street and McDonald Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 276
         },
@@ -4253,7 +5048,10 @@
             "properties": {
                 "HydrantNumber": "309",
                 "Description": "1319 McDonald Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 277
         },
@@ -4269,7 +5067,10 @@
             "properties": {
                 "HydrantNumber": "310",
                 "Description": "23 Piedmont Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 278
         },
@@ -4285,7 +5086,10 @@
             "properties": {
                 "HydrantNumber": "311",
                 "Description": "23 Sunniva Drive",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 279
         },
@@ -4301,7 +5105,10 @@
             "properties": {
                 "HydrantNumber": "312",
                 "Description": "Northside of Piedmont Drive, at #9.",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 280
         },
@@ -4317,7 +5124,10 @@
             "properties": {
                 "HydrantNumber": "317",
                 "Description": "Entrance to Fernie RV Park off 6th Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 281
         },
@@ -4333,7 +5143,10 @@
             "properties": {
                 "HydrantNumber": "322",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 282
         },
@@ -4349,7 +5162,10 @@
             "properties": {
                 "HydrantNumber": "323",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 283
         },
@@ -4365,7 +5181,10 @@
             "properties": {
                 "HydrantNumber": "324",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 284
         },
@@ -4381,7 +5200,10 @@
             "properties": {
                 "HydrantNumber": "325",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 285
         },
@@ -4397,7 +5219,10 @@
             "properties": {
                 "HydrantNumber": "326",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 286
         },
@@ -4413,7 +5238,10 @@
             "properties": {
                 "HydrantNumber": "327",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 287
         },
@@ -4429,7 +5257,10 @@
             "properties": {
                 "HydrantNumber": "328",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 288
         },
@@ -4445,7 +5276,10 @@
             "properties": {
                 "HydrantNumber": "329",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 289
         },
@@ -4461,7 +5295,10 @@
             "properties": {
                 "HydrantNumber": "330",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 290
         },
@@ -4477,7 +5314,10 @@
             "properties": {
                 "HydrantNumber": "331",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 291
         },
@@ -4493,7 +5333,10 @@
             "properties": {
                 "HydrantNumber": "332",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 292
         },
@@ -4509,7 +5352,10 @@
             "properties": {
                 "HydrantNumber": "333",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 293
         },
@@ -4525,7 +5371,10 @@
             "properties": {
                 "HydrantNumber": "334",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 294
         },
@@ -4541,7 +5390,10 @@
             "properties": {
                 "HydrantNumber": "335",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 295
         },
@@ -4557,7 +5409,10 @@
             "properties": {
                 "HydrantNumber": "336",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 296
         },
@@ -4573,7 +5428,10 @@
             "properties": {
                 "HydrantNumber": "337",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 297
         },
@@ -4589,7 +5447,10 @@
             "properties": {
                 "HydrantNumber": "338",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 298
         },
@@ -4605,7 +5466,10 @@
             "properties": {
                 "HydrantNumber": "339",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 299
         },
@@ -4621,7 +5485,10 @@
             "properties": {
                 "HydrantNumber": "340",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 300
         },
@@ -4637,7 +5504,10 @@
             "properties": {
                 "HydrantNumber": "341",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 301
         },
@@ -4653,7 +5523,10 @@
             "properties": {
                 "HydrantNumber": "314",
                 "Description": "1290 McLeod Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 303
         },
@@ -4669,7 +5542,10 @@
             "properties": {
                 "HydrantNumber": "318",
                 "Description": "1492 Railway Ave (Yards)",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 306
         },
@@ -4685,7 +5561,10 @@
             "properties": {
                 "HydrantNumber": "319",
                 "Description": "15th Street Lane and 16th Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 307
         },
@@ -4701,7 +5580,10 @@
             "properties": {
                 "HydrantNumber": "320",
                 "Description": "2nd Avenue and 16th Street",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 308
         },
@@ -4717,7 +5599,10 @@
             "properties": {
                 "HydrantNumber": "321",
                 "Description": "2nd Avenue and 15th Street",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 309
         },
@@ -4733,7 +5618,10 @@
             "properties": {
                 "HydrantNumber": "377",
                 "Description": "112 Burma Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 310
         },
@@ -4749,7 +5637,10 @@
             "properties": {
                 "HydrantNumber": "343",
                 "Description": "1410 McDonald Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 311
         },
@@ -4765,7 +5656,10 @@
             "properties": {
                 "HydrantNumber": "348",
                 "Description": "1221 McLeod Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 312
         },
@@ -4781,7 +5675,10 @@
             "properties": {
                 "HydrantNumber": "349",
                 "Description": "1050 Hand Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 313
         },
@@ -4797,7 +5694,10 @@
             "properties": {
                 "HydrantNumber": "342",
                 "Description": "1689 McDonald Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 314
         },
@@ -4813,7 +5713,10 @@
             "properties": {
                 "HydrantNumber": "345",
                 "Description": "1624 McLeod Avenue",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 315
         },
@@ -4829,7 +5732,10 @@
             "properties": {
                 "HydrantNumber": "344",
                 "Description": "1703 McLeod Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 316
         },
@@ -4845,7 +5751,10 @@
             "properties": {
                 "HydrantNumber": "346",
                 "Description": "1410 Hand Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 317
         },
@@ -4861,7 +5770,10 @@
             "properties": {
                 "HydrantNumber": "347",
                 "Description": "1369 Hand Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 318
         },
@@ -4877,7 +5789,10 @@
             "properties": {
                 "HydrantNumber": "350",
                 "Description": "1381 Colclough Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 319
         },
@@ -4893,7 +5808,10 @@
             "properties": {
                 "HydrantNumber": "351",
                 "Description": "1170 Beach Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 320
         },
@@ -4909,7 +5827,10 @@
             "properties": {
                 "HydrantNumber": "354",
                 "Description": "311 Stewart Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 321
         },
@@ -4925,7 +5846,10 @@
             "properties": {
                 "HydrantNumber": "352",
                 "Description": "Hoath Street",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 322
         },
@@ -4941,7 +5865,10 @@
             "properties": {
                 "HydrantNumber": "353",
                 "Description": "315 Burma Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 323
         },
@@ -4957,7 +5884,10 @@
             "properties": {
                 "HydrantNumber": "355",
                 "Description": "1540 Stewart Avenue",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 324
         },
@@ -4973,7 +5903,10 @@
             "properties": {
                 "HydrantNumber": "356",
                 "Description": "Burma Rd and Stewart Ave",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 325
         },
@@ -4989,7 +5922,10 @@
             "properties": {
                 "HydrantNumber": "357",
                 "Description": "326 Riverside Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 326
         },
@@ -5005,7 +5941,10 @@
             "properties": {
                 "HydrantNumber": "358",
                 "Description": "End of Yirri Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 327
         },
@@ -5021,7 +5960,10 @@
             "properties": {
                 "HydrantNumber": "359",
                 "Description": "42 Piedmont Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 328
         },
@@ -5037,7 +5979,10 @@
             "properties": {
                 "HydrantNumber": "360",
                 "Description": "28 Sunniva Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 329
         },
@@ -5053,7 +5998,10 @@
             "properties": {
                 "HydrantNumber": "361",
                 "Description": "4 Mammoth Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 330
         },
@@ -5069,7 +6017,10 @@
             "properties": {
                 "HydrantNumber": "363",
                 "Description": "7 Mammoth Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 331
         },
@@ -5085,7 +6036,10 @@
             "properties": {
                 "HydrantNumber": "364",
                 "Description": "Mammoth Drive",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 332
         },
@@ -5101,7 +6055,10 @@
             "properties": {
                 "HydrantNumber": "362",
                 "Description": "2 Oliveriie Cres",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 333
         },
@@ -5117,7 +6074,10 @@
             "properties": {
                 "HydrantNumber": "365",
                 "Description": "118 Burma Road",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 334
         },
@@ -5133,7 +6093,10 @@
             "properties": {
                 "HydrantNumber": "366",
                 "Description": "BC Hydro Substation",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 335
         },
@@ -5149,7 +6112,10 @@
             "properties": {
                 "HydrantNumber": "367",
                 "Description": "BC Hydro Substation - Ground Hydrant for Irrigation",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 336
         },
@@ -5165,7 +6131,10 @@
             "properties": {
                 "HydrantNumber": "368",
                 "Description": "BC Hydro Substation",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 337
         },
@@ -5181,7 +6150,10 @@
             "properties": {
                 "HydrantNumber": "369",
                 "Description": "Mill St & Macdonald Ave",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 338
         },
@@ -5197,7 +6169,10 @@
             "properties": {
                 "HydrantNumber": "371",
                 "Description": "9 corner Pocket Place",
-                "Storz": "Yes"
+                "Storz": "Yes",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 339
         },
@@ -5213,7 +6188,10 @@
             "properties": {
                 "HydrantNumber": "372",
                 "Description": "124 Burma Road",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 340
         },
@@ -5229,7 +6207,10 @@
             "properties": {
                 "HydrantNumber": "373",
                 "Description": "127 Burma Road",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 341
         },
@@ -5245,7 +6226,10 @@
             "properties": {
                 "HydrantNumber": "374",
                 "Description": "21 Morrissey Court",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 342
         },
@@ -5261,7 +6245,10 @@
             "properties": {
                 "HydrantNumber": "375",
                 "Description": "19 Morrissey Court",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 343
         },
@@ -5277,7 +6264,10 @@
             "properties": {
                 "HydrantNumber": "376",
                 "Description": "15 Morrissey Court",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 344
         },
@@ -5293,7 +6283,10 @@
             "properties": {
                 "HydrantNumber": "378",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 345
         },
@@ -5309,7 +6302,10 @@
             "properties": {
                 "HydrantNumber": "379",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 346
         },
@@ -5325,7 +6321,10 @@
             "properties": {
                 "HydrantNumber": "380",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 347
         },
@@ -5341,7 +6340,10 @@
             "properties": {
                 "HydrantNumber": "381",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 348
         },
@@ -5357,7 +6359,10 @@
             "properties": {
                 "HydrantNumber": "382",
                 "Description": "Fernie Alpine Resort",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 349
         },
@@ -5373,7 +6378,10 @@
             "properties": {
                 "HydrantNumber": "0",
                 "Description": "",
-                "Storz": ""
+                "Storz": "",
+                "marker-color": "#ed3102",
+                "marker-size": "medium",
+                "marker-symbol": "fire-station"
             },
             "id": 350
         }
